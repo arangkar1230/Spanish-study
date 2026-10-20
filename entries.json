@@ -3,28 +3,1741 @@
     {
       "date": "2026-10-20",
       "words": [
-        {"es": "el desayuno", "en": "breakfast"},
-        {"es": "la reunión", "en": "meeting"},
-        {"es": "el viaje", "en": "trip"},
-        {"es": "aprender", "en": "to learn"},
-        {"es": "entender", "en": "to understand"},
-        {"es": "necesitar", "en": "to need"},
-        {"es": "todavía", "en": "still / yet"},
-        {"es": "siempre", "en": "always"},
-        {"es": "la cuenta", "en": "the bill / account"},
-        {"es": "cerca de", "en": "near"}
+        {
+          "es": "el desayuno",
+          "en": "breakfast"
+        },
+        {
+          "es": "la reunión",
+          "en": "meeting"
+        },
+        {
+          "es": "el viaje",
+          "en": "trip"
+        },
+        {
+          "es": "aprender",
+          "en": "to learn"
+        },
+        {
+          "es": "entender",
+          "en": "to understand"
+        },
+        {
+          "es": "necesitar",
+          "en": "to need"
+        },
+        {
+          "es": "todavía",
+          "en": "still / yet"
+        },
+        {
+          "es": "siempre",
+          "en": "always"
+        },
+        {
+          "es": "la cuenta",
+          "en": "the bill / account"
+        },
+        {
+          "es": "cerca de",
+          "en": "near"
+        }
       ],
       "sentences": [
-        {"es": "¿Puede repetirlo, por favor?", "en": "Could you repeat that, please?"},
-        {"es": "No entiendo muy bien.", "en": "I don't understand very well."},
-        {"es": "¿Cómo se dice … en español?", "en": "How do you say … in Spanish?"},
-        {"es": "Estoy aprendiendo español.", "en": "I'm learning Spanish."},
-        {"es": "¿Dónde está la estación?", "en": "Where is the station?"},
-        {"es": "La cuenta, por favor.", "en": "The bill, please."},
-        {"es": "Necesito un poco más de tiempo.", "en": "I need a little more time."},
-        {"es": "¿A qué hora empieza la reunión?", "en": "What time does the meeting start?"},
-        {"es": "Todavía no he desayunado.", "en": "I haven't had breakfast yet."},
-        {"es": "¡Que tengas un buen día!", "en": "Have a nice day!"}
+        {
+          "es": "¿Puede repetirlo, por favor?",
+          "en": "Could you repeat that, please?"
+        },
+        {
+          "es": "No entiendo muy bien.",
+          "en": "I don't understand very well."
+        },
+        {
+          "es": "¿Cómo se dice … en español?",
+          "en": "How do you say … in Spanish?"
+        },
+        {
+          "es": "Estoy aprendiendo español.",
+          "en": "I'm learning Spanish."
+        },
+        {
+          "es": "¿Dónde está la estación?",
+          "en": "Where is the station?"
+        },
+        {
+          "es": "La cuenta, por favor.",
+          "en": "The bill, please."
+        },
+        {
+          "es": "Necesito un poco más de tiempo.",
+          "en": "I need a little more time."
+        },
+        {
+          "es": "¿A qué hora empieza la reunión?",
+          "en": "What time does the meeting start?"
+        },
+        {
+          "es": "Todavía no he desayunado.",
+          "en": "I haven't had breakfast yet."
+        },
+        {
+          "es": "¡Que tengas un buen día!",
+          "en": "Have a nice day!"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-19",
+      "words": [
+        {
+          "es": "el ordenador",
+          "en": "computer"
+        },
+        {
+          "es": "la aplicación",
+          "en": "app"
+        },
+        {
+          "es": "la contraseña",
+          "en": "password"
+        },
+        {
+          "es": "la red",
+          "en": "network"
+        },
+        {
+          "es": "el archivo",
+          "en": "file"
+        },
+        {
+          "es": "descargar",
+          "en": "to download"
+        },
+        {
+          "es": "enviar",
+          "en": "to send"
+        },
+        {
+          "es": "actualizar",
+          "en": "to update"
+        },
+        {
+          "es": "la nube",
+          "en": "cloud"
+        },
+        {
+          "es": "los datos",
+          "en": "data"
+        }
+      ],
+      "sentences": [
+        {
+          "es": "Se me olvidó la contraseña.",
+          "en": "I forgot my password."
+        },
+        {
+          "es": "¿Cuál es la contraseña del wifi?",
+          "en": "What's the wifi password?"
+        },
+        {
+          "es": "Te envío el archivo ahora.",
+          "en": "I'll send you the file now."
+        },
+        {
+          "es": "Tengo que actualizar la aplicación.",
+          "en": "I have to update the app."
+        },
+        {
+          "es": "No hay conexión a internet.",
+          "en": "There's no internet connection."
+        },
+        {
+          "es": "Mi ordenador es muy lento.",
+          "en": "My computer is very slow."
+        },
+        {
+          "es": "Lo guardé en la nube.",
+          "en": "I saved it in the cloud."
+        },
+        {
+          "es": "¿Puedes descargar este documento?",
+          "en": "Can you download this document?"
+        },
+        {
+          "es": "La batería del móvil está baja.",
+          "en": "My phone battery is low."
+        },
+        {
+          "es": "Reinicia el ordenador.",
+          "en": "Restart the computer."
+        }
+      ]
+    },
+    {
+      "date": "2026-10-18",
+      "words": [
+        {
+          "es": "el coche",
+          "en": "car"
+        },
+        {
+          "es": "conducir",
+          "en": "to drive"
+        },
+        {
+          "es": "la pantalla",
+          "en": "screen"
+        },
+        {
+          "es": "el volante",
+          "en": "steering wheel"
+        },
+        {
+          "es": "el motor",
+          "en": "engine"
+        },
+        {
+          "es": "la batería",
+          "en": "battery"
+        },
+        {
+          "es": "el conductor",
+          "en": "driver"
+        },
+        {
+          "es": "seguro",
+          "en": "safe"
+        },
+        {
+          "es": "eléctrico",
+          "en": "electric"
+        },
+        {
+          "es": "la carretera",
+          "en": "road / highway"
+        }
+      ],
+      "sentences": [
+        {
+          "es": "Conduzco al trabajo todos los días.",
+          "en": "I drive to work every day."
+        },
+        {
+          "es": "Este coche es eléctrico.",
+          "en": "This car is electric."
+        },
+        {
+          "es": "La pantalla es muy grande.",
+          "en": "The screen is very big."
+        },
+        {
+          "es": "Hay mucho tráfico en la carretera.",
+          "en": "There's a lot of traffic on the road."
+        },
+        {
+          "es": "¿Dónde puedo cargar la batería?",
+          "en": "Where can I charge the battery?"
+        },
+        {
+          "es": "Abróchate el cinturón.",
+          "en": "Fasten your seatbelt."
+        },
+        {
+          "es": "El coche nuevo tiene navegación.",
+          "en": "The new car has navigation."
+        },
+        {
+          "es": "Es importante conducir con cuidado.",
+          "en": "It's important to drive carefully."
+        },
+        {
+          "es": "Necesito gasolina.",
+          "en": "I need gas."
+        },
+        {
+          "es": "¿Quién conduce hoy?",
+          "en": "Who is driving today?"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-17",
+      "words": [
+        {
+          "es": "la empresa",
+          "en": "company"
+        },
+        {
+          "es": "el cliente",
+          "en": "client / customer"
+        },
+        {
+          "es": "la propuesta",
+          "en": "proposal"
+        },
+        {
+          "es": "el contrato",
+          "en": "contract"
+        },
+        {
+          "es": "el presupuesto",
+          "en": "budget / quote"
+        },
+        {
+          "es": "la venta",
+          "en": "sale"
+        },
+        {
+          "es": "el producto",
+          "en": "product"
+        },
+        {
+          "es": "acordar",
+          "en": "to agree"
+        },
+        {
+          "es": "la agenda",
+          "en": "agenda"
+        },
+        {
+          "es": "el socio",
+          "en": "partner"
+        }
+      ],
+      "sentences": [
+        {
+          "es": "Gracias por su tiempo.",
+          "en": "Thank you for your time."
+        },
+        {
+          "es": "Le presento nuestra propuesta.",
+          "en": "Let me present our proposal."
+        },
+        {
+          "es": "¿Tiene alguna pregunta?",
+          "en": "Do you have any questions?"
+        },
+        {
+          "es": "Le envío el presupuesto mañana.",
+          "en": "I'll send you the quote tomorrow."
+        },
+        {
+          "es": "Estamos de acuerdo.",
+          "en": "We agree."
+        },
+        {
+          "es": "¿Podemos revisar el contrato?",
+          "en": "Can we review the contract?"
+        },
+        {
+          "es": "Nuestro producto es muy competitivo.",
+          "en": "Our product is very competitive."
+        },
+        {
+          "es": "¿Cuáles son los próximos pasos?",
+          "en": "What are the next steps?"
+        },
+        {
+          "es": "Es un placer trabajar con ustedes.",
+          "en": "It's a pleasure to work with you."
+        },
+        {
+          "es": "Quedo a la espera de su respuesta.",
+          "en": "I look forward to your reply."
+        }
+      ]
+    },
+    {
+      "date": "2026-10-16",
+      "words": [
+        {
+          "es": "el teléfono",
+          "en": "telephone"
+        },
+        {
+          "es": "el móvil",
+          "en": "mobile phone"
+        },
+        {
+          "es": "el mensaje",
+          "en": "message"
+        },
+        {
+          "es": "la cita",
+          "en": "appointment"
+        },
+        {
+          "es": "llamar",
+          "en": "to call"
+        },
+        {
+          "es": "esperar",
+          "en": "to wait"
+        },
+        {
+          "es": "quedar",
+          "en": "to meet up"
+        },
+        {
+          "es": "cancelar",
+          "en": "to cancel"
+        },
+        {
+          "es": "disponible",
+          "en": "available"
+        },
+        {
+          "es": "pronto",
+          "en": "soon"
+        }
+      ],
+      "sentences": [
+        {
+          "es": "¿Puedo hablar con el señor García?",
+          "en": "May I speak with Mr. García?"
+        },
+        {
+          "es": "Te llamo más tarde.",
+          "en": "I'll call you later."
+        },
+        {
+          "es": "¿Quedamos el viernes?",
+          "en": "Shall we meet on Friday?"
+        },
+        {
+          "es": "Lo siento, tengo que cancelar.",
+          "en": "Sorry, I have to cancel."
+        },
+        {
+          "es": "¿Estás libre mañana por la tarde?",
+          "en": "Are you free tomorrow afternoon?"
+        },
+        {
+          "es": "Te mando un mensaje.",
+          "en": "I'll send you a message."
+        },
+        {
+          "es": "Espera un momento, por favor.",
+          "en": "Wait a moment, please."
+        },
+        {
+          "es": "No te oigo bien.",
+          "en": "I can't hear you well."
+        },
+        {
+          "es": "¿Me puedes dar tu número?",
+          "en": "Can you give me your number?"
+        },
+        {
+          "es": "Hasta pronto.",
+          "en": "See you soon."
+        }
+      ]
+    },
+    {
+      "date": "2026-10-15",
+      "words": [
+        {
+          "es": "las vacaciones",
+          "en": "vacation"
+        },
+        {
+          "es": "la maleta",
+          "en": "suitcase"
+        },
+        {
+          "es": "el pasaporte",
+          "en": "passport"
+        },
+        {
+          "es": "la playa",
+          "en": "beach"
+        },
+        {
+          "es": "la montaña",
+          "en": "mountain"
+        },
+        {
+          "es": "reservar",
+          "en": "to book / reserve"
+        },
+        {
+          "es": "visitar",
+          "en": "to visit"
+        },
+        {
+          "es": "el vuelo",
+          "en": "flight"
+        },
+        {
+          "es": "el turista",
+          "en": "tourist"
+        },
+        {
+          "es": "la foto",
+          "en": "photo"
+        }
+      ],
+      "sentences": [
+        {
+          "es": "Este verano voy a Barcelona.",
+          "en": "This summer I'm going to Barcelona."
+        },
+        {
+          "es": "Ya reservé el vuelo.",
+          "en": "I already booked the flight."
+        },
+        {
+          "es": "No olvides el pasaporte.",
+          "en": "Don't forget your passport."
+        },
+        {
+          "es": "¿Qué lugares me recomiendas visitar?",
+          "en": "What places do you recommend I visit?"
+        },
+        {
+          "es": "Prefiero la playa a la montaña.",
+          "en": "I prefer the beach to the mountains."
+        },
+        {
+          "es": "¿Me puede sacar una foto?",
+          "en": "Can you take a photo of me?"
+        },
+        {
+          "es": "Estoy de vacaciones.",
+          "en": "I'm on vacation."
+        },
+        {
+          "es": "Mi maleta es muy pesada.",
+          "en": "My suitcase is very heavy."
+        },
+        {
+          "es": "Quiero conocer la ciudad.",
+          "en": "I want to get to know the city."
+        },
+        {
+          "es": "¿Necesito visado?",
+          "en": "Do I need a visa?"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-14",
+      "words": [
+        {
+          "es": "feliz",
+          "en": "happy"
+        },
+        {
+          "es": "triste",
+          "en": "sad"
+        },
+        {
+          "es": "cansado",
+          "en": "tired"
+        },
+        {
+          "es": "nervioso",
+          "en": "nervous"
+        },
+        {
+          "es": "contento",
+          "en": "glad / pleased"
+        },
+        {
+          "es": "enfadado",
+          "en": "angry"
+        },
+        {
+          "es": "preocupado",
+          "en": "worried"
+        },
+        {
+          "es": "aburrido",
+          "en": "bored"
+        },
+        {
+          "es": "sorprendido",
+          "en": "surprised"
+        },
+        {
+          "es": "tranquilo",
+          "en": "calm"
+        }
+      ],
+      "sentences": [
+        {
+          "es": "Estoy muy contenta hoy.",
+          "en": "I'm very happy today. (said by a woman)"
+        },
+        {
+          "es": "Estoy un poco cansada.",
+          "en": "I'm a bit tired. (said by a woman)"
+        },
+        {
+          "es": "No te preocupes.",
+          "en": "Don't worry."
+        },
+        {
+          "es": "¡Qué sorpresa!",
+          "en": "What a surprise!"
+        },
+        {
+          "es": "Estoy nerviosa por la entrevista.",
+          "en": "I'm nervous about the interview. (said by a woman)"
+        },
+        {
+          "es": "¿Por qué estás triste?",
+          "en": "Why are you sad?"
+        },
+        {
+          "es": "Tranquilo, todo va a salir bien.",
+          "en": "Relax, everything will be fine."
+        },
+        {
+          "es": "Me alegro mucho por ti.",
+          "en": "I'm very happy for you."
+        },
+        {
+          "es": "Qué aburrido.",
+          "en": "How boring."
+        },
+        {
+          "es": "Lo siento mucho.",
+          "en": "I'm very sorry."
+        }
+      ]
+    },
+    {
+      "date": "2026-10-13",
+      "words": [
+        {
+          "es": "la calle",
+          "en": "street"
+        },
+        {
+          "es": "la plaza",
+          "en": "square"
+        },
+        {
+          "es": "el mapa",
+          "en": "map"
+        },
+        {
+          "es": "la izquierda",
+          "en": "left"
+        },
+        {
+          "es": "la derecha",
+          "en": "right"
+        },
+        {
+          "es": "recto",
+          "en": "straight ahead"
+        },
+        {
+          "es": "la esquina",
+          "en": "corner"
+        },
+        {
+          "es": "lejos",
+          "en": "far"
+        },
+        {
+          "es": "el centro",
+          "en": "downtown / center"
+        },
+        {
+          "es": "perdido",
+          "en": "lost"
+        }
+      ],
+      "sentences": [
+        {
+          "es": "Perdone, ¿dónde está la plaza mayor?",
+          "en": "Excuse me, where is the main square?"
+        },
+        {
+          "es": "Gire a la izquierda.",
+          "en": "Turn left."
+        },
+        {
+          "es": "Siga todo recto.",
+          "en": "Go straight ahead."
+        },
+        {
+          "es": "Está a la derecha.",
+          "en": "It's on the right."
+        },
+        {
+          "es": "¿Está lejos de aquí?",
+          "en": "Is it far from here?"
+        },
+        {
+          "es": "Está a cinco minutos a pie.",
+          "en": "It's five minutes on foot."
+        },
+        {
+          "es": "Creo que estoy perdida.",
+          "en": "I think I'm lost. (said by a woman)"
+        },
+        {
+          "es": "¿Me lo puede mostrar en el mapa?",
+          "en": "Can you show me on the map?"
+        },
+        {
+          "es": "Está en la esquina.",
+          "en": "It's on the corner."
+        },
+        {
+          "es": "Cruce la calle.",
+          "en": "Cross the street."
+        }
+      ]
+    },
+    {
+      "date": "2026-10-12",
+      "words": [
+        {
+          "es": "el libro",
+          "en": "book"
+        },
+        {
+          "es": "la película",
+          "en": "movie"
+        },
+        {
+          "es": "la música",
+          "en": "music"
+        },
+        {
+          "es": "el deporte",
+          "en": "sport"
+        },
+        {
+          "es": "correr",
+          "en": "to run"
+        },
+        {
+          "es": "leer",
+          "en": "to read"
+        },
+        {
+          "es": "bailar",
+          "en": "to dance"
+        },
+        {
+          "es": "el museo",
+          "en": "museum"
+        },
+        {
+          "es": "el fin de semana",
+          "en": "weekend"
+        },
+        {
+          "es": "el tiempo libre",
+          "en": "free time"
+        }
+      ],
+      "sentences": [
+        {
+          "es": "¿Qué haces en tu tiempo libre?",
+          "en": "What do you do in your free time?"
+        },
+        {
+          "es": "Me gusta leer.",
+          "en": "I like reading."
+        },
+        {
+          "es": "Me encanta el arte.",
+          "en": "I love art."
+        },
+        {
+          "es": "Corro por el parque los domingos.",
+          "en": "I run in the park on Sundays."
+        },
+        {
+          "es": "¿Quieres ver una película?",
+          "en": "Do you want to watch a movie?"
+        },
+        {
+          "es": "Vamos al museo este sábado.",
+          "en": "Let's go to the museum this Saturday."
+        },
+        {
+          "es": "No sé bailar.",
+          "en": "I don't know how to dance."
+        },
+        {
+          "es": "¿Qué música te gusta?",
+          "en": "What music do you like?"
+        },
+        {
+          "es": "Juego al tenis con amigos.",
+          "en": "I play tennis with friends."
+        },
+        {
+          "es": "Este libro es muy interesante.",
+          "en": "This book is very interesting."
+        }
+      ]
+    },
+    {
+      "date": "2026-10-11",
+      "words": [
+        {
+          "es": "la cabeza",
+          "en": "head"
+        },
+        {
+          "es": "el estómago",
+          "en": "stomach"
+        },
+        {
+          "es": "la espalda",
+          "en": "back"
+        },
+        {
+          "es": "el médico",
+          "en": "doctor"
+        },
+        {
+          "es": "la farmacia",
+          "en": "pharmacy"
+        },
+        {
+          "es": "enfermo",
+          "en": "sick"
+        },
+        {
+          "es": "el dolor",
+          "en": "pain"
+        },
+        {
+          "es": "la fiebre",
+          "en": "fever"
+        },
+        {
+          "es": "descansar",
+          "en": "to rest"
+        },
+        {
+          "es": "el hospital",
+          "en": "hospital"
+        }
+      ],
+      "sentences": [
+        {
+          "es": "Me duele la cabeza.",
+          "en": "I have a headache."
+        },
+        {
+          "es": "No me siento bien.",
+          "en": "I don't feel well."
+        },
+        {
+          "es": "Necesito ver a un médico.",
+          "en": "I need to see a doctor."
+        },
+        {
+          "es": "¿Dónde hay una farmacia?",
+          "en": "Where is there a pharmacy?"
+        },
+        {
+          "es": "Tengo fiebre.",
+          "en": "I have a fever."
+        },
+        {
+          "es": "Tienes que descansar.",
+          "en": "You need to rest."
+        },
+        {
+          "es": "Me duele la espalda.",
+          "en": "My back hurts."
+        },
+        {
+          "es": "¡Que te mejores!",
+          "en": "Get well soon!"
+        },
+        {
+          "es": "Estoy resfriada.",
+          "en": "I have a cold. (said by a woman)"
+        },
+        {
+          "es": "Llame a una ambulancia.",
+          "en": "Call an ambulance."
+        }
+      ]
+    },
+    {
+      "date": "2026-10-10",
+      "words": [
+        {
+          "es": "la casa",
+          "en": "house / home"
+        },
+        {
+          "es": "el piso",
+          "en": "apartment / floor"
+        },
+        {
+          "es": "la cocina",
+          "en": "kitchen"
+        },
+        {
+          "es": "el baño",
+          "en": "bathroom"
+        },
+        {
+          "es": "el dormitorio",
+          "en": "bedroom"
+        },
+        {
+          "es": "la ventana",
+          "en": "window"
+        },
+        {
+          "es": "la puerta",
+          "en": "door"
+        },
+        {
+          "es": "el sofá",
+          "en": "sofa"
+        },
+        {
+          "es": "alquilar",
+          "en": "to rent"
+        },
+        {
+          "es": "el vecino",
+          "en": "neighbor"
+        }
+      ],
+      "sentences": [
+        {
+          "es": "Vivo en un piso pequeño.",
+          "en": "I live in a small apartment."
+        },
+        {
+          "es": "¿Dónde está el baño?",
+          "en": "Where is the bathroom?"
+        },
+        {
+          "es": "Cierra la ventana, por favor.",
+          "en": "Close the window, please."
+        },
+        {
+          "es": "La cocina es muy luminosa.",
+          "en": "The kitchen is very bright."
+        },
+        {
+          "es": "Quiero alquilar un piso cerca del trabajo.",
+          "en": "I want to rent an apartment near work."
+        },
+        {
+          "es": "Mi vecino es muy amable.",
+          "en": "My neighbor is very kind."
+        },
+        {
+          "es": "Estoy en casa.",
+          "en": "I'm at home."
+        },
+        {
+          "es": "La llave está en la mesa.",
+          "en": "The key is on the table."
+        },
+        {
+          "es": "Vivo en el tercer piso.",
+          "en": "I live on the third floor."
+        },
+        {
+          "es": "Bienvenido a mi casa.",
+          "en": "Welcome to my home."
+        }
+      ]
+    },
+    {
+      "date": "2026-10-09",
+      "words": [
+        {
+          "es": "el trabajo",
+          "en": "work / job"
+        },
+        {
+          "es": "la oficina",
+          "en": "office"
+        },
+        {
+          "es": "el jefe",
+          "en": "boss"
+        },
+        {
+          "es": "el compañero",
+          "en": "coworker"
+        },
+        {
+          "es": "el correo",
+          "en": "email / mail"
+        },
+        {
+          "es": "el proyecto",
+          "en": "project"
+        },
+        {
+          "es": "el plazo",
+          "en": "deadline"
+        },
+        {
+          "es": "trabajar",
+          "en": "to work"
+        },
+        {
+          "es": "ocupado",
+          "en": "busy"
+        },
+        {
+          "es": "el informe",
+          "en": "report"
+        }
+      ],
+      "sentences": [
+        {
+          "es": "Trabajo en una empresa de electrónica.",
+          "en": "I work at an electronics company."
+        },
+        {
+          "es": "Estoy muy ocupada hoy.",
+          "en": "I'm very busy today. (said by a woman)"
+        },
+        {
+          "es": "Te envío el informe por correo.",
+          "en": "I'll send you the report by email."
+        },
+        {
+          "es": "¿Cuál es el plazo?",
+          "en": "What's the deadline?"
+        },
+        {
+          "es": "Mi jefe está de viaje.",
+          "en": "My boss is on a trip."
+        },
+        {
+          "es": "Tengo mucho trabajo esta semana.",
+          "en": "I have a lot of work this week."
+        },
+        {
+          "es": "¿Podemos hablar después del almuerzo?",
+          "en": "Can we talk after lunch?"
+        },
+        {
+          "es": "Llego a la oficina a las ocho.",
+          "en": "I get to the office at eight."
+        },
+        {
+          "es": "El proyecto va bien.",
+          "en": "The project is going well."
+        },
+        {
+          "es": "Hoy trabajo desde casa.",
+          "en": "I'm working from home today."
+        }
+      ]
+    },
+    {
+      "date": "2026-10-08",
+      "words": [
+        {
+          "es": "el tiempo",
+          "en": "weather / time"
+        },
+        {
+          "es": "el sol",
+          "en": "sun"
+        },
+        {
+          "es": "la lluvia",
+          "en": "rain"
+        },
+        {
+          "es": "la nieve",
+          "en": "snow"
+        },
+        {
+          "es": "el viento",
+          "en": "wind"
+        },
+        {
+          "es": "el calor",
+          "en": "heat"
+        },
+        {
+          "es": "el frío",
+          "en": "cold"
+        },
+        {
+          "es": "nublado",
+          "en": "cloudy"
+        },
+        {
+          "es": "el paraguas",
+          "en": "umbrella"
+        },
+        {
+          "es": "la temperatura",
+          "en": "temperature"
+        }
+      ],
+      "sentences": [
+        {
+          "es": "¿Qué tiempo hace hoy?",
+          "en": "What's the weather like today?"
+        },
+        {
+          "es": "Hace mucho calor.",
+          "en": "It's very hot."
+        },
+        {
+          "es": "Hace frío esta mañana.",
+          "en": "It's cold this morning."
+        },
+        {
+          "es": "Está lloviendo.",
+          "en": "It's raining."
+        },
+        {
+          "es": "Va a nevar mañana.",
+          "en": "It's going to snow tomorrow."
+        },
+        {
+          "es": "Hace buen tiempo.",
+          "en": "The weather is nice."
+        },
+        {
+          "es": "Está nublado.",
+          "en": "It's cloudy."
+        },
+        {
+          "es": "Lleva un paraguas.",
+          "en": "Take an umbrella."
+        },
+        {
+          "es": "Hace mucho viento.",
+          "en": "It's very windy."
+        },
+        {
+          "es": "Hoy estamos a veinte grados.",
+          "en": "It's twenty degrees today."
+        }
+      ]
+    },
+    {
+      "date": "2026-10-07",
+      "words": [
+        {
+          "es": "el hotel",
+          "en": "hotel"
+        },
+        {
+          "es": "la habitación",
+          "en": "room"
+        },
+        {
+          "es": "la llave",
+          "en": "key"
+        },
+        {
+          "es": "la cama",
+          "en": "bed"
+        },
+        {
+          "es": "la ducha",
+          "en": "shower"
+        },
+        {
+          "es": "la recepción",
+          "en": "front desk"
+        },
+        {
+          "es": "la noche",
+          "en": "night"
+        },
+        {
+          "es": "libre",
+          "en": "free / available"
+        },
+        {
+          "es": "limpio",
+          "en": "clean"
+        },
+        {
+          "es": "el ascensor",
+          "en": "elevator"
+        }
+      ],
+      "sentences": [
+        {
+          "es": "Tengo una reserva a nombre de Kim.",
+          "en": "I have a reservation under the name Kim."
+        },
+        {
+          "es": "¿A qué hora es el check-out?",
+          "en": "What time is check-out?"
+        },
+        {
+          "es": "¿Está incluido el desayuno?",
+          "en": "Is breakfast included?"
+        },
+        {
+          "es": "La ducha no funciona.",
+          "en": "The shower doesn't work."
+        },
+        {
+          "es": "¿Hay wifi en la habitación?",
+          "en": "Is there wifi in the room?"
+        },
+        {
+          "es": "¿Puedo dejar mi maleta aquí?",
+          "en": "Can I leave my suitcase here?"
+        },
+        {
+          "es": "Quisiera una habitación doble.",
+          "en": "I'd like a double room."
+        },
+        {
+          "es": "¿Tienen habitaciones libres?",
+          "en": "Do you have any rooms available?"
+        },
+        {
+          "es": "Me quedo tres noches.",
+          "en": "I'm staying three nights."
+        },
+        {
+          "es": "¿Me pueden despertar a las siete?",
+          "en": "Can you wake me up at seven?"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-06",
+      "words": [
+        {
+          "es": "el tren",
+          "en": "train"
+        },
+        {
+          "es": "el autobús",
+          "en": "bus"
+        },
+        {
+          "es": "el metro",
+          "en": "subway"
+        },
+        {
+          "es": "el billete",
+          "en": "ticket"
+        },
+        {
+          "es": "el aeropuerto",
+          "en": "airport"
+        },
+        {
+          "es": "la parada",
+          "en": "stop (bus)"
+        },
+        {
+          "es": "el andén",
+          "en": "platform"
+        },
+        {
+          "es": "salir",
+          "en": "to leave / depart"
+        },
+        {
+          "es": "llegar",
+          "en": "to arrive"
+        },
+        {
+          "es": "tarde",
+          "en": "late"
+        }
+      ],
+      "sentences": [
+        {
+          "es": "¿A qué hora sale el tren?",
+          "en": "What time does the train leave?"
+        },
+        {
+          "es": "Un billete de ida y vuelta, por favor.",
+          "en": "A round-trip ticket, please."
+        },
+        {
+          "es": "¿Este autobús va al centro?",
+          "en": "Does this bus go downtown?"
+        },
+        {
+          "es": "¿Dónde está la parada de taxis?",
+          "en": "Where is the taxi stand?"
+        },
+        {
+          "es": "El vuelo llega con retraso.",
+          "en": "The flight is arriving late."
+        },
+        {
+          "es": "¿De qué andén sale?",
+          "en": "Which platform does it leave from?"
+        },
+        {
+          "es": "Tengo que cambiar de línea.",
+          "en": "I have to change lines."
+        },
+        {
+          "es": "¿Cuánto se tarda en llegar?",
+          "en": "How long does it take to get there?"
+        },
+        {
+          "es": "Lléveme al aeropuerto, por favor.",
+          "en": "Take me to the airport, please."
+        },
+        {
+          "es": "Perdí el último metro.",
+          "en": "I missed the last subway."
+        }
+      ]
+    },
+    {
+      "date": "2026-10-05",
+      "words": [
+        {
+          "es": "la tienda",
+          "en": "shop / store"
+        },
+        {
+          "es": "el precio",
+          "en": "price"
+        },
+        {
+          "es": "barato",
+          "en": "cheap"
+        },
+        {
+          "es": "caro",
+          "en": "expensive"
+        },
+        {
+          "es": "la talla",
+          "en": "size (clothing)"
+        },
+        {
+          "es": "comprar",
+          "en": "to buy"
+        },
+        {
+          "es": "pagar",
+          "en": "to pay"
+        },
+        {
+          "es": "el dinero",
+          "en": "money"
+        },
+        {
+          "es": "la ropa",
+          "en": "clothes"
+        },
+        {
+          "es": "el descuento",
+          "en": "discount"
+        }
+      ],
+      "sentences": [
+        {
+          "es": "¿Cuánto cuesta esto?",
+          "en": "How much does this cost?"
+        },
+        {
+          "es": "Es demasiado caro.",
+          "en": "It's too expensive."
+        },
+        {
+          "es": "¿Tiene una talla más grande?",
+          "en": "Do you have a bigger size?"
+        },
+        {
+          "es": "Solo estoy mirando.",
+          "en": "I'm just looking."
+        },
+        {
+          "es": "¿Puedo probármelo?",
+          "en": "Can I try it on?"
+        },
+        {
+          "es": "Me lo llevo.",
+          "en": "I'll take it."
+        },
+        {
+          "es": "¿Hay algún descuento?",
+          "en": "Is there any discount?"
+        },
+        {
+          "es": "¿Dónde está la caja?",
+          "en": "Where is the checkout?"
+        },
+        {
+          "es": "¿Me da una bolsa, por favor?",
+          "en": "Could I have a bag, please?"
+        },
+        {
+          "es": "Quiero devolver esto.",
+          "en": "I want to return this."
+        }
+      ]
+    },
+    {
+      "date": "2026-10-04",
+      "words": [
+        {
+          "es": "el restaurante",
+          "en": "restaurant"
+        },
+        {
+          "es": "la mesa",
+          "en": "table"
+        },
+        {
+          "es": "el menú",
+          "en": "menu"
+        },
+        {
+          "es": "el agua",
+          "en": "water"
+        },
+        {
+          "es": "la carne",
+          "en": "meat"
+        },
+        {
+          "es": "el pescado",
+          "en": "fish"
+        },
+        {
+          "es": "las verduras",
+          "en": "vegetables"
+        },
+        {
+          "es": "el postre",
+          "en": "dessert"
+        },
+        {
+          "es": "delicioso",
+          "en": "delicious"
+        },
+        {
+          "es": "pedir",
+          "en": "to order / to ask for"
+        }
+      ],
+      "sentences": [
+        {
+          "es": "Una mesa para dos, por favor.",
+          "en": "A table for two, please."
+        },
+        {
+          "es": "¿Qué me recomienda?",
+          "en": "What do you recommend?"
+        },
+        {
+          "es": "Quiero un vaso de agua.",
+          "en": "I'd like a glass of water."
+        },
+        {
+          "es": "Soy vegetariana.",
+          "en": "I'm vegetarian. (said by a woman)"
+        },
+        {
+          "es": "Está muy rico.",
+          "en": "It's very tasty."
+        },
+        {
+          "es": "¿Tiene algo sin carne?",
+          "en": "Do you have anything without meat?"
+        },
+        {
+          "es": "Para mí, el pescado.",
+          "en": "The fish for me."
+        },
+        {
+          "es": "¿Puedo ver el menú?",
+          "en": "Can I see the menu?"
+        },
+        {
+          "es": "No como cerdo.",
+          "en": "I don't eat pork."
+        },
+        {
+          "es": "¿Se puede pagar con tarjeta?",
+          "en": "Can I pay by card?"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-03",
+      "words": [
+        {
+          "es": "la familia",
+          "en": "family"
+        },
+        {
+          "es": "la madre",
+          "en": "mother"
+        },
+        {
+          "es": "el padre",
+          "en": "father"
+        },
+        {
+          "es": "el hermano",
+          "en": "brother"
+        },
+        {
+          "es": "la hermana",
+          "en": "sister"
+        },
+        {
+          "es": "los padres",
+          "en": "parents"
+        },
+        {
+          "es": "el abuelo",
+          "en": "grandfather"
+        },
+        {
+          "es": "la abuela",
+          "en": "grandmother"
+        },
+        {
+          "es": "el hijo",
+          "en": "son"
+        },
+        {
+          "es": "casado",
+          "en": "married"
+        }
+      ],
+      "sentences": [
+        {
+          "es": "Tengo una hermana mayor.",
+          "en": "I have an older sister."
+        },
+        {
+          "es": "Mis padres viven en Busan.",
+          "en": "My parents live in Busan."
+        },
+        {
+          "es": "¿Tienes hermanos?",
+          "en": "Do you have siblings?"
+        },
+        {
+          "es": "Mi familia es pequeña.",
+          "en": "My family is small."
+        },
+        {
+          "es": "Mi abuela cocina muy bien.",
+          "en": "My grandmother cooks very well."
+        },
+        {
+          "es": "Él es mi primo.",
+          "en": "He is my cousin."
+        },
+        {
+          "es": "No estoy casada.",
+          "en": "I'm not married. (said by a woman)"
+        },
+        {
+          "es": "Visito a mi familia los fines de semana.",
+          "en": "I visit my family on weekends."
+        },
+        {
+          "es": "Mi hermano trabaja en un banco.",
+          "en": "My brother works at a bank."
+        },
+        {
+          "es": "Te presento a mi madre.",
+          "en": "Let me introduce you to my mother."
+        }
+      ]
+    },
+    {
+      "date": "2026-10-02",
+      "words": [
+        {
+          "es": "la hora",
+          "en": "hour / time"
+        },
+        {
+          "es": "el minuto",
+          "en": "minute"
+        },
+        {
+          "es": "el día",
+          "en": "day"
+        },
+        {
+          "es": "la semana",
+          "en": "week"
+        },
+        {
+          "es": "el mes",
+          "en": "month"
+        },
+        {
+          "es": "el año",
+          "en": "year"
+        },
+        {
+          "es": "hoy",
+          "en": "today"
+        },
+        {
+          "es": "mañana",
+          "en": "tomorrow"
+        },
+        {
+          "es": "ayer",
+          "en": "yesterday"
+        },
+        {
+          "es": "temprano",
+          "en": "early"
+        }
+      ],
+      "sentences": [
+        {
+          "es": "¿Qué hora es?",
+          "en": "What time is it?"
+        },
+        {
+          "es": "Son las tres y media.",
+          "en": "It's half past three."
+        },
+        {
+          "es": "Es la una en punto.",
+          "en": "It's one o'clock sharp."
+        },
+        {
+          "es": "¿Qué día es hoy?",
+          "en": "What day is it today?"
+        },
+        {
+          "es": "Hoy es lunes.",
+          "en": "Today is Monday."
+        },
+        {
+          "es": "Nos vemos a las nueve.",
+          "en": "See you at nine."
+        },
+        {
+          "es": "Llego en diez minutos.",
+          "en": "I'll arrive in ten minutes."
+        },
+        {
+          "es": "Tengo veintiséis años.",
+          "en": "I'm twenty-six years old."
+        },
+        {
+          "es": "Mi cumpleaños es en mayo.",
+          "en": "My birthday is in May."
+        },
+        {
+          "es": "Es muy temprano.",
+          "en": "It's very early."
+        }
+      ]
+    },
+    {
+      "date": "2026-10-01",
+      "words": [
+        {
+          "es": "hola",
+          "en": "hello"
+        },
+        {
+          "es": "buenos días",
+          "en": "good morning"
+        },
+        {
+          "es": "el nombre",
+          "en": "name"
+        },
+        {
+          "es": "mucho gusto",
+          "en": "nice to meet you"
+        },
+        {
+          "es": "ser",
+          "en": "to be (identity)"
+        },
+        {
+          "es": "vivir",
+          "en": "to live"
+        },
+        {
+          "es": "el país",
+          "en": "country"
+        },
+        {
+          "es": "hablar",
+          "en": "to speak"
+        },
+        {
+          "es": "gracias",
+          "en": "thank you"
+        },
+        {
+          "es": "adiós",
+          "en": "goodbye"
+        }
+      ],
+      "sentences": [
+        {
+          "es": "Me llamo Arim.",
+          "en": "My name is Arim."
+        },
+        {
+          "es": "¿Cómo te llamas?",
+          "en": "What's your name?"
+        },
+        {
+          "es": "Soy de Corea del Sur.",
+          "en": "I'm from South Korea."
+        },
+        {
+          "es": "Vivo en Seúl.",
+          "en": "I live in Seoul."
+        },
+        {
+          "es": "¿De dónde eres?",
+          "en": "Where are you from?"
+        },
+        {
+          "es": "Hablo coreano e inglés.",
+          "en": "I speak Korean and English."
+        },
+        {
+          "es": "Encantada de conocerte.",
+          "en": "Nice to meet you. (said by a woman)"
+        },
+        {
+          "es": "¿Cómo estás?",
+          "en": "How are you?"
+        },
+        {
+          "es": "Muy bien, gracias. ¿Y tú?",
+          "en": "Very well, thanks. And you?"
+        },
+        {
+          "es": "Hasta mañana.",
+          "en": "See you tomorrow."
+        }
       ]
     }
   ]
