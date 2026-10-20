@@ -1,6 +1,93 @@
 {
   "entries": [
     {
+      "date": "2026-10-21",
+      "words": [
+        {
+          "es": "el banco",
+          "en": "the bank"
+        },
+        {
+          "es": "el cajero automático",
+          "en": "the ATM"
+        },
+        {
+          "es": "la tarjeta",
+          "en": "the card"
+        },
+        {
+          "es": "el recibo",
+          "en": "the receipt"
+        },
+        {
+          "es": "la firma",
+          "en": "the signature"
+        },
+        {
+          "es": "firmar",
+          "en": "to sign"
+        },
+        {
+          "es": "cambiar",
+          "en": "to change / to exchange"
+        },
+        {
+          "es": "el efectivo",
+          "en": "cash"
+        },
+        {
+          "es": "la moneda",
+          "en": "the coin / currency"
+        },
+        {
+          "es": "el sobre",
+          "en": "the envelope"
+        }
+      ],
+      "sentences": [
+        {
+          "es": "¿Hay un cajero automático cerca?",
+          "en": "Is there an ATM nearby?"
+        },
+        {
+          "es": "Quisiera cambiar dinero.",
+          "en": "I'd like to exchange money."
+        },
+        {
+          "es": "¿Puedo pagar en efectivo?",
+          "en": "Can I pay in cash?"
+        },
+        {
+          "es": "Firme aquí, por favor.",
+          "en": "Sign here, please."
+        },
+        {
+          "es": "¿Me da el recibo, por favor?",
+          "en": "Could you give me the receipt, please?"
+        },
+        {
+          "es": "El cajero se tragó mi tarjeta.",
+          "en": "The ATM swallowed my card."
+        },
+        {
+          "es": "No tengo monedas.",
+          "en": "I don't have any coins."
+        },
+        {
+          "es": "Necesito abrir una cuenta bancaria.",
+          "en": "I need to open a bank account."
+        },
+        {
+          "es": "¿A qué hora cierra el banco?",
+          "en": "What time does the bank close?"
+        },
+        {
+          "es": "Quiero enviar este sobre a Corea.",
+          "en": "I want to send this envelope to Korea."
+        }
+      ]
+    },
+    {
       "date": "2026-10-20",
       "words": [
         {
