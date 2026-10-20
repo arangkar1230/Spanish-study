@@ -1,0 +1,90 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>스페인어 공부 노트</title>
+<style>
+:root{--bg:#fbf8f2;--panel:#fff;--ink:#1f1d1a;--muted:#77706a;--line:#ece5da;--accent:#c2410c;--accent-soft:#fdeee4;--chip:#f4efe7}
+@media (prefers-color-scheme:dark){:root{--bg:#151412;--panel:#1d1b19;--ink:#efebe6;--muted:#a19a92;--line:#2f2b27;--accent:#fb8a4f;--accent-soft:#3a2418;--chip:#28241f}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.6 -apple-system,BlinkMacSystemFont,"Pretendard","Apple SD Gothic Neo","Noto Sans KR",sans-serif}
+.wrap{max-width:760px;margin:0 auto;padding:40px 16px 80px}
+.eyebrow{font-size:13px;letter-spacing:.08em;text-transform:uppercase;color:var(--accent);font-weight:700}
+h1{font-size:28px;margin:6px 0 4px}
+.sub{color:var(--muted);font-size:14px}
+.tools{display:flex;flex-wrap:wrap;gap:8px;margin:18px 0 4px}
+input[type=search]{flex:1;min-width:180px;font:inherit;font-size:15px;color:var(--ink);background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:8px 12px}
+button{font:inherit;font-size:14px;color:var(--ink);background:var(--chip);border:1px solid var(--line);border-radius:10px;padding:8px 12px;cursor:pointer}
+button[aria-pressed=true]{background:var(--accent);border-color:var(--accent);color:#fff}
+.day{background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:18px 22px;margin-top:18px}
+.day h2{font-size:18px;margin:0 0 6px}
+.day .new{font-size:12px;font-weight:700;color:var(--accent);background:var(--accent-soft);padding:2px 8px;border-radius:999px;margin-left:6px;vertical-align:middle}
+.day h3{font-size:13px;color:var(--muted);font-weight:600;margin:14px 0 4px}
+ol{margin:0;padding-left:22px}
+li{margin:5px 0}
+.es{font-weight:650}
+.en{color:var(--muted)}
+.hide-en .en{filter:blur(6px);cursor:pointer;transition:filter .15s}
+.hide-en .en.show{filter:none}
+.empty{color:var(--muted)}
+footer{color:var(--muted);font-size:13px;margin-top:30px}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <div class="eyebrow">Español diario</div>
+  <h1>스페인어 공부 노트</h1>
+  <div class="sub" id="stats">매일 아침 단어 10개 · 문장 10개</div>
+  <div class="tools">
+    <input type="search" id="q" placeholder="단어·문장 검색 (스페인어/영어)">
+    <button id="toggle" aria-pressed="false">영어 가리기</button>
+  </div>
+  <main id="main"><div class="day empty">불러오는 중…</div></main>
+  <footer>최신 날짜가 맨 위에 와요. '영어 가리기'를 켜고 뜻을 떠올린 뒤 눌러서 확인해 보세요.</footer>
+</div>
+<script>
+const $ = s => document.querySelector(s);
+const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+let entries = [];
+
+function list(items, q){
+  const rows = items.filter(x => !q || (x.es + " " + x.en).toLowerCase().includes(q));
+  return rows.length ? `<ol>${rows.map(x => `<li><span class="es">${esc(x.es)}</span> <span class="en">– ${esc(x.en)}</span></li>`).join("")}</ol>` : "";
+}
+
+function render(){
+  const q = $("#q").value.trim().toLowerCase();
+  let h = "";
+  entries.forEach((d, i) => {
+    const w = list(d.words || [], q), s = list(d.sentences || [], q);
+    if (q && !w && !s) return;
+    h += `<section class="day"><h2>${esc(d.date)}${i === 0 ? '<span class="new">최신</span>' : ""}</h2>`
+      + (w ? `<h3>단어</h3>${w}` : "") + (s ? `<h3>유용한 문장</h3>${s}` : "") + `</section>`;
+  });
+  $("#main").innerHTML = h || `<div class="day empty">${q ? "검색 결과가 없어요." : "아직 기록이 없어요."}</div>`;
+}
+
+$("#q").addEventListener("input", render);
+$("#toggle").addEventListener("click", e => {
+  const on = e.currentTarget.getAttribute("aria-pressed") !== "true";
+  e.currentTarget.setAttribute("aria-pressed", on);
+  document.body.classList.toggle("hide-en", on);
+});
+document.addEventListener("click", e => {
+  if (e.target.classList.contains("en")) e.target.classList.toggle("show");
+});
+
+(async () => {
+  try {
+    const r = await fetch("entries.json?v=" + Date.now());
+    entries = (await r.json()).entries || [];
+  } catch (e) { entries = []; }
+  const nw = entries.reduce((n, d) => n + (d.words?.length || 0), 0);
+  const ns = entries.reduce((n, d) => n + (d.sentences?.length || 0), 0);
+  $("#stats").textContent = `${entries.length}일째 · 단어 ${nw}개 · 문장 ${ns}개`;
+  render();
+})();
+</script>
+</body>
+</html>

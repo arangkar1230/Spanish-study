@@ -1,0 +1,31 @@
+{
+  "entries": [
+    {
+      "date": "2026-10-20",
+      "words": [
+        {"es": "el desayuno", "en": "breakfast"},
+        {"es": "la reunión", "en": "meeting"},
+        {"es": "el viaje", "en": "trip"},
+        {"es": "aprender", "en": "to learn"},
+        {"es": "entender", "en": "to understand"},
+        {"es": "necesitar", "en": "to need"},
+        {"es": "todavía", "en": "still / yet"},
+        {"es": "siempre", "en": "always"},
+        {"es": "la cuenta", "en": "the bill / account"},
+        {"es": "cerca de", "en": "near"}
+      ],
+      "sentences": [
+        {"es": "¿Puede repetirlo, por favor?", "en": "Could you repeat that, please?"},
+        {"es": "No entiendo muy bien.", "en": "I don't understand very well."},
+        {"es": "¿Cómo se dice … en español?", "en": "How do you say … in Spanish?"},
+        {"es": "Estoy aprendiendo español.", "en": "I'm learning Spanish."},
+        {"es": "¿Dónde está la estación?", "en": "Where is the station?"},
+        {"es": "La cuenta, por favor.", "en": "The bill, please."},
+        {"es": "Necesito un poco más de tiempo.", "en": "I need a little more time."},
+        {"es": "¿A qué hora empieza la reunión?", "en": "What time does the meeting start?"},
+        {"es": "Todavía no he desayunado.", "en": "I haven't had breakfast yet."},
+        {"es": "¡Que tengas un buen día!", "en": "Have a nice day!"}
+      ]
+    }
+  ]
+}
