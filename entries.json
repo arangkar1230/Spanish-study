@@ -1,6 +1,93 @@
 {
   "entries": [
     {
+      "date": "2026-10-22",
+      "words": [
+        {
+          "es": "el despertador",
+          "en": "alarm clock"
+        },
+        {
+          "es": "despertarse",
+          "en": "to wake up"
+        },
+        {
+          "es": "levantarse",
+          "en": "to get up"
+        },
+        {
+          "es": "ducharse",
+          "en": "to take a shower"
+        },
+        {
+          "es": "vestirse",
+          "en": "to get dressed"
+        },
+        {
+          "es": "acostarse",
+          "en": "to go to bed"
+        },
+        {
+          "es": "lavar",
+          "en": "to wash"
+        },
+        {
+          "es": "limpiar",
+          "en": "to clean"
+        },
+        {
+          "es": "la basura",
+          "en": "trash, garbage"
+        },
+        {
+          "es": "el horario",
+          "en": "schedule"
+        }
+      ],
+      "sentences": [
+        {
+          "es": "Me despierto a las seis y media.",
+          "en": "I wake up at six thirty."
+        },
+        {
+          "es": "No oí el despertador.",
+          "en": "I didn't hear the alarm clock."
+        },
+        {
+          "es": "Me levanto temprano los lunes.",
+          "en": "I get up early on Mondays."
+        },
+        {
+          "es": "Me ducho por la mañana.",
+          "en": "I shower in the morning."
+        },
+        {
+          "es": "Voy a vestirme rápido.",
+          "en": "I'm going to get dressed quickly."
+        },
+        {
+          "es": "¿A qué hora te acuestas?",
+          "en": "What time do you go to bed?"
+        },
+        {
+          "es": "Hoy me toca lavar los platos.",
+          "en": "It's my turn to wash the dishes today."
+        },
+        {
+          "es": "¿Puedes sacar la basura?",
+          "en": "Can you take out the trash?"
+        },
+        {
+          "es": "Los sábados limpio la casa.",
+          "en": "I clean the house on Saturdays."
+        },
+        {
+          "es": "Tengo un horario muy flexible.",
+          "en": "I have a very flexible schedule."
+        }
+      ]
+    },
+    {
       "date": "2026-10-21",
       "words": [
         {
