@@ -3,86 +3,252 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>스페인어 공부 노트</title>
+<title>¡Hola! 스페인어 교실</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Jua&display=swap" rel="stylesheet">
 <style>
-:root{--bg:#fbf8f2;--panel:#fff;--ink:#1f1d1a;--muted:#77706a;--line:#ece5da;--accent:#c2410c;--accent-soft:#fdeee4;--chip:#f4efe7}
-@media (prefers-color-scheme:dark){:root{--bg:#151412;--panel:#1d1b19;--ink:#efebe6;--muted:#a19a92;--line:#2f2b27;--accent:#fb8a4f;--accent-soft:#3a2418;--chip:#28241f}}
+:root{
+  --paper:#fffdf6; --line:#dbe9f7; --margin:#ffb3b3; --ink:#2b2a33; --muted:#7a7686;
+  --card:#ffffff; --border:#2b2a33; --shadow:#2b2a33;
+  --pink:#ff8fb1; --yellow:#ffd93d; --mint:#6ee0b5; --sky:#7cc7ff; --lav:#b9a3ff; --orange:#ff9f5a;
+  --hl:#fff176; --stamp:#e5484d; --chip:#f5f3ff;
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
+  --paper:#1f3a2e; --line:#28473a; --margin:#3d5c4d; --ink:#f4f1e8; --muted:#b5c4b8;
+  --card:#25443a; --border:#f4f1e8; --shadow:#0f1f18; --hl:#6b6320; --chip:#2e5144;
+}}
+:root[data-theme="dark"]{
+  --paper:#1f3a2e; --line:#28473a; --margin:#3d5c4d; --ink:#f4f1e8; --muted:#b5c4b8;
+  --card:#25443a; --border:#f4f1e8; --shadow:#0f1f18; --hl:#6b6320; --chip:#2e5144;
+}
 *{box-sizing:border-box}
-body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.6 -apple-system,BlinkMacSystemFont,"Pretendard","Apple SD Gothic Neo","Noto Sans KR",sans-serif}
-.wrap{max-width:760px;margin:0 auto;padding:40px 16px 80px}
-.eyebrow{font-size:13px;letter-spacing:.08em;text-transform:uppercase;color:var(--accent);font-weight:700}
-h1{font-size:28px;margin:6px 0 4px}
-.sub{color:var(--muted);font-size:14px}
-.tools{display:flex;flex-wrap:wrap;gap:8px;margin:18px 0 4px}
-input[type=search]{flex:1;min-width:180px;font:inherit;font-size:15px;color:var(--ink);background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:8px 12px}
-button{font:inherit;font-size:14px;color:var(--ink);background:var(--chip);border:1px solid var(--line);border-radius:10px;padding:8px 12px;cursor:pointer}
-button[aria-pressed=true]{background:var(--accent);border-color:var(--accent);color:#fff}
-.day{background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:18px 22px;margin-top:18px}
-.day h2{font-size:18px;margin:0 0 6px}
-.day .new{font-size:12px;font-weight:700;color:var(--accent);background:var(--accent-soft);padding:2px 8px;border-radius:999px;margin-left:6px;vertical-align:middle}
-.day h3{font-size:13px;color:var(--muted);font-weight:600;margin:14px 0 4px}
-ol{margin:0;padding-left:22px}
-li{margin:5px 0}
-.es{font-weight:650}
-.en{color:var(--muted)}
-.hide-en .en{filter:blur(6px);cursor:pointer;transition:filter .15s}
-.hide-en .en.show{filter:none}
-.empty{color:var(--muted)}
-footer{color:var(--muted);font-size:13px;margin-top:30px}
+html{-webkit-text-size-adjust:100%}
+body{
+  margin:0;color:var(--ink);background-color:var(--paper);
+  background-image:repeating-linear-gradient(to bottom,transparent 0,transparent 31px,var(--line) 31px,var(--line) 32px);
+  font:16px/1.6 -apple-system,BlinkMacSystemFont,"Pretendard","Apple SD Gothic Neo","Noto Sans KR",sans-serif;
+}
+body::before{content:"";position:fixed;top:0;bottom:0;left:max(10px,calc(50% - 400px));width:2px;background:var(--margin);opacity:.7;pointer-events:none}
+.jua{font-family:"Jua","Apple SD Gothic Neo",sans-serif;font-weight:400}
+.wrap{max-width:760px;margin:0 auto;padding:28px 16px 80px;position:relative}
+
+/* ---------- header ---------- */
+header{position:relative;padding:22px 20px 20px;background:var(--yellow);border:3px solid var(--border);border-radius:22px;box-shadow:6px 6px 0 var(--shadow);margin-top:10px}
+header .kicker{font-family:"Jua",sans-serif;font-size:16px;color:#2b2a33;opacity:.75}
+header h1{font-family:"Jua",sans-serif;font-weight:400;font-size:clamp(30px,8vw,44px);line-height:1.15;margin:4px 0 6px;color:#2b2a33}
+header h1 .es{display:inline-block;transform:rotate(-3deg);background:#fff;border:3px solid #2b2a33;border-radius:12px;padding:0 10px;margin-right:6px}
+header p{margin:0;color:#2b2a33;font-size:15px}
+.sticker{position:absolute;top:-16px;right:14px;transform:rotate(8deg);background:var(--pink);color:#2b2a33;border:3px solid #2b2a33;border-radius:999px;padding:6px 14px;font-family:"Jua",sans-serif;font-size:18px;box-shadow:3px 3px 0 #2b2a33}
+.stats{display:flex;flex-wrap:wrap;gap:8px;margin-top:14px}
+.stat{background:#fff;color:#2b2a33;border:2px solid #2b2a33;border-radius:999px;padding:4px 12px;font-size:14px;font-weight:700}
+.stat b{font-family:"Jua",sans-serif;font-weight:400;font-size:17px;margin-left:2px}
+
+/* ---------- toolbar ---------- */
+.tools{display:flex;flex-wrap:wrap;gap:10px;margin:22px 0 6px;align-items:center}
+.search{flex:1 1 220px;display:flex;align-items:center;gap:8px;background:var(--card);border:3px solid var(--border);border-radius:16px;padding:6px 12px;box-shadow:3px 3px 0 var(--shadow)}
+.search input{flex:1;min-width:0;border:0;outline:0;background:transparent;color:var(--ink);font:inherit;font-size:16px;padding:4px 0}
+.seg{display:flex;border:3px solid var(--border);border-radius:16px;overflow:hidden;box-shadow:3px 3px 0 var(--shadow);background:var(--card)}
+.seg button{font-family:"Jua",sans-serif;font-size:16px;border:0;background:transparent;color:var(--ink);padding:8px 14px;cursor:pointer}
+.seg button+button{border-left:3px solid var(--border)}
+.seg button[aria-pressed="true"]{background:var(--mint);color:#2b2a33}
+.hint{font-size:13px;color:var(--muted);min-height:20px;margin:2px 4px 0}
+
+/* ---------- random flashcard ---------- */
+.flash{margin-top:18px;display:grid;grid-template-columns:1fr auto;gap:12px;align-items:stretch}
+.fcard{perspective:900px;cursor:pointer;min-height:118px;border:0;padding:0;background:none;font:inherit;color:inherit;text-align:center}
+.fcard .inner{position:relative;width:100%;height:100%;min-height:118px;transition:transform .45s cubic-bezier(.3,1.4,.5,1);transform-style:preserve-3d}
+.fcard.flipped .inner{transform:rotateY(180deg)}
+.face{position:absolute;inset:0;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:4px;border:3px solid var(--border);border-radius:20px;box-shadow:5px 5px 0 var(--shadow);backface-visibility:hidden;-webkit-backface-visibility:hidden;padding:12px}
+.face.front{background:var(--sky);color:#2b2a33}
+.face.back{background:var(--lav);color:#2b2a33;transform:rotateY(180deg)}
+.face .lbl{font-size:12px;font-weight:800;letter-spacing:.08em;opacity:.7}
+.face .big{font-family:"Jua",sans-serif;font-size:clamp(22px,6vw,30px);line-height:1.2}
+.face .tap{font-size:12px;opacity:.7}
+.next{font-family:"Jua",sans-serif;font-size:18px;border:3px solid var(--border);border-radius:20px;background:var(--orange);color:#2b2a33;box-shadow:5px 5px 0 var(--shadow);padding:0 18px;cursor:pointer;min-width:84px}
+.next:active,.seg button:active{transform:translate(2px,2px)}
+
+/* ---------- day lessons ---------- */
+.day{position:relative;margin-top:30px;background:var(--card);border:3px solid var(--border);border-radius:20px;box-shadow:6px 6px 0 var(--shadow)}
+.day::before{content:"";position:absolute;top:-13px;left:50%;width:110px;height:24px;transform:translateX(-50%) rotate(-2deg);background:var(--tape);opacity:.85;border-radius:3px}
+.day>summary{list-style:none;cursor:pointer;padding:18px 18px 14px;display:flex;align-items:center;gap:12px;flex-wrap:wrap}
+.day>summary::-webkit-details-marker{display:none}
+.daynum{font-family:"Jua",sans-serif;font-size:22px;background:var(--tape);color:#2b2a33;border:3px solid #2b2a33;border-radius:12px;padding:0 10px;line-height:1.5}
+.date{font-family:"Jua",sans-serif;font-size:19px}
+.peek{flex-basis:100%;font-size:13px;color:var(--muted);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.day[open] .peek{display:none}
+.chev{margin-left:auto;font-family:"Jua",sans-serif;font-size:14px;color:var(--muted)}
+.day[open] .chev::after{content:"접기 ▲"}
+.day:not([open]) .chev::after{content:"펼치기 ▼"}
+.body{padding:0 18px 20px}
+.stamp{position:absolute;top:10px;right:14px;width:74px;height:74px;border:3px solid var(--stamp);border-radius:50%;color:var(--stamp);display:flex;flex-direction:column;align-items:center;justify-content:center;transform:rotate(14deg);font-family:"Jua",sans-serif;line-height:1.05;text-align:center;font-size:14px;background:transparent;pointer-events:none;opacity:.9}
+.stamp b{font-size:18px;font-weight:400}
+.day.today>summary{padding-right:96px}
+h3.sec{font-family:"Jua",sans-serif;font-weight:400;font-size:18px;margin:6px 0 10px;display:flex;align-items:center;gap:8px}
+h3.sec .tag{font-size:13px;background:var(--chip);border:2px solid var(--border);border-radius:999px;padding:0 8px}
+
+/* word chips */
+.words{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px;margin-bottom:20px}
+@media (min-width:600px){.words{grid-template-columns:repeat(3,minmax(0,1fr))}}
+.w{border:2px solid var(--border);border-radius:14px;padding:10px 12px;background:var(--wbg);color:#2b2a33;text-align:left;font:inherit;cursor:default;min-height:64px;display:flex;flex-direction:column;justify-content:center}
+.w .es{font-weight:800;font-size:16px;line-height:1.3}
+.w .en{font-size:13px;opacity:.75;margin-top:2px}
+
+/* sentences */
+ol.sents{list-style:none;margin:0;padding:0;counter-reset:s}
+ol.sents li{counter-increment:s;display:grid;grid-template-columns:30px 1fr;gap:10px;padding:9px 0;border-top:2px dashed var(--line)}
+ol.sents li:first-child{border-top:0}
+ol.sents li::before{content:counter(s);font-family:"Jua",sans-serif;width:28px;height:28px;border-radius:50%;background:var(--tape);color:#2b2a33;border:2px solid #2b2a33;display:flex;align-items:center;justify-content:center;font-size:15px;margin-top:1px}
+.s-es{font-weight:750;font-size:16px;background:linear-gradient(transparent 58%,var(--hl) 58%);display:inline;padding:0 2px;-webkit-box-decoration-break:clone;box-decoration-break:clone}
+.s-en{display:block;font-size:14px;color:var(--muted);margin-top:3px}
+
+/* quiz mode */
+.quiz .en,.quiz .s-en{filter:blur(7px);cursor:pointer;user-select:none;transition:filter .15s}
+.quiz .w{cursor:pointer}
+.quiz .shown .en,.quiz .s-en.shown{filter:none}
+mark{background:var(--pink);color:#2b2a33;border-radius:4px;padding:0 2px}
+
+.empty{margin-top:26px;text-align:center;font-family:"Jua",sans-serif;font-size:20px;color:var(--muted)}
+footer{margin-top:40px;text-align:center;color:var(--muted);font-size:14px}
+footer .jua{font-size:18px;color:var(--ink)}
+@media (prefers-reduced-motion:reduce){.fcard .inner{transition:none}}
 </style>
 </head>
 <body>
 <div class="wrap">
-  <div class="eyebrow">Español diario</div>
-  <h1>스페인어 공부 노트</h1>
-  <div class="sub" id="stats">매일 아침 단어 10개 · 문장 10개</div>
-  <div class="tools">
-    <input type="search" id="q" placeholder="단어·문장 검색 (스페인어/영어)">
-    <button id="toggle" aria-pressed="false">영어 가리기</button>
+  <header>
+    <span class="sticker" id="sticker">DAY 1</span>
+    <div class="kicker">아림의 매일 아침 스페인어 교실</div>
+    <h1><span class="es">¡Hola!</span>스페인어 교실</h1>
+    <p>매일 단어 10개 · 문장 10개, 차곡차곡 쌓는 중 ✏️</p>
+    <div class="stats" id="stats"></div>
+  </header>
+
+  <div class="flash" id="flash" hidden>
+    <button class="fcard" id="fcard" aria-label="카드를 눌러 뜻 보기">
+      <div class="inner">
+        <div class="face front"><span class="lbl">🎲 랜덤 단어 카드</span><span class="big" id="fEs"></span><span class="tap">눌러서 뜻 보기</span></div>
+        <div class="face back"><span class="lbl" id="fDay"></span><span class="big" id="fEn"></span><span class="tap">다시 누르면 앞면</span></div>
+      </div>
+    </button>
+    <button class="next" id="fNext">다음<br>카드 →</button>
   </div>
-  <main id="main"><div class="day empty">불러오는 중…</div></main>
-  <footer>최신 날짜가 맨 위에 와요. '영어 가리기'를 켜고 뜻을 떠올린 뒤 눌러서 확인해 보세요.</footer>
+
+  <div class="tools">
+    <label class="search"><span aria-hidden="true">🔍</span><input type="search" id="q" placeholder="단어·문장 찾기 (예: banco, meeting)"></label>
+    <div class="seg" role="group" aria-label="모드">
+      <button id="mStudy" aria-pressed="true">📖 공부</button>
+      <button id="mQuiz" aria-pressed="false">📝 시험</button>
+    </div>
+  </div>
+  <div class="hint" id="hint"></div>
+
+  <main id="main"><div class="empty">수업 준비 중… ✏️</div></main>
+
+  <footer><div class="jua">¡Hasta mañana! 👋</div>매일 아침 8시 전에 새 수업이 올라와요</footer>
 </div>
 <script>
 const $ = s => document.querySelector(s);
 const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
-let entries = [];
+const PALETTE = ["--pink","--yellow","--mint","--sky","--lav","--orange"];
+const WBG = ["#ffe3ec","#fff4bf","#d6f7ea","#dcefff","#ebe4ff","#ffe6d3"];
+const DOW = ["일","월","화","수","목","금","토"];
+let entries = [], quiz = false;
 
-function list(items, q){
-  const rows = items.filter(x => !q || (x.es + " " + x.en).toLowerCase().includes(q));
-  return rows.length ? `<ol>${rows.map(x => `<li><span class="es">${esc(x.es)}</span> <span class="en">– ${esc(x.en)}</span></li>`).join("")}</ol>` : "";
+function parseDate(s){ const m = /^(\d{4})-(\d{2})-(\d{2})/.exec(s||""); return m ? new Date(+m[1], +m[2]-1, +m[3]) : null; }
+function prettyDate(s){
+  const d = parseDate(s); if(!d) return esc(s);
+  const extra = s.length > 10 ? " " + s.slice(10).trim() : "";
+  return `${d.getMonth()+1}월 ${d.getDate()}일 (${DOW[d.getDay()]})${esc(extra)}`;
+}
+function streak(){
+  if(!entries.length) return 0;
+  const days = [...new Set(entries.map(e => (e.date||"").slice(0,10)))].sort().reverse();
+  let n = 1;
+  for(let i = 1; i < days.length; i++){
+    const a = parseDate(days[i-1]), b = parseDate(days[i]);
+    if(Math.round((a - b) / 864e5) === 1) n++; else break;
+  }
+  return n;
+}
+function hi(text, q){
+  const t = esc(text); if(!q) return t;
+  const i = text.toLowerCase().indexOf(q); if(i < 0) return t;
+  return esc(text.slice(0,i)) + "<mark>" + esc(text.slice(i, i+q.length)) + "</mark>" + esc(text.slice(i+q.length));
 }
 
 function render(){
   const q = $("#q").value.trim().toLowerCase();
-  let h = "";
+  const total = entries.length;
+  let h = "", shown = 0;
   entries.forEach((d, i) => {
-    const w = list(d.words || [], q), s = list(d.sentences || [], q);
-    if (q && !w && !s) return;
-    h += `<section class="day"><h2>${esc(d.date)}${i === 0 ? '<span class="new">최신</span>' : ""}</h2>`
-      + (w ? `<h3>단어</h3>${w}` : "") + (s ? `<h3>유용한 문장</h3>${s}` : "") + `</section>`;
+    const match = x => !q || (x.es + " " + x.en).toLowerCase().includes(q);
+    const ws = (d.words||[]).filter(match), ss = (d.sentences||[]).filter(match);
+    if(q && !ws.length && !ss.length) return;
+    shown++;
+    const n = total - i, ci = (n - 1) % PALETTE.length;
+    const open = q || i < 2 ? " open" : "";
+    const peek = (d.words||[]).slice(0,4).map(w => w.es).join(" · ");
+    h += `<details class="day${i===0?" today":""}"${open} style="--tape:var(${PALETTE[ci]});--wbg:${WBG[ci]}">`
+      + `<summary><span class="daynum">DAY ${String(n).padStart(2,"0")}</span><span class="date">${prettyDate(d.date)}</span><span class="chev"></span><span class="peek">${esc(peek)} …</span></summary>`
+      + (i===0 ? `<div class="stamp"><b>NEW</b>오늘의<br>수업</div>` : "")
+      + `<div class="body">`
+      + (ws.length ? `<h3 class="sec">🧃 단어 <span class="tag">${ws.length}개</span></h3><div class="words">`
+          + ws.map(w => `<div class="w" tabindex="0"><span class="es">${hi(w.es,q)}</span><span class="en">${hi(w.en,q)}</span></div>`).join("") + `</div>` : "")
+      + (ss.length ? `<h3 class="sec">💬 오늘의 문장 <span class="tag">${ss.length}개</span></h3><ol class="sents">`
+          + ss.map(s => `<li><div><span class="s-es">${hi(s.es,q)}</span><span class="s-en">${hi(s.en,q)}</span></div></li>`).join("") + `</ol>` : "")
+      + `</div></details>`;
   });
-  $("#main").innerHTML = h || `<div class="day empty">${q ? "검색 결과가 없어요." : "아직 기록이 없어요."}</div>`;
+  $("#main").innerHTML = h || `<div class="empty">${q ? "앗, 그런 단어는 아직 안 배웠어요 🤔" : "아직 수업이 없어요"}</div>`;
+}
+
+function setMode(isQuiz){
+  quiz = isQuiz;
+  document.body.classList.toggle("quiz", quiz);
+  $("#mStudy").setAttribute("aria-pressed", !quiz);
+  $("#mQuiz").setAttribute("aria-pressed", quiz);
+  $("#hint").textContent = quiz ? "뜻을 먼저 떠올려 보고, 카드나 문장을 눌러 정답을 확인하세요 🙈" : "";
+  document.querySelectorAll(".shown").forEach(el => el.classList.remove("shown"));
+}
+
+let pool = [];
+function nextCard(){
+  if(!pool.length) return;
+  const c = pool[Math.floor(Math.random() * pool.length)];
+  $("#fcard").classList.remove("flipped");
+  setTimeout(() => {
+    $("#fEs").textContent = c.es;
+    $("#fEn").textContent = c.en;
+    $("#fDay").textContent = `DAY ${String(c.n).padStart(2,"0")}에서 배운 단어`;
+  }, 120);
 }
 
 $("#q").addEventListener("input", render);
-$("#toggle").addEventListener("click", e => {
-  const on = e.currentTarget.getAttribute("aria-pressed") !== "true";
-  e.currentTarget.setAttribute("aria-pressed", on);
-  document.body.classList.toggle("hide-en", on);
+$("#mStudy").addEventListener("click", () => setMode(false));
+$("#mQuiz").addEventListener("click", () => setMode(true));
+$("#fcard").addEventListener("click", () => $("#fcard").classList.toggle("flipped"));
+$("#fNext").addEventListener("click", nextCard);
+$("#main").addEventListener("click", e => {
+  if(!quiz) return;
+  const w = e.target.closest(".w"); if(w){ w.classList.toggle("shown"); return; }
+  const s = e.target.closest(".s-en"); if(s) s.classList.toggle("shown");
 });
-document.addEventListener("click", e => {
-  if (e.target.classList.contains("en")) e.target.classList.toggle("show");
+$("#main").addEventListener("keydown", e => {
+  if(quiz && (e.key === "Enter" || e.key === " ")){ const w = e.target.closest(".w"); if(w){ e.preventDefault(); w.classList.toggle("shown"); } }
 });
 
 (async () => {
-  try {
-    const r = await fetch("entries.json?v=" + Date.now());
-    entries = (await r.json()).entries || [];
-  } catch (e) { entries = []; }
-  const nw = entries.reduce((n, d) => n + (d.words?.length || 0), 0);
-  const ns = entries.reduce((n, d) => n + (d.sentences?.length || 0), 0);
-  $("#stats").textContent = `${entries.length}일째 · 단어 ${nw}개 · 문장 ${ns}개`;
+  try { const r = await fetch("entries.json?v=" + Date.now()); entries = (await r.json()).entries || []; }
+  catch(e){ entries = []; }
+  const nw = entries.reduce((n,d) => n + (d.words?.length||0), 0);
+  const ns = entries.reduce((n,d) => n + (d.sentences?.length||0), 0);
+  $("#sticker").textContent = `DAY ${entries.length}`;
+  $("#stats").innerHTML =
+    `<span class="stat">🔥 연속 <b>${streak()}</b>일</span>`
+    + `<span class="stat">📚 단어 <b>${nw}</b>개</span>`
+    + `<span class="stat">💬 문장 <b>${ns}</b>개</span>`;
+  pool = entries.flatMap((d,i) => (d.words||[]).map(w => ({...w, n: entries.length - i})));
+  if(pool.length){ $("#flash").hidden = false; nextCard(); }
   render();
 })();
 </script>
