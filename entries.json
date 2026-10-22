@@ -1,6 +1,93 @@
 {
   "entries": [
     {
+      "date": "2026-10-23",
+      "words": [
+        {
+          "es": "el supermercado",
+          "en": "supermarket"
+        },
+        {
+          "es": "la fruta",
+          "en": "fruit"
+        },
+        {
+          "es": "el pan",
+          "en": "bread"
+        },
+        {
+          "es": "la leche",
+          "en": "milk"
+        },
+        {
+          "es": "el huevo",
+          "en": "egg"
+        },
+        {
+          "es": "el queso",
+          "en": "cheese"
+        },
+        {
+          "es": "el kilo",
+          "en": "kilo"
+        },
+        {
+          "es": "fresco",
+          "en": "fresh"
+        },
+        {
+          "es": "la lista de la compra",
+          "en": "shopping list"
+        },
+        {
+          "es": "hacer la compra",
+          "en": "to do the grocery shopping"
+        }
+      ],
+      "sentences": [
+        {
+          "es": "Voy al supermercado después del trabajo.",
+          "en": "I'm going to the supermarket after work."
+        },
+        {
+          "es": "¿Dónde está la leche?",
+          "en": "Where is the milk?"
+        },
+        {
+          "es": "Necesito una docena de huevos.",
+          "en": "I need a dozen eggs."
+        },
+        {
+          "es": "Un kilo de manzanas, por favor.",
+          "en": "A kilo of apples, please."
+        },
+        {
+          "es": "¿Esta fruta es fresca?",
+          "en": "Is this fruit fresh?"
+        },
+        {
+          "es": "¿El pan es de hoy?",
+          "en": "Is the bread from today?"
+        },
+        {
+          "es": "Me faltan dos cosas de la lista.",
+          "en": "I'm missing two things from the list."
+        },
+        {
+          "es": "Hago la compra los domingos.",
+          "en": "I do the grocery shopping on Sundays."
+        },
+        {
+          "es": "¿Me pone un poco de queso?",
+          "en": "Could I have a little cheese?"
+        },
+        {
+          "es": "Se acabó la leche.",
+          "en": "We've run out of milk."
+        }
+      ]
+    },
+    {
       "date": "2026-10-22",
       "words": [
         {
