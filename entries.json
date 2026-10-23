@@ -1,6 +1,93 @@
 {
   "entries": [
     {
+      "date": "2026-10-24",
+      "words": [
+        {
+          "es": "la cafetería",
+          "en": "café, coffee shop"
+        },
+        {
+          "es": "el camarero",
+          "en": "waiter"
+        },
+        {
+          "es": "la taza",
+          "en": "cup, mug"
+        },
+        {
+          "es": "el azúcar",
+          "en": "sugar"
+        },
+        {
+          "es": "la propina",
+          "en": "tip (gratuity)"
+        },
+        {
+          "es": "para llevar",
+          "en": "to go, takeaway"
+        },
+        {
+          "es": "el asiento",
+          "en": "seat"
+        },
+        {
+          "es": "tomar",
+          "en": "to have (food/drink), to take"
+        },
+        {
+          "es": "la galleta",
+          "en": "cookie, biscuit"
+        },
+        {
+          "es": "el zumo",
+          "en": "juice"
+        }
+      ],
+      "sentences": [
+        {
+          "es": "¿Me pone un café con leche, por favor?",
+          "en": "Can I have a coffee with milk, please?"
+        },
+        {
+          "es": "¿Es para tomar aquí o para llevar?",
+          "en": "Is it for here or to go?"
+        },
+        {
+          "es": "Para llevar, por favor.",
+          "en": "To go, please."
+        },
+        {
+          "es": "Sin azúcar, por favor.",
+          "en": "No sugar, please."
+        },
+        {
+          "es": "¿Está libre este asiento?",
+          "en": "Is this seat free?"
+        },
+        {
+          "es": "Una taza de té, por favor.",
+          "en": "A cup of tea, please."
+        },
+        {
+          "es": "¿Dejamos propina?",
+          "en": "Shall we leave a tip?"
+        },
+        {
+          "es": "El camarero es muy simpático.",
+          "en": "The waiter is very friendly."
+        },
+        {
+          "es": "Quiero un zumo de naranja.",
+          "en": "I'd like an orange juice."
+        },
+        {
+          "es": "¿Qué vas a tomar?",
+          "en": "What are you going to have?"
+        }
+      ]
+    },
+    {
       "date": "2026-10-23",
       "words": [
         {
