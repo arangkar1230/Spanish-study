@@ -2087,6 +2087,4095 @@
           "en": "See you tomorrow."
         }
       ]
+    },
+    {
+      "date": "2026-09-30",
+      "words": [
+        {
+          "es": "el pedido",
+          "en": "order"
+        },
+        {
+          "es": "la entrega",
+          "en": "delivery"
+        },
+        {
+          "es": "la devolución",
+          "en": "return (item)"
+        },
+        {
+          "es": "el carrito",
+          "en": "cart"
+        },
+        {
+          "es": "la tienda online",
+          "en": "online store"
+        },
+        {
+          "es": "la valoración",
+          "en": "review, rating"
+        },
+        {
+          "es": "el reembolso",
+          "en": "refund"
+        },
+        {
+          "es": "el seguimiento",
+          "en": "tracking"
+        },
+        {
+          "es": "agotado",
+          "en": "sold out"
+        },
+        {
+          "es": "la oferta",
+          "en": "deal, offer"
+        }
+      ],
+      "sentences": [
+        {
+          "es": "Hice un pedido ayer.",
+          "en": "I placed an order yesterday."
+        },
+        {
+          "es": "¿Cuándo llega mi pedido?",
+          "en": "When will my order arrive?"
+        },
+        {
+          "es": "El producto está agotado.",
+          "en": "The product is sold out."
+        },
+        {
+          "es": "Quiero hacer una devolución.",
+          "en": "I want to make a return."
+        },
+        {
+          "es": "¿Cuándo recibo el reembolso?",
+          "en": "When will I get the refund?"
+        },
+        {
+          "es": "Tengo el número de seguimiento.",
+          "en": "I have the tracking number."
+        },
+        {
+          "es": "La entrega es gratuita.",
+          "en": "Delivery is free."
+        },
+        {
+          "es": "Está de oferta hasta el domingo.",
+          "en": "It's on sale until Sunday."
+        },
+        {
+          "es": "Lo compré por internet.",
+          "en": "I bought it online."
+        },
+        {
+          "es": "Llegó roto.",
+          "en": "It arrived broken."
+        }
+      ]
+    },
+    {
+      "date": "2026-09-29",
+      "words": [
+        {
+          "es": "el bolígrafo",
+          "en": "pen"
+        },
+        {
+          "es": "el papel",
+          "en": "paper"
+        },
+        {
+          "es": "la impresora",
+          "en": "printer"
+        },
+        {
+          "es": "imprimir",
+          "en": "to print"
+        },
+        {
+          "es": "la carpeta",
+          "en": "folder"
+        },
+        {
+          "es": "la grapadora",
+          "en": "stapler"
+        },
+        {
+          "es": "el escritorio",
+          "en": "desk"
+        },
+        {
+          "es": "la fotocopia",
+          "en": "photocopy"
+        },
+        {
+          "es": "el cuaderno",
+          "en": "notebook"
+        },
+        {
+          "es": "el clip",
+          "en": "paper clip"
+        }
+      ],
+      "sentences": [
+        {
+          "es": "¿Me dejas un bolígrafo?",
+          "en": "Can I borrow a pen?"
+        },
+        {
+          "es": "La impresora no tiene papel.",
+          "en": "The printer is out of paper."
+        },
+        {
+          "es": "¿Puedes imprimir este documento?",
+          "en": "Can you print this document?"
+        },
+        {
+          "es": "Necesito diez fotocopias.",
+          "en": "I need ten copies."
+        },
+        {
+          "es": "Está en la carpeta azul.",
+          "en": "It's in the blue folder."
+        },
+        {
+          "es": "Mi escritorio está muy desordenado.",
+          "en": "My desk is very messy."
+        },
+        {
+          "es": "¿Dónde está la grapadora?",
+          "en": "Where's the stapler?"
+        },
+        {
+          "es": "Lo apunto en mi cuaderno.",
+          "en": "I'll write it down in my notebook."
+        },
+        {
+          "es": "La reunión semanal es los lunes.",
+          "en": "The weekly meeting is on Mondays."
+        },
+        {
+          "es": "Se atascó el papel.",
+          "en": "The paper got jammed."
+        }
+      ]
+    },
+    {
+      "date": "2026-09-28",
+      "words": [
+        {
+          "es": "el sillón",
+          "en": "armchair"
+        },
+        {
+          "es": "la silla",
+          "en": "chair"
+        },
+        {
+          "es": "el armario",
+          "en": "wardrobe, closet"
+        },
+        {
+          "es": "la estantería",
+          "en": "shelf, bookcase"
+        },
+        {
+          "es": "la lámpara",
+          "en": "lamp"
+        },
+        {
+          "es": "el espejo",
+          "en": "mirror"
+        },
+        {
+          "es": "la alfombra",
+          "en": "rug, carpet"
+        },
+        {
+          "es": "la nevera",
+          "en": "refrigerator"
+        },
+        {
+          "es": "el cajón",
+          "en": "drawer"
+        },
+        {
+          "es": "la almohada",
+          "en": "pillow"
+        }
+      ],
+      "sentences": [
+        {
+          "es": "Necesito una silla más cómoda.",
+          "en": "I need a more comfortable chair."
+        },
+        {
+          "es": "Las tazas están en el armario.",
+          "en": "The cups are in the cupboard."
+        },
+        {
+          "es": "Está en el primer cajón.",
+          "en": "It's in the top drawer."
+        },
+        {
+          "es": "La leche está en la nevera.",
+          "en": "The milk is in the fridge."
+        },
+        {
+          "es": "Quiero comprar una lámpara nueva.",
+          "en": "I want to buy a new lamp."
+        },
+        {
+          "es": "Mírate en el espejo.",
+          "en": "Look at yourself in the mirror."
+        },
+        {
+          "es": "Pon los libros en la estantería.",
+          "en": "Put the books on the shelf."
+        },
+        {
+          "es": "Esta almohada es muy dura.",
+          "en": "This pillow is very hard."
+        },
+        {
+          "es": "La alfombra es nueva.",
+          "en": "The rug is new."
+        },
+        {
+          "es": "Siéntate en el sillón.",
+          "en": "Sit in the armchair."
+        }
+      ]
+    },
+    {
+      "date": "2026-09-27",
+      "words": [
+        {
+          "es": "el arte",
+          "en": "art"
+        },
+        {
+          "es": "el cuadro",
+          "en": "painting"
+        },
+        {
+          "es": "el pintor",
+          "en": "painter"
+        },
+        {
+          "es": "la exposición",
+          "en": "exhibition"
+        },
+        {
+          "es": "la escultura",
+          "en": "sculpture"
+        },
+        {
+          "es": "la obra de teatro",
+          "en": "play (theater)"
+        },
+        {
+          "es": "la cultura",
+          "en": "culture"
+        },
+        {
+          "es": "el pincel",
+          "en": "paintbrush"
+        },
+        {
+          "es": "la guía",
+          "en": "guide (person or book)"
+        },
+        {
+          "es": "el teatro",
+          "en": "theater"
+        }
+      ],
+      "sentences": [
+        {
+          "es": "Hay una exposición nueva en el museo.",
+          "en": "There's a new exhibition at the museum."
+        },
+        {
+          "es": "Este cuadro es de Picasso.",
+          "en": "This painting is by Picasso."
+        },
+        {
+          "es": "Los domingos la entrada es gratuita.",
+          "en": "On Sundays admission is free."
+        },
+        {
+          "es": "¿Hay visitas guiadas?",
+          "en": "Are there guided tours?"
+        },
+        {
+          "es": "Me interesa mucho la cultura española.",
+          "en": "I'm very interested in Spanish culture."
+        },
+        {
+          "es": "¿Vamos al teatro esta noche?",
+          "en": "Shall we go to the theater tonight?"
+        },
+        {
+          "es": "No se pueden hacer fotos.",
+          "en": "Photos aren't allowed."
+        },
+        {
+          "es": "Mi pintor favorito es Goya.",
+          "en": "My favorite painter is Goya."
+        },
+        {
+          "es": "La escultura es enorme.",
+          "en": "The sculpture is huge."
+        },
+        {
+          "es": "¿Dónde puedo comprar una guía?",
+          "en": "Where can I buy a guidebook?"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-26",
+      "words": [
+        {
+          "es": "el senderismo",
+          "en": "hiking"
+        },
+        {
+          "es": "la ruta",
+          "en": "route, trail"
+        },
+        {
+          "es": "la mochila",
+          "en": "backpack"
+        },
+        {
+          "es": "la cima",
+          "en": "summit, top"
+        },
+        {
+          "es": "subir",
+          "en": "to go up, to climb"
+        },
+        {
+          "es": "bajar",
+          "en": "to go down"
+        },
+        {
+          "es": "la vista",
+          "en": "view"
+        },
+        {
+          "es": "el camino",
+          "en": "path, way"
+        },
+        {
+          "es": "la tienda de campaña",
+          "en": "tent"
+        },
+        {
+          "es": "la linterna",
+          "en": "flashlight"
+        }
+      ],
+      "sentences": [
+        {
+          "es": "Este fin de semana vamos de senderismo.",
+          "en": "This weekend we're going hiking."
+        },
+        {
+          "es": "¿Cuánto dura la ruta?",
+          "en": "How long is the trail?"
+        },
+        {
+          "es": "Llevo agua en la mochila.",
+          "en": "I'm carrying water in my backpack."
+        },
+        {
+          "es": "¡Qué vista tan increíble!",
+          "en": "What an amazing view!"
+        },
+        {
+          "es": "Ya casi llegamos a la cima.",
+          "en": "We're almost at the top."
+        },
+        {
+          "es": "Es difícil subir, pero vale la pena.",
+          "en": "It's hard to climb, but it's worth it."
+        },
+        {
+          "es": "Este camino es muy estrecho.",
+          "en": "This path is very narrow."
+        },
+        {
+          "es": "Vamos a montar la tienda de campaña.",
+          "en": "Let's put up the tent."
+        },
+        {
+          "es": "¿Trajiste la linterna?",
+          "en": "Did you bring the flashlight?"
+        },
+        {
+          "es": "Estoy agotada.",
+          "en": "I'm exhausted."
+        }
+      ]
+    },
+    {
+      "date": "2026-09-25",
+      "words": [
+        {
+          "es": "el taxi",
+          "en": "taxi"
+        },
+        {
+          "es": "el taxista",
+          "en": "taxi driver"
+        },
+        {
+          "es": "la tarifa",
+          "en": "fare"
+        },
+        {
+          "es": "parar",
+          "en": "to stop"
+        },
+        {
+          "es": "el maletero",
+          "en": "trunk (car)"
+        },
+        {
+          "es": "el semáforo",
+          "en": "traffic light"
+        },
+        {
+          "es": "la vuelta",
+          "en": "change (money back)"
+        },
+        {
+          "es": "aquí mismo",
+          "en": "right here"
+        },
+        {
+          "es": "la carrera",
+          "en": "(taxi) ride"
+        },
+        {
+          "es": "el tráfico",
+          "en": "traffic"
+        }
+      ],
+      "sentences": [
+        {
+          "es": "¿Puede llamarme un taxi?",
+          "en": "Can you call me a taxi?"
+        },
+        {
+          "es": "A esta dirección, por favor.",
+          "en": "To this address, please."
+        },
+        {
+          "es": "¿Cuánto cuesta ir al centro?",
+          "en": "How much is it to go downtown?"
+        },
+        {
+          "es": "Pare aquí mismo, por favor.",
+          "en": "Stop right here, please."
+        },
+        {
+          "es": "¿Puede abrir el maletero?",
+          "en": "Can you open the trunk?"
+        },
+        {
+          "es": "Quédese con la vuelta.",
+          "en": "Keep the change."
+        },
+        {
+          "es": "Gire en el próximo semáforo.",
+          "en": "Turn at the next traffic light."
+        },
+        {
+          "es": "¿Hay mucho tráfico ahora?",
+          "en": "Is there a lot of traffic now?"
+        },
+        {
+          "es": "Tengo prisa.",
+          "en": "I'm in a hurry."
+        },
+        {
+          "es": "¿Acepta tarjeta?",
+          "en": "Do you accept cards?"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-24",
+      "words": [
+        {
+          "es": "¿qué tal?",
+          "en": "how's it going?"
+        },
+        {
+          "es": "la charla",
+          "en": "chat"
+        },
+        {
+          "es": "genial",
+          "en": "great"
+        },
+        {
+          "es": "fatal",
+          "en": "awful"
+        },
+        {
+          "es": "más o menos",
+          "en": "so-so"
+        },
+        {
+          "es": "la novedad",
+          "en": "news, something new"
+        },
+        {
+          "es": "contar",
+          "en": "to tell"
+        },
+        {
+          "es": "pasar",
+          "en": "to happen; to spend (time)"
+        },
+        {
+          "es": "saludar",
+          "en": "to greet"
+        },
+        {
+          "es": "igualmente",
+          "en": "likewise"
+        }
+      ],
+      "sentences": [
+        {
+          "es": "¿Qué tal todo?",
+          "en": "How's everything?"
+        },
+        {
+          "es": "¡Cuánto tiempo sin verte!",
+          "en": "Long time no see!"
+        },
+        {
+          "es": "¿Qué me cuentas?",
+          "en": "What's new with you?"
+        },
+        {
+          "es": "Todo bien, ¿y tú?",
+          "en": "All good, and you?"
+        },
+        {
+          "es": "Más o menos.",
+          "en": "So-so."
+        },
+        {
+          "es": "¿Qué tal el fin de semana?",
+          "en": "How was your weekend?"
+        },
+        {
+          "es": "Lo pasé genial.",
+          "en": "I had a great time."
+        },
+        {
+          "es": "Nada nuevo.",
+          "en": "Nothing new."
+        },
+        {
+          "es": "Igualmente.",
+          "en": "Likewise."
+        },
+        {
+          "es": "¡Qué bien!",
+          "en": "How nice! / Great!"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-23",
+      "words": [
+        {
+          "es": "la amistad",
+          "en": "friendship"
+        },
+        {
+          "es": "el novio",
+          "en": "boyfriend"
+        },
+        {
+          "es": "la novia",
+          "en": "girlfriend"
+        },
+        {
+          "es": "la pareja",
+          "en": "partner, couple"
+        },
+        {
+          "es": "conocer",
+          "en": "to meet, to know"
+        },
+        {
+          "es": "el mejor amigo",
+          "en": "best friend"
+        },
+        {
+          "es": "enamorarse",
+          "en": "to fall in love"
+        },
+        {
+          "es": "salir con",
+          "en": "to go out with"
+        },
+        {
+          "es": "llevarse bien",
+          "en": "to get along"
+        },
+        {
+          "es": "echar de menos",
+          "en": "to miss (someone)"
+        }
+      ],
+      "sentences": [
+        {
+          "es": "Te echo de menos.",
+          "en": "I miss you."
+        },
+        {
+          "es": "Es mi mejor amiga.",
+          "en": "She's my best friend."
+        },
+        {
+          "es": "Nos conocimos en la universidad.",
+          "en": "We met at university."
+        },
+        {
+          "es": "Me llevo muy bien con mis compañeros.",
+          "en": "I get along very well with my coworkers."
+        },
+        {
+          "es": "¿Tienes novio?",
+          "en": "Do you have a boyfriend?"
+        },
+        {
+          "es": "Están saliendo desde hace un año.",
+          "en": "They've been dating for a year."
+        },
+        {
+          "es": "Se enamoró a primera vista.",
+          "en": "He fell in love at first sight."
+        },
+        {
+          "es": "Somos amigos desde la infancia.",
+          "en": "We've been friends since childhood."
+        },
+        {
+          "es": "Mi pareja es de Madrid.",
+          "en": "My partner is from Madrid."
+        },
+        {
+          "es": "Saluda a tu familia de mi parte.",
+          "en": "Say hi to your family for me."
+        }
+      ]
+    },
+    {
+      "date": "2026-09-22",
+      "words": [
+        {
+          "es": "el ingeniero",
+          "en": "engineer"
+        },
+        {
+          "es": "el abogado",
+          "en": "lawyer"
+        },
+        {
+          "es": "el enfermero",
+          "en": "nurse"
+        },
+        {
+          "es": "el cocinero",
+          "en": "cook, chef"
+        },
+        {
+          "es": "el dependiente",
+          "en": "shop assistant"
+        },
+        {
+          "es": "el periodista",
+          "en": "journalist"
+        },
+        {
+          "es": "el diseñador",
+          "en": "designer"
+        },
+        {
+          "es": "el funcionario",
+          "en": "civil servant"
+        },
+        {
+          "es": "la profesión",
+          "en": "profession"
+        },
+        {
+          "es": "dedicarse a",
+          "en": "to do for a living"
+        }
+      ],
+      "sentences": [
+        {
+          "es": "¿A qué te dedicas?",
+          "en": "What do you do for a living?"
+        },
+        {
+          "es": "Soy ingeniera.",
+          "en": "I'm an engineer."
+        },
+        {
+          "es": "Mi madre es enfermera.",
+          "en": "My mother is a nurse."
+        },
+        {
+          "es": "Trabajo como diseñadora.",
+          "en": "I work as a designer."
+        },
+        {
+          "es": "Quiero ser periodista.",
+          "en": "I want to be a journalist."
+        },
+        {
+          "es": "Mi tío es cocinero en un hotel.",
+          "en": "My uncle is a chef at a hotel."
+        },
+        {
+          "es": "¿Cuánto tiempo llevas en esta profesión?",
+          "en": "How long have you been in this profession?"
+        },
+        {
+          "es": "Necesito hablar con un abogado.",
+          "en": "I need to speak to a lawyer."
+        },
+        {
+          "es": "Mi hermana es funcionaria.",
+          "en": "My sister is a civil servant."
+        },
+        {
+          "es": "Me encanta mi trabajo.",
+          "en": "I love my job."
+        }
+      ]
+    },
+    {
+      "date": "2026-09-21",
+      "words": [
+        {
+          "es": "coreano",
+          "en": "Korean"
+        },
+        {
+          "es": "español",
+          "en": "Spanish"
+        },
+        {
+          "es": "inglés",
+          "en": "English"
+        },
+        {
+          "es": "francés",
+          "en": "French"
+        },
+        {
+          "es": "alemán",
+          "en": "German"
+        },
+        {
+          "es": "japonés",
+          "en": "Japanese"
+        },
+        {
+          "es": "chino",
+          "en": "Chinese"
+        },
+        {
+          "es": "mexicano",
+          "en": "Mexican"
+        },
+        {
+          "es": "estadounidense",
+          "en": "American (US)"
+        },
+        {
+          "es": "extranjero",
+          "en": "foreigner; foreign"
+        }
+      ],
+      "sentences": [
+        {
+          "es": "Soy coreana.",
+          "en": "I'm Korean."
+        },
+        {
+          "es": "¿Eres español o mexicano?",
+          "en": "Are you Spanish or Mexican?"
+        },
+        {
+          "es": "Mi amiga es francesa.",
+          "en": "My friend is French."
+        },
+        {
+          "es": "Hablo inglés en el trabajo.",
+          "en": "I speak English at work."
+        },
+        {
+          "es": "Trabajo con una empresa alemana.",
+          "en": "I work with a German company."
+        },
+        {
+          "es": "Me gusta la comida japonesa.",
+          "en": "I like Japanese food."
+        },
+        {
+          "es": "Estoy estudiando chino también.",
+          "en": "I'm studying Chinese too."
+        },
+        {
+          "es": "Hay muchos extranjeros en esta ciudad.",
+          "en": "There are many foreigners in this city."
+        },
+        {
+          "es": "Mi compañero es estadounidense.",
+          "en": "My coworker is American."
+        },
+        {
+          "es": "¿Cuál es tu nacionalidad?",
+          "en": "What's your nationality?"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-20",
+      "words": [
+        {
+          "es": "la primavera",
+          "en": "spring"
+        },
+        {
+          "es": "el otoño",
+          "en": "autumn, fall"
+        },
+        {
+          "es": "el invierno",
+          "en": "winter"
+        },
+        {
+          "es": "la estación",
+          "en": "season"
+        },
+        {
+          "es": "las hojas",
+          "en": "leaves"
+        },
+        {
+          "es": "el clima",
+          "en": "climate"
+        },
+        {
+          "es": "húmedo",
+          "en": "humid"
+        },
+        {
+          "es": "seco",
+          "en": "dry"
+        },
+        {
+          "es": "florecer",
+          "en": "to bloom"
+        },
+        {
+          "es": "la ola de calor",
+          "en": "heat wave"
+        }
+      ],
+      "sentences": [
+        {
+          "es": "Mi estación favorita es el otoño.",
+          "en": "My favorite season is autumn."
+        },
+        {
+          "es": "En invierno hace mucho frío en Seúl.",
+          "en": "In winter it's very cold in Seoul."
+        },
+        {
+          "es": "En primavera florecen los cerezos.",
+          "en": "In spring the cherry trees bloom."
+        },
+        {
+          "es": "Las hojas cambian de color.",
+          "en": "The leaves change color."
+        },
+        {
+          "es": "El verano en Corea es muy húmedo.",
+          "en": "Summer in Korea is very humid."
+        },
+        {
+          "es": "El clima aquí es seco.",
+          "en": "The climate here is dry."
+        },
+        {
+          "es": "Hay una ola de calor.",
+          "en": "There's a heat wave."
+        },
+        {
+          "es": "Ya llega el invierno.",
+          "en": "Winter is coming."
+        },
+        {
+          "es": "Me gusta el otoño porque no hace calor.",
+          "en": "I like autumn because it's not hot."
+        },
+        {
+          "es": "¿Cómo es el clima en tu país?",
+          "en": "What's the climate like in your country?"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-19",
+      "words": [
+        {
+          "es": "el lunes",
+          "en": "Monday"
+        },
+        {
+          "es": "el martes",
+          "en": "Tuesday"
+        },
+        {
+          "es": "el miércoles",
+          "en": "Wednesday"
+        },
+        {
+          "es": "el jueves",
+          "en": "Thursday"
+        },
+        {
+          "es": "el viernes",
+          "en": "Friday"
+        },
+        {
+          "es": "el domingo",
+          "en": "Sunday"
+        },
+        {
+          "es": "enero",
+          "en": "January"
+        },
+        {
+          "es": "julio",
+          "en": "July"
+        },
+        {
+          "es": "la fecha",
+          "en": "date"
+        },
+        {
+          "es": "el calendario",
+          "en": "calendar"
+        }
+      ],
+      "sentences": [
+        {
+          "es": "¿Qué fecha es hoy?",
+          "en": "What's the date today?"
+        },
+        {
+          "es": "Hoy es el quince de agosto.",
+          "en": "Today is August fifteenth."
+        },
+        {
+          "es": "Nos vemos el jueves.",
+          "en": "See you on Thursday."
+        },
+        {
+          "es": "Los miércoles tengo clase de español.",
+          "en": "On Wednesdays I have Spanish class."
+        },
+        {
+          "es": "Nací en julio.",
+          "en": "I was born in July."
+        },
+        {
+          "es": "Lo apunto en el calendario.",
+          "en": "I'll write it in the calendar."
+        },
+        {
+          "es": "El viernes es festivo.",
+          "en": "Friday is a holiday."
+        },
+        {
+          "es": "Empiezo el trabajo en enero.",
+          "en": "I start the job in January."
+        },
+        {
+          "es": "El martes no puedo.",
+          "en": "I can't on Tuesday."
+        },
+        {
+          "es": "¡Por fin es viernes!",
+          "en": "Finally it's Friday!"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-18",
+      "words": [
+        {
+          "es": "las redes sociales",
+          "en": "social media"
+        },
+        {
+          "es": "seguir",
+          "en": "to follow"
+        },
+        {
+          "es": "publicar",
+          "en": "to post"
+        },
+        {
+          "es": "la publicación",
+          "en": "post"
+        },
+        {
+          "es": "el seguidor",
+          "en": "follower"
+        },
+        {
+          "es": "compartir",
+          "en": "to share"
+        },
+        {
+          "es": "el comentario",
+          "en": "comment"
+        },
+        {
+          "es": "la historia",
+          "en": "story"
+        },
+        {
+          "es": "etiquetar",
+          "en": "to tag"
+        },
+        {
+          "es": "el enlace",
+          "en": "link"
+        }
+      ],
+      "sentences": [
+        {
+          "es": "¿Me sigues en Instagram?",
+          "en": "Do you follow me on Instagram?"
+        },
+        {
+          "es": "Publiqué una foto del viaje.",
+          "en": "I posted a photo from the trip."
+        },
+        {
+          "es": "¿Me pasas el enlace?",
+          "en": "Can you send me the link?"
+        },
+        {
+          "es": "No me etiquetes, por favor.",
+          "en": "Don't tag me, please."
+        },
+        {
+          "es": "Comparte la publicación.",
+          "en": "Share the post."
+        },
+        {
+          "es": "Tiene muchos seguidores.",
+          "en": "She has a lot of followers."
+        },
+        {
+          "es": "Paso demasiado tiempo en las redes sociales.",
+          "en": "I spend too much time on social media."
+        },
+        {
+          "es": "Gracias por tu comentario.",
+          "en": "Thanks for your comment."
+        },
+        {
+          "es": "Subí una historia.",
+          "en": "I uploaded a story."
+        },
+        {
+          "es": "Le di me gusta a tu foto.",
+          "en": "I liked your photo."
+        }
+      ]
+    },
+    {
+      "date": "2026-09-17",
+      "words": [
+        {
+          "es": "el concierto",
+          "en": "concert"
+        },
+        {
+          "es": "la canción",
+          "en": "song"
+        },
+        {
+          "es": "el cantante",
+          "en": "singer"
+        },
+        {
+          "es": "el grupo",
+          "en": "band, group"
+        },
+        {
+          "es": "la guitarra",
+          "en": "guitar"
+        },
+        {
+          "es": "tocar",
+          "en": "to play (an instrument)"
+        },
+        {
+          "es": "cantar",
+          "en": "to sing"
+        },
+        {
+          "es": "escuchar",
+          "en": "to listen"
+        },
+        {
+          "es": "el escenario",
+          "en": "stage"
+        },
+        {
+          "es": "la letra",
+          "en": "lyrics"
+        }
+      ],
+      "sentences": [
+        {
+          "es": "¿Vamos al concierto el sábado?",
+          "en": "Shall we go to the concert on Saturday?"
+        },
+        {
+          "es": "Me encanta esta canción.",
+          "en": "I love this song."
+        },
+        {
+          "es": "¿Tocas algún instrumento?",
+          "en": "Do you play any instrument?"
+        },
+        {
+          "es": "Toco un poco la guitarra.",
+          "en": "I play the guitar a little."
+        },
+        {
+          "es": "Canto muy mal.",
+          "en": "I sing very badly."
+        },
+        {
+          "es": "¿Qué estás escuchando?",
+          "en": "What are you listening to?"
+        },
+        {
+          "es": "El grupo salió al escenario.",
+          "en": "The band came out on stage."
+        },
+        {
+          "es": "No me sé la letra.",
+          "en": "I don't know the lyrics."
+        },
+        {
+          "es": "Las entradas se agotaron.",
+          "en": "The tickets sold out."
+        },
+        {
+          "es": "Fue un concierto increíble.",
+          "en": "It was an amazing concert."
+        }
+      ]
+    },
+    {
+      "date": "2026-09-16",
+      "words": [
+        {
+          "es": "la serie",
+          "en": "TV series"
+        },
+        {
+          "es": "el capítulo",
+          "en": "episode"
+        },
+        {
+          "es": "el actor",
+          "en": "actor"
+        },
+        {
+          "es": "la actriz",
+          "en": "actress"
+        },
+        {
+          "es": "el estreno",
+          "en": "premiere, release"
+        },
+        {
+          "es": "la entrada",
+          "en": "ticket (event)"
+        },
+        {
+          "es": "los subtítulos",
+          "en": "subtitles"
+        },
+        {
+          "es": "la tele",
+          "en": "TV"
+        },
+        {
+          "es": "recomendar",
+          "en": "to recommend"
+        },
+        {
+          "es": "el final",
+          "en": "ending"
+        }
+      ],
+      "sentences": [
+        {
+          "es": "¿Has visto la nueva serie?",
+          "en": "Have you seen the new series?"
+        },
+        {
+          "es": "Dos entradas para las ocho, por favor.",
+          "en": "Two tickets for eight o'clock, please."
+        },
+        {
+          "es": "¿La ponen con subtítulos?",
+          "en": "Is it shown with subtitles?"
+        },
+        {
+          "es": "No me cuentes el final.",
+          "en": "Don't tell me the ending."
+        },
+        {
+          "es": "Vi tres capítulos anoche.",
+          "en": "I watched three episodes last night."
+        },
+        {
+          "es": "Es mi actor favorito.",
+          "en": "He's my favorite actor."
+        },
+        {
+          "es": "¿Qué me recomiendas ver?",
+          "en": "What do you recommend I watch?"
+        },
+        {
+          "es": "La película fue muy emocionante.",
+          "en": "The movie was very exciting."
+        },
+        {
+          "es": "No hay nada en la tele.",
+          "en": "There's nothing on TV."
+        },
+        {
+          "es": "El estreno es el viernes.",
+          "en": "The premiere is on Friday."
+        }
+      ]
+    },
+    {
+      "date": "2026-09-15",
+      "words": [
+        {
+          "es": "la peluquería",
+          "en": "hair salon"
+        },
+        {
+          "es": "el corte",
+          "en": "haircut"
+        },
+        {
+          "es": "el flequillo",
+          "en": "bangs, fringe"
+        },
+        {
+          "es": "largo",
+          "en": "long"
+        },
+        {
+          "es": "corto",
+          "en": "short (length)"
+        },
+        {
+          "es": "teñir",
+          "en": "to dye"
+        },
+        {
+          "es": "rizado",
+          "en": "curly"
+        },
+        {
+          "es": "liso",
+          "en": "straight (hair)"
+        },
+        {
+          "es": "el peine",
+          "en": "comb"
+        },
+        {
+          "es": "el secador",
+          "en": "hair dryer"
+        }
+      ],
+      "sentences": [
+        {
+          "es": "Quiero cortarme el pelo.",
+          "en": "I want to get a haircut."
+        },
+        {
+          "es": "Solo las puntas, por favor.",
+          "en": "Just the ends, please."
+        },
+        {
+          "es": "No muy corto, por favor.",
+          "en": "Not too short, please."
+        },
+        {
+          "es": "Me gustaría teñirme el pelo.",
+          "en": "I'd like to dye my hair."
+        },
+        {
+          "es": "¿Tiene cita libre hoy?",
+          "en": "Do you have an appointment free today?"
+        },
+        {
+          "es": "Tengo el pelo liso.",
+          "en": "I have straight hair."
+        },
+        {
+          "es": "Quiero flequillo.",
+          "en": "I want bangs."
+        },
+        {
+          "es": "¿Cuánto cuesta un corte?",
+          "en": "How much is a haircut?"
+        },
+        {
+          "es": "Te queda muy bien el pelo corto.",
+          "en": "Short hair looks great on you."
+        },
+        {
+          "es": "¿Me presta un secador?",
+          "en": "Can I borrow a hair dryer?"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-14",
+      "words": [
+        {
+          "es": "la lavadora",
+          "en": "washing machine"
+        },
+        {
+          "es": "la secadora",
+          "en": "dryer"
+        },
+        {
+          "es": "el cesto",
+          "en": "laundry basket"
+        },
+        {
+          "es": "tender",
+          "en": "to hang out (laundry)"
+        },
+        {
+          "es": "planchar",
+          "en": "to iron"
+        },
+        {
+          "es": "la plancha",
+          "en": "iron"
+        },
+        {
+          "es": "sucio",
+          "en": "dirty"
+        },
+        {
+          "es": "doblar",
+          "en": "to fold"
+        },
+        {
+          "es": "la mancha",
+          "en": "stain"
+        },
+        {
+          "es": "el detergente",
+          "en": "detergent"
+        }
+      ],
+      "sentences": [
+        {
+          "es": "Hoy tengo que lavar la ropa.",
+          "en": "I have to do the laundry today."
+        },
+        {
+          "es": "¿Puedes tender la ropa?",
+          "en": "Can you hang out the laundry?"
+        },
+        {
+          "es": "Odio planchar.",
+          "en": "I hate ironing."
+        },
+        {
+          "es": "Esta camisa tiene una mancha.",
+          "en": "This shirt has a stain."
+        },
+        {
+          "es": "La ropa sucia va en el cesto.",
+          "en": "Dirty clothes go in the basket."
+        },
+        {
+          "es": "¿Dónde está el detergente?",
+          "en": "Where's the detergent?"
+        },
+        {
+          "es": "La ropa ya está seca.",
+          "en": "The clothes are dry now."
+        },
+        {
+          "es": "Voy a doblar las toallas.",
+          "en": "I'm going to fold the towels."
+        },
+        {
+          "es": "No metas esto en la secadora.",
+          "en": "Don't put this in the dryer."
+        },
+        {
+          "es": "La lavadora ya terminó.",
+          "en": "The washing machine is done."
+        }
+      ]
+    },
+    {
+      "date": "2026-09-13",
+      "words": [
+        {
+          "es": "romper",
+          "en": "to break"
+        },
+        {
+          "es": "arreglar",
+          "en": "to fix, to repair"
+        },
+        {
+          "es": "funcionar",
+          "en": "to work (function)"
+        },
+        {
+          "es": "la calefacción",
+          "en": "heating"
+        },
+        {
+          "es": "el aire acondicionado",
+          "en": "air conditioning"
+        },
+        {
+          "es": "el grifo",
+          "en": "faucet, tap"
+        },
+        {
+          "es": "la luz",
+          "en": "light; electricity"
+        },
+        {
+          "es": "el fontanero",
+          "en": "plumber"
+        },
+        {
+          "es": "la avería",
+          "en": "breakdown, fault"
+        },
+        {
+          "es": "gotear",
+          "en": "to drip, to leak"
+        }
+      ],
+      "sentences": [
+        {
+          "es": "La calefacción no funciona.",
+          "en": "The heating isn't working."
+        },
+        {
+          "es": "Se ha roto la lavadora.",
+          "en": "The washing machine is broken."
+        },
+        {
+          "es": "El grifo gotea.",
+          "en": "The faucet is dripping."
+        },
+        {
+          "es": "Se fue la luz.",
+          "en": "The power went out."
+        },
+        {
+          "es": "¿Puedes arreglarlo?",
+          "en": "Can you fix it?"
+        },
+        {
+          "es": "Tengo que llamar al fontanero.",
+          "en": "I have to call the plumber."
+        },
+        {
+          "es": "¿Cuándo pueden venir a repararlo?",
+          "en": "When can you come to repair it?"
+        },
+        {
+          "es": "Hace mucho calor, enciende el aire acondicionado.",
+          "en": "It's very hot, turn on the air conditioning."
+        },
+        {
+          "es": "Hay una avería en el edificio.",
+          "en": "There's a fault in the building."
+        },
+        {
+          "es": "Ya está arreglado.",
+          "en": "It's fixed now."
+        }
+      ]
+    },
+    {
+      "date": "2026-09-12",
+      "words": [
+        {
+          "es": "el robo",
+          "en": "theft"
+        },
+        {
+          "es": "encontrar",
+          "en": "to find"
+        },
+        {
+          "es": "la cartera",
+          "en": "wallet"
+        },
+        {
+          "es": "el bolso",
+          "en": "bag, purse"
+        },
+        {
+          "es": "las llaves",
+          "en": "keys"
+        },
+        {
+          "es": "robar",
+          "en": "to steal"
+        },
+        {
+          "es": "la denuncia",
+          "en": "police report"
+        },
+        {
+          "es": "buscar",
+          "en": "to look for"
+        },
+        {
+          "es": "dejar",
+          "en": "to leave (behind)"
+        },
+        {
+          "es": "la policía",
+          "en": "police"
+        }
+      ],
+      "sentences": [
+        {
+          "es": "He perdido mi cartera.",
+          "en": "I've lost my wallet."
+        },
+        {
+          "es": "¿Has visto mis llaves?",
+          "en": "Have you seen my keys?"
+        },
+        {
+          "es": "Me han robado el bolso.",
+          "en": "My bag has been stolen."
+        },
+        {
+          "es": "Quiero poner una denuncia.",
+          "en": "I want to file a police report."
+        },
+        {
+          "es": "Creo que lo dejé en el taxi.",
+          "en": "I think I left it in the taxi."
+        },
+        {
+          "es": "¿Dónde está la oficina de objetos perdidos?",
+          "en": "Where is the lost and found?"
+        },
+        {
+          "es": "¡Lo encontré!",
+          "en": "I found it!"
+        },
+        {
+          "es": "Estoy buscando mi pasaporte.",
+          "en": "I'm looking for my passport."
+        },
+        {
+          "es": "Llame a la policía, por favor.",
+          "en": "Call the police, please."
+        },
+        {
+          "es": "¡Socorro!",
+          "en": "Help!"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-11",
+      "words": [
+        {
+          "es": "pero",
+          "en": "but"
+        },
+        {
+          "es": "porque",
+          "en": "because"
+        },
+        {
+          "es": "también",
+          "en": "also, too"
+        },
+        {
+          "es": "entonces",
+          "en": "then, so"
+        },
+        {
+          "es": "además",
+          "en": "besides, also"
+        },
+        {
+          "es": "sin embargo",
+          "en": "however"
+        },
+        {
+          "es": "aunque",
+          "en": "although"
+        },
+        {
+          "es": "por eso",
+          "en": "that's why"
+        },
+        {
+          "es": "o sea",
+          "en": "I mean"
+        },
+        {
+          "es": "primero",
+          "en": "first"
+        }
+      ],
+      "sentences": [
+        {
+          "es": "Me gusta, pero es caro.",
+          "en": "I like it, but it's expensive."
+        },
+        {
+          "es": "No vine porque estaba enferma.",
+          "en": "I didn't come because I was sick."
+        },
+        {
+          "es": "Yo también.",
+          "en": "Me too."
+        },
+        {
+          "es": "Entonces, ¿qué hacemos?",
+          "en": "So, what do we do?"
+        },
+        {
+          "es": "Además, es muy barato.",
+          "en": "Besides, it's very cheap."
+        },
+        {
+          "es": "Aunque llueva, vamos a salir.",
+          "en": "Even if it rains, we're going out."
+        },
+        {
+          "es": "Por eso no te llamé.",
+          "en": "That's why I didn't call you."
+        },
+        {
+          "es": "O sea, que no vienes.",
+          "en": "I mean, so you're not coming."
+        },
+        {
+          "es": "Primero comemos y luego paseamos.",
+          "en": "First we eat and then we go for a walk."
+        },
+        {
+          "es": "Sin embargo, no es fácil.",
+          "en": "However, it isn't easy."
+        }
+      ]
+    },
+    {
+      "date": "2026-09-10",
+      "words": [
+        {
+          "es": "qué",
+          "en": "what"
+        },
+        {
+          "es": "quién",
+          "en": "who"
+        },
+        {
+          "es": "dónde",
+          "en": "where"
+        },
+        {
+          "es": "cuándo",
+          "en": "when"
+        },
+        {
+          "es": "cómo",
+          "en": "how"
+        },
+        {
+          "es": "por qué",
+          "en": "why"
+        },
+        {
+          "es": "cuánto",
+          "en": "how much"
+        },
+        {
+          "es": "cuál",
+          "en": "which"
+        },
+        {
+          "es": "adónde",
+          "en": "where (to)"
+        },
+        {
+          "es": "de quién",
+          "en": "whose"
+        }
+      ],
+      "sentences": [
+        {
+          "es": "¿Quién es?",
+          "en": "Who is it?"
+        },
+        {
+          "es": "¿Cuándo es tu cumpleaños?",
+          "en": "When is your birthday?"
+        },
+        {
+          "es": "¿Por qué no vienes?",
+          "en": "Why don't you come?"
+        },
+        {
+          "es": "¿Cuál prefieres?",
+          "en": "Which one do you prefer?"
+        },
+        {
+          "es": "¿Adónde vas?",
+          "en": "Where are you going?"
+        },
+        {
+          "es": "¿De quién es este bolso?",
+          "en": "Whose bag is this?"
+        },
+        {
+          "es": "¿Cuántos son?",
+          "en": "How many are there?"
+        },
+        {
+          "es": "¿Qué pasa?",
+          "en": "What's going on?"
+        },
+        {
+          "es": "¿Cómo fue el viaje?",
+          "en": "How was the trip?"
+        },
+        {
+          "es": "¿Desde cuándo vives aquí?",
+          "en": "How long have you lived here?"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-09",
+      "words": [
+        {
+          "es": "a veces",
+          "en": "sometimes"
+        },
+        {
+          "es": "nunca",
+          "en": "never"
+        },
+        {
+          "es": "a menudo",
+          "en": "often"
+        },
+        {
+          "es": "casi",
+          "en": "almost"
+        },
+        {
+          "es": "normalmente",
+          "en": "usually"
+        },
+        {
+          "es": "de vez en cuando",
+          "en": "from time to time"
+        },
+        {
+          "es": "cada",
+          "en": "each, every"
+        },
+        {
+          "es": "una vez",
+          "en": "once"
+        },
+        {
+          "es": "otra vez",
+          "en": "again"
+        },
+        {
+          "es": "todos los días",
+          "en": "every day"
+        }
+      ],
+      "sentences": [
+        {
+          "es": "Nunca bebo café por la noche.",
+          "en": "I never drink coffee at night."
+        },
+        {
+          "es": "A veces trabajo los sábados.",
+          "en": "I sometimes work on Saturdays."
+        },
+        {
+          "es": "Voy al cine de vez en cuando.",
+          "en": "I go to the movies from time to time."
+        },
+        {
+          "es": "Normalmente me levanto a las siete.",
+          "en": "I usually get up at seven."
+        },
+        {
+          "es": "Casi siempre llego a tiempo.",
+          "en": "I'm almost always on time."
+        },
+        {
+          "es": "¿Puedes decirlo otra vez?",
+          "en": "Can you say it again?"
+        },
+        {
+          "es": "Lo veo una vez al mes.",
+          "en": "I see him once a month."
+        },
+        {
+          "es": "Cada día aprendo algo nuevo.",
+          "en": "Every day I learn something new."
+        },
+        {
+          "es": "Hablamos a menudo.",
+          "en": "We talk often."
+        },
+        {
+          "es": "Estudio español todos los días.",
+          "en": "I study Spanish every day."
+        }
+      ]
+    },
+    {
+      "date": "2026-09-08",
+      "words": [
+        {
+          "es": "gastar",
+          "en": "to spend"
+        },
+        {
+          "es": "ahorrar",
+          "en": "to save (money)"
+        },
+        {
+          "es": "el gasto",
+          "en": "expense"
+        },
+        {
+          "es": "el cambio",
+          "en": "change (money)"
+        },
+        {
+          "es": "el alquiler",
+          "en": "rent"
+        },
+        {
+          "es": "la factura",
+          "en": "bill, invoice"
+        },
+        {
+          "es": "prestar",
+          "en": "to lend"
+        },
+        {
+          "es": "deber",
+          "en": "to owe"
+        },
+        {
+          "es": "la transferencia",
+          "en": "bank transfer"
+        },
+        {
+          "es": "el ahorro",
+          "en": "savings"
+        }
+      ],
+      "sentences": [
+        {
+          "es": "Gasto mucho en comida.",
+          "en": "I spend a lot on food."
+        },
+        {
+          "es": "Estoy ahorrando para un viaje.",
+          "en": "I'm saving for a trip."
+        },
+        {
+          "es": "¿Me prestas diez euros?",
+          "en": "Can you lend me ten euros?"
+        },
+        {
+          "es": "Te debo una.",
+          "en": "I owe you one."
+        },
+        {
+          "es": "Tengo que pagar el alquiler.",
+          "en": "I have to pay the rent."
+        },
+        {
+          "es": "Ha llegado la factura de la luz.",
+          "en": "The electricity bill has arrived."
+        },
+        {
+          "es": "Te hago una transferencia.",
+          "en": "I'll send you a bank transfer."
+        },
+        {
+          "es": "No me lo puedo permitir.",
+          "en": "I can't afford it."
+        },
+        {
+          "es": "Vamos a pagar a medias.",
+          "en": "Let's split it."
+        },
+        {
+          "es": "Esto no vale la pena.",
+          "en": "This isn't worth it."
+        }
+      ]
+    },
+    {
+      "date": "2026-09-07",
+      "words": [
+        {
+          "es": "la entrevista",
+          "en": "interview"
+        },
+        {
+          "es": "el currículum",
+          "en": "résumé, CV"
+        },
+        {
+          "es": "la experiencia",
+          "en": "experience"
+        },
+        {
+          "es": "el puesto",
+          "en": "position, job"
+        },
+        {
+          "es": "el sueldo",
+          "en": "salary"
+        },
+        {
+          "es": "contratar",
+          "en": "to hire"
+        },
+        {
+          "es": "la empresa multinacional",
+          "en": "multinational company"
+        },
+        {
+          "es": "el punto fuerte",
+          "en": "strength"
+        },
+        {
+          "es": "el reto",
+          "en": "challenge"
+        },
+        {
+          "es": "la formación",
+          "en": "education, training"
+        }
+      ],
+      "sentences": [
+        {
+          "es": "Tengo una entrevista de trabajo mañana.",
+          "en": "I have a job interview tomorrow."
+        },
+        {
+          "es": "Le envío mi currículum.",
+          "en": "I'm sending you my CV."
+        },
+        {
+          "es": "Tengo cinco años de experiencia.",
+          "en": "I have five years of experience."
+        },
+        {
+          "es": "Me interesa mucho este puesto.",
+          "en": "I'm very interested in this position."
+        },
+        {
+          "es": "Mi punto fuerte es la organización.",
+          "en": "My strength is organization."
+        },
+        {
+          "es": "Me gustan los retos.",
+          "en": "I like challenges."
+        },
+        {
+          "es": "¿Cuándo puedo empezar?",
+          "en": "When can I start?"
+        },
+        {
+          "es": "¿Por qué quiere trabajar aquí?",
+          "en": "Why do you want to work here?"
+        },
+        {
+          "es": "Trabajo bien en equipo.",
+          "en": "I work well in a team."
+        },
+        {
+          "es": "Le llamaremos la próxima semana.",
+          "en": "We'll call you next week."
+        }
+      ]
+    },
+    {
+      "date": "2026-09-06",
+      "words": [
+        {
+          "es": "estimado",
+          "en": "dear (formal)"
+        },
+        {
+          "es": "adjuntar",
+          "en": "to attach"
+        },
+        {
+          "es": "el asunto",
+          "en": "subject"
+        },
+        {
+          "es": "responder",
+          "en": "to reply"
+        },
+        {
+          "es": "reenviar",
+          "en": "to forward"
+        },
+        {
+          "es": "el saludo",
+          "en": "greeting"
+        },
+        {
+          "es": "atentamente",
+          "en": "sincerely"
+        },
+        {
+          "es": "la copia",
+          "en": "copy (cc)"
+        },
+        {
+          "es": "la confirmación",
+          "en": "confirmation"
+        },
+        {
+          "es": "la fecha límite",
+          "en": "deadline"
+        }
+      ],
+      "sentences": [
+        {
+          "es": "Estimado señor López:",
+          "en": "Dear Mr. López,"
+        },
+        {
+          "es": "Le adjunto el documento.",
+          "en": "I'm attaching the document."
+        },
+        {
+          "es": "Gracias por su respuesta.",
+          "en": "Thank you for your reply."
+        },
+        {
+          "es": "Te reenvío el correo de Ana.",
+          "en": "I'm forwarding you Ana's email."
+        },
+        {
+          "es": "Te pongo en copia.",
+          "en": "I'm copying you in."
+        },
+        {
+          "es": "Un saludo.",
+          "en": "Best regards."
+        },
+        {
+          "es": "Atentamente, Arim Kim",
+          "en": "Sincerely, Arim Kim"
+        },
+        {
+          "es": "¿Me puede confirmar la fecha?",
+          "en": "Could you confirm the date?"
+        },
+        {
+          "es": "Le respondo lo antes posible.",
+          "en": "I'll reply as soon as possible."
+        },
+        {
+          "es": "Disculpe la demora en responder.",
+          "en": "Sorry for the late reply."
+        }
+      ]
+    },
+    {
+      "date": "2026-09-05",
+      "words": [
+        {
+          "es": "la presentación",
+          "en": "presentation"
+        },
+        {
+          "es": "la diapositiva",
+          "en": "slide"
+        },
+        {
+          "es": "el objetivo",
+          "en": "objective, goal"
+        },
+        {
+          "es": "el resultado",
+          "en": "result"
+        },
+        {
+          "es": "la conclusión",
+          "en": "conclusion"
+        },
+        {
+          "es": "mostrar",
+          "en": "to show"
+        },
+        {
+          "es": "explicar",
+          "en": "to explain"
+        },
+        {
+          "es": "resumir",
+          "en": "to summarize"
+        },
+        {
+          "es": "la pregunta",
+          "en": "question"
+        },
+        {
+          "es": "el gráfico",
+          "en": "chart, graph"
+        }
+      ],
+      "sentences": [
+        {
+          "es": "Hoy les voy a presentar los resultados.",
+          "en": "Today I'm going to present the results."
+        },
+        {
+          "es": "Como ven en esta diapositiva...",
+          "en": "As you can see on this slide..."
+        },
+        {
+          "es": "El objetivo es reducir costes.",
+          "en": "The goal is to reduce costs."
+        },
+        {
+          "es": "Este gráfico muestra las ventas del año.",
+          "en": "This chart shows the year's sales."
+        },
+        {
+          "es": "Les explico brevemente.",
+          "en": "Let me explain briefly."
+        },
+        {
+          "es": "Para resumir, todo va según lo previsto.",
+          "en": "To sum up, everything is going as planned."
+        },
+        {
+          "es": "¿Alguna duda hasta aquí?",
+          "en": "Any questions so far?"
+        },
+        {
+          "es": "Paso a la siguiente diapositiva.",
+          "en": "I'll move on to the next slide."
+        },
+        {
+          "es": "Gracias por su atención.",
+          "en": "Thank you for your attention."
+        },
+        {
+          "es": "Buena pregunta.",
+          "en": "Good question."
+        }
+      ]
+    },
+    {
+      "date": "2026-09-04",
+      "words": [
+        {
+          "es": "la opinión",
+          "en": "opinion"
+        },
+        {
+          "es": "pensar",
+          "en": "to think"
+        },
+        {
+          "es": "creer",
+          "en": "to believe, to think"
+        },
+        {
+          "es": "estar de acuerdo",
+          "en": "to agree"
+        },
+        {
+          "es": "la idea",
+          "en": "idea"
+        },
+        {
+          "es": "la razón",
+          "en": "reason; being right"
+        },
+        {
+          "es": "el punto de vista",
+          "en": "point of view"
+        },
+        {
+          "es": "parecer",
+          "en": "to seem"
+        },
+        {
+          "es": "dudar",
+          "en": "to doubt"
+        },
+        {
+          "es": "la verdad",
+          "en": "truth"
+        }
+      ],
+      "sentences": [
+        {
+          "es": "¿Qué opinas?",
+          "en": "What do you think?"
+        },
+        {
+          "es": "Creo que tienes razón.",
+          "en": "I think you're right."
+        },
+        {
+          "es": "No estoy de acuerdo.",
+          "en": "I don't agree."
+        },
+        {
+          "es": "Es una buena idea.",
+          "en": "It's a good idea."
+        },
+        {
+          "es": "Desde mi punto de vista, es mejor esperar.",
+          "en": "From my point of view, it's better to wait."
+        },
+        {
+          "es": "Me parece bien.",
+          "en": "That's fine with me."
+        },
+        {
+          "es": "Lo dudo.",
+          "en": "I doubt it."
+        },
+        {
+          "es": "La verdad es que no lo sé.",
+          "en": "The truth is I don't know."
+        },
+        {
+          "es": "Pienso lo mismo.",
+          "en": "I think the same."
+        },
+        {
+          "es": "Depende de cómo lo mires.",
+          "en": "It depends on how you look at it."
+        }
+      ]
+    },
+    {
+      "date": "2026-09-03",
+      "words": [
+        {
+          "es": "perdón",
+          "en": "sorry, excuse me"
+        },
+        {
+          "es": "disculpar",
+          "en": "to excuse, to forgive"
+        },
+        {
+          "es": "la culpa",
+          "en": "fault, blame"
+        },
+        {
+          "es": "de nada",
+          "en": "you're welcome"
+        },
+        {
+          "es": "por favor",
+          "en": "please"
+        },
+        {
+          "es": "agradecer",
+          "en": "to thank, to appreciate"
+        },
+        {
+          "es": "molestar",
+          "en": "to bother"
+        },
+        {
+          "es": "el favor",
+          "en": "favor"
+        },
+        {
+          "es": "sentir",
+          "en": "to feel, to be sorry"
+        },
+        {
+          "es": "la paciencia",
+          "en": "patience"
+        }
+      ],
+      "sentences": [
+        {
+          "es": "Perdón, no fue mi intención.",
+          "en": "Sorry, I didn't mean it."
+        },
+        {
+          "es": "Disculpe la molestia.",
+          "en": "Sorry for the trouble."
+        },
+        {
+          "es": "Fue culpa mía.",
+          "en": "It was my fault."
+        },
+        {
+          "es": "Gracias. —De nada.",
+          "en": "Thank you. —You're welcome."
+        },
+        {
+          "es": "¿Me haces un favor?",
+          "en": "Can you do me a favor?"
+        },
+        {
+          "es": "Te lo agradezco mucho.",
+          "en": "I really appreciate it."
+        },
+        {
+          "es": "¿Le molesta si abro la ventana?",
+          "en": "Do you mind if I open the window?"
+        },
+        {
+          "es": "Siento llegar tarde.",
+          "en": "Sorry I'm late."
+        },
+        {
+          "es": "Gracias por tu paciencia.",
+          "en": "Thank you for your patience."
+        },
+        {
+          "es": "No pasa nada.",
+          "en": "No problem. / It's fine."
+        }
+      ]
+    },
+    {
+      "date": "2026-09-02",
+      "words": [
+        {
+          "es": "el plan",
+          "en": "plan"
+        },
+        {
+          "es": "apetecer",
+          "en": "to feel like"
+        },
+        {
+          "es": "el sábado",
+          "en": "Saturday"
+        },
+        {
+          "es": "juntos",
+          "en": "together"
+        },
+        {
+          "es": "la próxima vez",
+          "en": "next time"
+        },
+        {
+          "es": "venir",
+          "en": "to come"
+        },
+        {
+          "es": "ir",
+          "en": "to go"
+        },
+        {
+          "es": "proponer",
+          "en": "to suggest"
+        },
+        {
+          "es": "depender",
+          "en": "to depend"
+        },
+        {
+          "es": "confirmar",
+          "en": "to confirm"
+        }
+      ],
+      "sentences": [
+        {
+          "es": "¿Tienes planes para el fin de semana?",
+          "en": "Do you have plans for the weekend?"
+        },
+        {
+          "es": "¿Te apetece ir al cine?",
+          "en": "Do you feel like going to the movies?"
+        },
+        {
+          "es": "¡Me parece genial!",
+          "en": "Sounds great!"
+        },
+        {
+          "es": "Depende del tiempo.",
+          "en": "It depends on the weather."
+        },
+        {
+          "es": "¿Vienes con nosotros?",
+          "en": "Are you coming with us?"
+        },
+        {
+          "es": "Lo dejamos para la próxima vez.",
+          "en": "Let's leave it for next time."
+        },
+        {
+          "es": "Te confirmo mañana.",
+          "en": "I'll confirm tomorrow."
+        },
+        {
+          "es": "¿Qué propones?",
+          "en": "What do you suggest?"
+        },
+        {
+          "es": "Me viene bien el sábado.",
+          "en": "Saturday works for me."
+        },
+        {
+          "es": "Podemos ir juntos.",
+          "en": "We can go together."
+        }
+      ]
+    },
+    {
+      "date": "2026-09-01",
+      "words": [
+        {
+          "es": "la fiesta",
+          "en": "party"
+        },
+        {
+          "es": "el cumpleaños",
+          "en": "birthday"
+        },
+        {
+          "es": "el regalo",
+          "en": "gift, present"
+        },
+        {
+          "es": "la tarta",
+          "en": "cake"
+        },
+        {
+          "es": "invitar",
+          "en": "to invite"
+        },
+        {
+          "es": "celebrar",
+          "en": "to celebrate"
+        },
+        {
+          "es": "la boda",
+          "en": "wedding"
+        },
+        {
+          "es": "felicitar",
+          "en": "to congratulate"
+        },
+        {
+          "es": "la Navidad",
+          "en": "Christmas"
+        },
+        {
+          "es": "el invitado",
+          "en": "guest"
+        }
+      ],
+      "sentences": [
+        {
+          "es": "¡Feliz cumpleaños!",
+          "en": "Happy birthday!"
+        },
+        {
+          "es": "Te invito a mi fiesta.",
+          "en": "I'm inviting you to my party."
+        },
+        {
+          "es": "¡Muchas felicidades!",
+          "en": "Congratulations!"
+        },
+        {
+          "es": "Este regalo es para ti.",
+          "en": "This gift is for you."
+        },
+        {
+          "es": "¿Qué vamos a celebrar?",
+          "en": "What are we celebrating?"
+        },
+        {
+          "es": "La boda es en junio.",
+          "en": "The wedding is in June."
+        },
+        {
+          "es": "¡Feliz Navidad!",
+          "en": "Merry Christmas!"
+        },
+        {
+          "es": "¿Cuántos invitados vienen?",
+          "en": "How many guests are coming?"
+        },
+        {
+          "es": "La tarta está buenísima.",
+          "en": "The cake is delicious."
+        },
+        {
+          "es": "¡Que lo pases bien!",
+          "en": "Have a good time!"
+        }
+      ]
+    },
+    {
+      "date": "2026-08-31",
+      "words": [
+        {
+          "es": "el verano",
+          "en": "summer"
+        },
+        {
+          "es": "la crema solar",
+          "en": "sunscreen"
+        },
+        {
+          "es": "el bañador",
+          "en": "swimsuit"
+        },
+        {
+          "es": "la toalla",
+          "en": "towel"
+        },
+        {
+          "es": "la sombrilla",
+          "en": "beach umbrella"
+        },
+        {
+          "es": "el helado",
+          "en": "ice cream"
+        },
+        {
+          "es": "la arena",
+          "en": "sand"
+        },
+        {
+          "es": "broncearse",
+          "en": "to tan"
+        },
+        {
+          "es": "quemarse",
+          "en": "to get sunburned"
+        },
+        {
+          "es": "la ola",
+          "en": "wave"
+        }
+      ],
+      "sentences": [
+        {
+          "es": "Ponte crema solar.",
+          "en": "Put on sunscreen."
+        },
+        {
+          "es": "Me quemé en la playa.",
+          "en": "I got sunburned at the beach."
+        },
+        {
+          "es": "¿Has traído la toalla?",
+          "en": "Did you bring the towel?"
+        },
+        {
+          "es": "Quiero un helado de chocolate.",
+          "en": "I want a chocolate ice cream."
+        },
+        {
+          "es": "El agua está fría.",
+          "en": "The water is cold."
+        },
+        {
+          "es": "Hay muchas olas hoy.",
+          "en": "There are lots of waves today."
+        },
+        {
+          "es": "Vamos a poner la sombrilla aquí.",
+          "en": "Let's put the umbrella here."
+        },
+        {
+          "es": "Me encanta el verano.",
+          "en": "I love summer."
+        },
+        {
+          "es": "La arena quema.",
+          "en": "The sand is burning hot."
+        },
+        {
+          "es": "Olvidé el bañador en casa.",
+          "en": "I forgot my swimsuit at home."
+        }
+      ]
+    },
+    {
+      "date": "2026-08-30",
+      "words": [
+        {
+          "es": "el fútbol",
+          "en": "soccer, football"
+        },
+        {
+          "es": "nadar",
+          "en": "to swim"
+        },
+        {
+          "es": "la piscina",
+          "en": "swimming pool"
+        },
+        {
+          "es": "el entrenamiento",
+          "en": "training, workout"
+        },
+        {
+          "es": "hacer ejercicio",
+          "en": "to exercise"
+        },
+        {
+          "es": "el partido",
+          "en": "match, game"
+        },
+        {
+          "es": "ganar",
+          "en": "to win"
+        },
+        {
+          "es": "perder",
+          "en": "to lose"
+        },
+        {
+          "es": "el equipo",
+          "en": "team"
+        },
+        {
+          "es": "estirar",
+          "en": "to stretch"
+        }
+      ],
+      "sentences": [
+        {
+          "es": "Hago ejercicio todas las mañanas.",
+          "en": "I exercise every morning."
+        },
+        {
+          "es": "¿Juegas al fútbol?",
+          "en": "Do you play soccer?"
+        },
+        {
+          "es": "¿Quién ganó el partido?",
+          "en": "Who won the match?"
+        },
+        {
+          "es": "Perdimos dos a uno.",
+          "en": "We lost two to one."
+        },
+        {
+          "es": "¿De qué equipo eres?",
+          "en": "Which team do you support?"
+        },
+        {
+          "es": "Voy a nadar a la piscina.",
+          "en": "I'm going swimming at the pool."
+        },
+        {
+          "es": "No olvides estirar.",
+          "en": "Don't forget to stretch."
+        },
+        {
+          "es": "El entrenamiento fue muy duro.",
+          "en": "The workout was very hard."
+        },
+        {
+          "es": "Estoy en forma.",
+          "en": "I'm in shape."
+        },
+        {
+          "es": "¡Vamos, tú puedes!",
+          "en": "Come on, you can do it!"
+        }
+      ]
+    },
+    {
+      "date": "2026-08-29",
+      "words": [
+        {
+          "es": "la tarjeta de embarque",
+          "en": "boarding pass"
+        },
+        {
+          "es": "la puerta de embarque",
+          "en": "boarding gate"
+        },
+        {
+          "es": "el equipaje",
+          "en": "luggage"
+        },
+        {
+          "es": "facturar",
+          "en": "to check in (luggage)"
+        },
+        {
+          "es": "el control de seguridad",
+          "en": "security check"
+        },
+        {
+          "es": "la aduana",
+          "en": "customs"
+        },
+        {
+          "es": "el retraso",
+          "en": "delay"
+        },
+        {
+          "es": "la ventanilla",
+          "en": "window (seat)"
+        },
+        {
+          "es": "el pasillo",
+          "en": "aisle"
+        },
+        {
+          "es": "aterrizar",
+          "en": "to land"
+        }
+      ],
+      "sentences": [
+        {
+          "es": "¿Dónde se factura el equipaje?",
+          "en": "Where do I check my luggage?"
+        },
+        {
+          "es": "¿Prefiere ventanilla o pasillo?",
+          "en": "Do you prefer window or aisle?"
+        },
+        {
+          "es": "Aquí tiene mi tarjeta de embarque.",
+          "en": "Here's my boarding pass."
+        },
+        {
+          "es": "¿Cuál es la puerta de embarque?",
+          "en": "Which is the boarding gate?"
+        },
+        {
+          "es": "El vuelo tiene un retraso de una hora.",
+          "en": "The flight is delayed by an hour."
+        },
+        {
+          "es": "Solo llevo equipaje de mano.",
+          "en": "I only have carry-on luggage."
+        },
+        {
+          "es": "No tengo nada que declarar.",
+          "en": "I have nothing to declare."
+        },
+        {
+          "es": "Mi equipaje no ha llegado.",
+          "en": "My luggage hasn't arrived."
+        },
+        {
+          "es": "Vamos a aterrizar pronto.",
+          "en": "We're going to land soon."
+        },
+        {
+          "es": "¿Dónde está la salida?",
+          "en": "Where is the exit?"
+        }
+      ]
+    },
+    {
+      "date": "2026-08-28",
+      "words": [
+        {
+          "es": "el paquete",
+          "en": "package"
+        },
+        {
+          "es": "la carta",
+          "en": "letter"
+        },
+        {
+          "es": "el sello",
+          "en": "stamp"
+        },
+        {
+          "es": "la dirección",
+          "en": "address"
+        },
+        {
+          "es": "el código postal",
+          "en": "postal code"
+        },
+        {
+          "es": "recoger",
+          "en": "to pick up"
+        },
+        {
+          "es": "entregar",
+          "en": "to deliver"
+        },
+        {
+          "es": "urgente",
+          "en": "urgent"
+        },
+        {
+          "es": "el envío",
+          "en": "shipment"
+        },
+        {
+          "es": "el buzón",
+          "en": "mailbox"
+        }
+      ],
+      "sentences": [
+        {
+          "es": "Quiero enviar este paquete a Corea.",
+          "en": "I want to send this package to Korea."
+        },
+        {
+          "es": "¿Cuánto cuesta enviarlo?",
+          "en": "How much does it cost to send it?"
+        },
+        {
+          "es": "¿Cuánto tarda en llegar?",
+          "en": "How long does it take to arrive?"
+        },
+        {
+          "es": "Necesito un sello para esta carta.",
+          "en": "I need a stamp for this letter."
+        },
+        {
+          "es": "¿Cuál es tu dirección?",
+          "en": "What's your address?"
+        },
+        {
+          "es": "Vengo a recoger un paquete.",
+          "en": "I'm here to pick up a package."
+        },
+        {
+          "es": "El envío es gratis.",
+          "en": "Shipping is free."
+        },
+        {
+          "es": "Lo entregan mañana.",
+          "en": "They'll deliver it tomorrow."
+        },
+        {
+          "es": "¿Hay un buzón por aquí?",
+          "en": "Is there a mailbox around here?"
+        },
+        {
+          "es": "Es urgente.",
+          "en": "It's urgent."
+        }
+      ]
+    },
+    {
+      "date": "2026-08-27",
+      "words": [
+        {
+          "es": "el idioma",
+          "en": "language"
+        },
+        {
+          "es": "la palabra",
+          "en": "word"
+        },
+        {
+          "es": "la frase",
+          "en": "sentence, phrase"
+        },
+        {
+          "es": "la pronunciación",
+          "en": "pronunciation"
+        },
+        {
+          "es": "el acento",
+          "en": "accent"
+        },
+        {
+          "es": "significar",
+          "en": "to mean"
+        },
+        {
+          "es": "traducir",
+          "en": "to translate"
+        },
+        {
+          "es": "practicar",
+          "en": "to practice"
+        },
+        {
+          "es": "el diccionario",
+          "en": "dictionary"
+        },
+        {
+          "es": "despacio",
+          "en": "slowly"
+        }
+      ],
+      "sentences": [
+        {
+          "es": "¿Qué significa esta palabra?",
+          "en": "What does this word mean?"
+        },
+        {
+          "es": "¿Puede hablar más despacio?",
+          "en": "Can you speak more slowly?"
+        },
+        {
+          "es": "¿Cómo se escribe?",
+          "en": "How do you spell it?"
+        },
+        {
+          "es": "Quiero practicar mi español.",
+          "en": "I want to practice my Spanish."
+        },
+        {
+          "es": "Mi pronunciación no es muy buena.",
+          "en": "My pronunciation isn't very good."
+        },
+        {
+          "es": "Tienes un acento muy bonito.",
+          "en": "You have a lovely accent."
+        },
+        {
+          "es": "¿Puedes traducir esta frase?",
+          "en": "Can you translate this sentence?"
+        },
+        {
+          "es": "Hablo un poco de español.",
+          "en": "I speak a little Spanish."
+        },
+        {
+          "es": "Lo busco en el diccionario.",
+          "en": "I'll look it up in the dictionary."
+        },
+        {
+          "es": "¿Cuántos idiomas hablas?",
+          "en": "How many languages do you speak?"
+        }
+      ]
+    },
+    {
+      "date": "2026-08-26",
+      "words": [
+        {
+          "es": "la universidad",
+          "en": "university"
+        },
+        {
+          "es": "la clase",
+          "en": "class"
+        },
+        {
+          "es": "el profesor",
+          "en": "teacher"
+        },
+        {
+          "es": "el estudiante",
+          "en": "student"
+        },
+        {
+          "es": "el examen",
+          "en": "exam"
+        },
+        {
+          "es": "los deberes",
+          "en": "homework"
+        },
+        {
+          "es": "estudiar",
+          "en": "to study"
+        },
+        {
+          "es": "aprobar",
+          "en": "to pass (an exam)"
+        },
+        {
+          "es": "suspender",
+          "en": "to fail (an exam)"
+        },
+        {
+          "es": "la nota",
+          "en": "grade"
+        }
+      ],
+      "sentences": [
+        {
+          "es": "Estudio en la universidad.",
+          "en": "I study at university."
+        },
+        {
+          "es": "Mañana tengo un examen.",
+          "en": "I have an exam tomorrow."
+        },
+        {
+          "es": "¡Aprobé el examen!",
+          "en": "I passed the exam!"
+        },
+        {
+          "es": "Tengo que hacer los deberes.",
+          "en": "I have to do my homework."
+        },
+        {
+          "es": "La clase empieza a las diez.",
+          "en": "Class starts at ten."
+        },
+        {
+          "es": "Mi profesora es muy buena.",
+          "en": "My teacher is very good."
+        },
+        {
+          "es": "¿Qué nota sacaste?",
+          "en": "What grade did you get?"
+        },
+        {
+          "es": "Suspendí matemáticas.",
+          "en": "I failed math."
+        },
+        {
+          "es": "Estudio mejor por la noche.",
+          "en": "I study better at night."
+        },
+        {
+          "es": "Somos compañeros de clase.",
+          "en": "We're classmates."
+        }
+      ]
+    },
+    {
+      "date": "2026-08-25",
+      "words": [
+        {
+          "es": "la manzana",
+          "en": "apple"
+        },
+        {
+          "es": "el plátano",
+          "en": "banana"
+        },
+        {
+          "es": "la naranja",
+          "en": "orange"
+        },
+        {
+          "es": "la fresa",
+          "en": "strawberry"
+        },
+        {
+          "es": "la uva",
+          "en": "grape"
+        },
+        {
+          "es": "la patata",
+          "en": "potato"
+        },
+        {
+          "es": "la cebolla",
+          "en": "onion"
+        },
+        {
+          "es": "la zanahoria",
+          "en": "carrot"
+        },
+        {
+          "es": "el ajo",
+          "en": "garlic"
+        },
+        {
+          "es": "la lechuga",
+          "en": "lettuce"
+        }
+      ],
+      "sentences": [
+        {
+          "es": "Me gustan mucho las fresas.",
+          "en": "I really like strawberries."
+        },
+        {
+          "es": "Como un plátano todas las mañanas.",
+          "en": "I eat a banana every morning."
+        },
+        {
+          "es": "¿A cuánto están las naranjas?",
+          "en": "How much are the oranges?"
+        },
+        {
+          "es": "Medio kilo de uvas, por favor.",
+          "en": "Half a kilo of grapes, please."
+        },
+        {
+          "es": "No me gusta el ajo.",
+          "en": "I don't like garlic."
+        },
+        {
+          "es": "Pela las patatas, por favor.",
+          "en": "Peel the potatoes, please."
+        },
+        {
+          "es": "La ensalada lleva lechuga y tomate.",
+          "en": "The salad has lettuce and tomato."
+        },
+        {
+          "es": "Las zanahorias son buenas para la vista.",
+          "en": "Carrots are good for your eyesight."
+        },
+        {
+          "es": "Esta manzana está muy dulce.",
+          "en": "This apple is very sweet."
+        },
+        {
+          "es": "Sin cebolla, por favor.",
+          "en": "No onion, please."
+        }
+      ]
+    },
+    {
+      "date": "2026-08-24",
+      "words": [
+        {
+          "es": "el almuerzo",
+          "en": "lunch"
+        },
+        {
+          "es": "la cena",
+          "en": "dinner"
+        },
+        {
+          "es": "desayunar",
+          "en": "to have breakfast"
+        },
+        {
+          "es": "almorzar",
+          "en": "to have lunch"
+        },
+        {
+          "es": "cenar",
+          "en": "to have dinner"
+        },
+        {
+          "es": "el cereal",
+          "en": "cereal"
+        },
+        {
+          "es": "la mantequilla",
+          "en": "butter"
+        },
+        {
+          "es": "la mermelada",
+          "en": "jam"
+        },
+        {
+          "es": "el tomate",
+          "en": "tomato"
+        },
+        {
+          "es": "la tostada",
+          "en": "toast"
+        }
+      ],
+      "sentences": [
+        {
+          "es": "¿Qué desayunas normalmente?",
+          "en": "What do you usually have for breakfast?"
+        },
+        {
+          "es": "Desayuno una tostada con tomate.",
+          "en": "I have toast with tomato for breakfast."
+        },
+        {
+          "es": "¿A qué hora almorzamos?",
+          "en": "What time are we having lunch?"
+        },
+        {
+          "es": "Cenamos a las nueve.",
+          "en": "We have dinner at nine."
+        },
+        {
+          "es": "¿Quieres mantequilla o mermelada?",
+          "en": "Do you want butter or jam?"
+        },
+        {
+          "es": "Hoy no tengo hambre.",
+          "en": "I'm not hungry today."
+        },
+        {
+          "es": "La cena está lista.",
+          "en": "Dinner is ready."
+        },
+        {
+          "es": "Vamos a almorzar juntos.",
+          "en": "Let's have lunch together."
+        },
+        {
+          "es": "Me salto el desayuno a veces.",
+          "en": "I sometimes skip breakfast."
+        },
+        {
+          "es": "¡Buen provecho!",
+          "en": "Enjoy your meal!"
+        }
+      ]
+    },
+    {
+      "date": "2026-08-23",
+      "words": [
+        {
+          "es": "el vino",
+          "en": "wine"
+        },
+        {
+          "es": "la cerveza",
+          "en": "beer"
+        },
+        {
+          "es": "el refresco",
+          "en": "soft drink"
+        },
+        {
+          "es": "el té",
+          "en": "tea"
+        },
+        {
+          "es": "el hielo",
+          "en": "ice"
+        },
+        {
+          "es": "el vaso",
+          "en": "glass"
+        },
+        {
+          "es": "la botella",
+          "en": "bottle"
+        },
+        {
+          "es": "brindar",
+          "en": "to toast, to make a toast"
+        },
+        {
+          "es": "tener sed",
+          "en": "to be thirsty"
+        },
+        {
+          "es": "sin alcohol",
+          "en": "alcohol-free"
+        }
+      ],
+      "sentences": [
+        {
+          "es": "Tengo mucha sed.",
+          "en": "I'm very thirsty."
+        },
+        {
+          "es": "¿Me pone una cerveza sin alcohol?",
+          "en": "Can I have an alcohol-free beer?"
+        },
+        {
+          "es": "Un vaso de vino tinto, por favor.",
+          "en": "A glass of red wine, please."
+        },
+        {
+          "es": "¿Con hielo o sin hielo?",
+          "en": "With or without ice?"
+        },
+        {
+          "es": "Una botella de agua, por favor.",
+          "en": "A bottle of water, please."
+        },
+        {
+          "es": "¡Salud!",
+          "en": "Cheers!"
+        },
+        {
+          "es": "Brindemos por el nuevo proyecto.",
+          "en": "Let's toast to the new project."
+        },
+        {
+          "es": "No bebo alcohol.",
+          "en": "I don't drink alcohol."
+        },
+        {
+          "es": "¿Qué refrescos tienen?",
+          "en": "What soft drinks do you have?"
+        },
+        {
+          "es": "Prefiero el té verde.",
+          "en": "I prefer green tea."
+        }
+      ]
+    },
+    {
+      "date": "2026-08-22",
+      "words": [
+        {
+          "es": "cocinar",
+          "en": "to cook"
+        },
+        {
+          "es": "la receta",
+          "en": "recipe"
+        },
+        {
+          "es": "cortar",
+          "en": "to cut"
+        },
+        {
+          "es": "hervir",
+          "en": "to boil"
+        },
+        {
+          "es": "freír",
+          "en": "to fry"
+        },
+        {
+          "es": "la sartén",
+          "en": "frying pan"
+        },
+        {
+          "es": "la olla",
+          "en": "pot"
+        },
+        {
+          "es": "el horno",
+          "en": "oven"
+        },
+        {
+          "es": "la sal",
+          "en": "salt"
+        },
+        {
+          "es": "el aceite",
+          "en": "oil"
+        }
+      ],
+      "sentences": [
+        {
+          "es": "¿Me pasas la receta?",
+          "en": "Can you send me the recipe?"
+        },
+        {
+          "es": "Me encanta cocinar los fines de semana.",
+          "en": "I love cooking on weekends."
+        },
+        {
+          "es": "Corta la cebolla en trozos pequeños.",
+          "en": "Cut the onion into small pieces."
+        },
+        {
+          "es": "Primero hierve el agua.",
+          "en": "First, boil the water."
+        },
+        {
+          "es": "Fríe los huevos en la sartén.",
+          "en": "Fry the eggs in the pan."
+        },
+        {
+          "es": "Mételo en el horno veinte minutos.",
+          "en": "Put it in the oven for twenty minutes."
+        },
+        {
+          "es": "Le falta un poco de sal.",
+          "en": "It needs a bit more salt."
+        },
+        {
+          "es": "Usa aceite de oliva.",
+          "en": "Use olive oil."
+        },
+        {
+          "es": "¿Qué hay para cenar?",
+          "en": "What's for dinner?"
+        },
+        {
+          "es": "La sopa está en la olla.",
+          "en": "The soup is in the pot."
+        }
+      ]
+    },
+    {
+      "date": "2026-08-21",
+      "words": [
+        {
+          "es": "la biblioteca",
+          "en": "library"
+        },
+        {
+          "es": "el ayuntamiento",
+          "en": "city hall"
+        },
+        {
+          "es": "la iglesia",
+          "en": "church"
+        },
+        {
+          "es": "el mercado",
+          "en": "market"
+        },
+        {
+          "es": "la panadería",
+          "en": "bakery"
+        },
+        {
+          "es": "la comisaría",
+          "en": "police station"
+        },
+        {
+          "es": "la oficina de correos",
+          "en": "post office"
+        },
+        {
+          "es": "el cine",
+          "en": "cinema, movie theater"
+        },
+        {
+          "es": "el gimnasio",
+          "en": "gym"
+        },
+        {
+          "es": "el barrio",
+          "en": "neighborhood"
+        }
+      ],
+      "sentences": [
+        {
+          "es": "¿Hay una biblioteca por aquí?",
+          "en": "Is there a library around here?"
+        },
+        {
+          "es": "Vivo en un barrio tranquilo.",
+          "en": "I live in a quiet neighborhood."
+        },
+        {
+          "es": "La panadería abre a las siete.",
+          "en": "The bakery opens at seven."
+        },
+        {
+          "es": "El mercado está abierto los sábados.",
+          "en": "The market is open on Saturdays."
+        },
+        {
+          "es": "Quedamos delante del cine.",
+          "en": "Let's meet in front of the movie theater."
+        },
+        {
+          "es": "Voy al gimnasio tres veces por semana.",
+          "en": "I go to the gym three times a week."
+        },
+        {
+          "es": "¿Dónde está la oficina de correos?",
+          "en": "Where is the post office?"
+        },
+        {
+          "es": "La iglesia es del siglo XV.",
+          "en": "The church is from the 15th century."
+        },
+        {
+          "es": "Tengo que ir al ayuntamiento.",
+          "en": "I have to go to city hall."
+        },
+        {
+          "es": "Mi barrio tiene de todo.",
+          "en": "My neighborhood has everything."
+        }
+      ]
+    },
+    {
+      "date": "2026-08-20",
+      "words": [
+        {
+          "es": "el parque",
+          "en": "park"
+        },
+        {
+          "es": "el árbol",
+          "en": "tree"
+        },
+        {
+          "es": "la flor",
+          "en": "flower"
+        },
+        {
+          "es": "el río",
+          "en": "river"
+        },
+        {
+          "es": "el lago",
+          "en": "lake"
+        },
+        {
+          "es": "el bosque",
+          "en": "forest"
+        },
+        {
+          "es": "el cielo",
+          "en": "sky"
+        },
+        {
+          "es": "la hierba",
+          "en": "grass"
+        },
+        {
+          "es": "el aire libre",
+          "en": "outdoors"
+        },
+        {
+          "es": "respirar",
+          "en": "to breathe"
+        }
+      ],
+      "sentences": [
+        {
+          "es": "Vamos a dar un paseo por el parque.",
+          "en": "Let's go for a walk in the park."
+        },
+        {
+          "es": "Hay muchas flores en primavera.",
+          "en": "There are lots of flowers in spring."
+        },
+        {
+          "es": "Me encanta estar al aire libre.",
+          "en": "I love being outdoors."
+        },
+        {
+          "es": "Nos sentamos debajo de un árbol.",
+          "en": "We sat under a tree."
+        },
+        {
+          "es": "El río está muy limpio.",
+          "en": "The river is very clean."
+        },
+        {
+          "es": "¿Se puede nadar en el lago?",
+          "en": "Can you swim in the lake?"
+        },
+        {
+          "es": "No pises la hierba.",
+          "en": "Don't step on the grass."
+        },
+        {
+          "es": "Aquí se respira aire puro.",
+          "en": "You can breathe fresh air here."
+        },
+        {
+          "es": "El bosque está cerca del pueblo.",
+          "en": "The forest is near the village."
+        },
+        {
+          "es": "¡Qué cielo tan bonito!",
+          "en": "What a beautiful sky!"
+        }
+      ]
+    },
+    {
+      "date": "2026-08-19",
+      "words": [
+        {
+          "es": "el perro",
+          "en": "dog"
+        },
+        {
+          "es": "el gato",
+          "en": "cat"
+        },
+        {
+          "es": "el pájaro",
+          "en": "bird"
+        },
+        {
+          "es": "el pez",
+          "en": "fish (live)"
+        },
+        {
+          "es": "el caballo",
+          "en": "horse"
+        },
+        {
+          "es": "la vaca",
+          "en": "cow"
+        },
+        {
+          "es": "la mascota",
+          "en": "pet"
+        },
+        {
+          "es": "pasear",
+          "en": "to walk, stroll"
+        },
+        {
+          "es": "dar de comer",
+          "en": "to feed"
+        },
+        {
+          "es": "el veterinario",
+          "en": "vet"
+        }
+      ],
+      "sentences": [
+        {
+          "es": "¿Tienes mascota?",
+          "en": "Do you have a pet?"
+        },
+        {
+          "es": "Tengo un gato blanco.",
+          "en": "I have a white cat."
+        },
+        {
+          "es": "Saco al perro a pasear por la mañana.",
+          "en": "I take the dog for a walk in the morning."
+        },
+        {
+          "es": "¿Puedo acariciar a tu perro?",
+          "en": "Can I pet your dog?"
+        },
+        {
+          "es": "Tengo que dar de comer al gato.",
+          "en": "I have to feed the cat."
+        },
+        {
+          "es": "Me dan miedo los caballos.",
+          "en": "I'm scared of horses."
+        },
+        {
+          "es": "Mi perro está en el veterinario.",
+          "en": "My dog is at the vet."
+        },
+        {
+          "es": "¿Se admiten perros?",
+          "en": "Are dogs allowed?"
+        },
+        {
+          "es": "Los pájaros cantan por la mañana.",
+          "en": "The birds sing in the morning."
+        },
+        {
+          "es": "Soy alérgica a los gatos.",
+          "en": "I'm allergic to cats."
+        }
+      ]
+    },
+    {
+      "date": "2026-08-18",
+      "words": [
+        {
+          "es": "simpático",
+          "en": "nice, friendly"
+        },
+        {
+          "es": "amable",
+          "en": "kind"
+        },
+        {
+          "es": "divertido",
+          "en": "fun, funny"
+        },
+        {
+          "es": "serio",
+          "en": "serious"
+        },
+        {
+          "es": "tímido",
+          "en": "shy"
+        },
+        {
+          "es": "trabajador",
+          "en": "hard-working"
+        },
+        {
+          "es": "perezoso",
+          "en": "lazy"
+        },
+        {
+          "es": "inteligente",
+          "en": "intelligent"
+        },
+        {
+          "es": "paciente",
+          "en": "patient"
+        },
+        {
+          "es": "sincero",
+          "en": "honest, sincere"
+        }
+      ],
+      "sentences": [
+        {
+          "es": "Es muy divertida.",
+          "en": "She's a lot of fun."
+        },
+        {
+          "es": "Mi jefa es seria pero justa.",
+          "en": "My boss is serious but fair."
+        },
+        {
+          "es": "Soy un poco tímida.",
+          "en": "I'm a bit shy."
+        },
+        {
+          "es": "Es la persona más trabajadora que conozco.",
+          "en": "He's the most hard-working person I know."
+        },
+        {
+          "es": "Hoy me siento perezosa.",
+          "en": "I feel lazy today."
+        },
+        {
+          "es": "Gracias por ser tan paciente.",
+          "en": "Thanks for being so patient."
+        },
+        {
+          "es": "Te voy a ser sincera.",
+          "en": "I'm going to be honest with you."
+        },
+        {
+          "es": "Es muy amable de tu parte.",
+          "en": "That's very kind of you."
+        },
+        {
+          "es": "Tiene muy buen carácter.",
+          "en": "She has a great personality."
+        },
+        {
+          "es": "Me cae muy bien.",
+          "en": "I really like him."
+        }
+      ]
+    },
+    {
+      "date": "2026-08-17",
+      "words": [
+        {
+          "es": "alto",
+          "en": "tall"
+        },
+        {
+          "es": "bajo",
+          "en": "short (height)"
+        },
+        {
+          "es": "delgado",
+          "en": "thin, slim"
+        },
+        {
+          "es": "joven",
+          "en": "young"
+        },
+        {
+          "es": "mayor",
+          "en": "older, elderly"
+        },
+        {
+          "es": "guapo",
+          "en": "good-looking"
+        },
+        {
+          "es": "el pelo",
+          "en": "hair"
+        },
+        {
+          "es": "los ojos",
+          "en": "eyes"
+        },
+        {
+          "es": "la barba",
+          "en": "beard"
+        },
+        {
+          "es": "las gafas",
+          "en": "glasses"
+        }
+      ],
+      "sentences": [
+        {
+          "es": "Mi hermano es muy alto.",
+          "en": "My brother is very tall."
+        },
+        {
+          "es": "Tiene el pelo largo y rizado.",
+          "en": "She has long, curly hair."
+        },
+        {
+          "es": "Tiene los ojos marrones.",
+          "en": "He has brown eyes."
+        },
+        {
+          "es": "Lleva gafas.",
+          "en": "He wears glasses."
+        },
+        {
+          "es": "Parece muy joven.",
+          "en": "She looks very young."
+        },
+        {
+          "es": "Mi padre tiene barba.",
+          "en": "My father has a beard."
+        },
+        {
+          "es": "¿Cómo es tu novio?",
+          "en": "What is your boyfriend like?"
+        },
+        {
+          "es": "Es bajo y delgado.",
+          "en": "He's short and slim."
+        },
+        {
+          "es": "Se parece a su madre.",
+          "en": "She looks like her mother."
+        },
+        {
+          "es": "Es una señora mayor muy simpática.",
+          "en": "She's a very nice older lady."
+        }
+      ]
+    },
+    {
+      "date": "2026-08-16",
+      "words": [
+        {
+          "es": "la camisa",
+          "en": "shirt"
+        },
+        {
+          "es": "los pantalones",
+          "en": "pants, trousers"
+        },
+        {
+          "es": "la falda",
+          "en": "skirt"
+        },
+        {
+          "es": "el vestido",
+          "en": "dress"
+        },
+        {
+          "es": "la chaqueta",
+          "en": "jacket"
+        },
+        {
+          "es": "los zapatos",
+          "en": "shoes"
+        },
+        {
+          "es": "el abrigo",
+          "en": "coat"
+        },
+        {
+          "es": "la camiseta",
+          "en": "T-shirt"
+        },
+        {
+          "es": "ponerse",
+          "en": "to put on (clothes)"
+        },
+        {
+          "es": "quitarse",
+          "en": "to take off (clothes)"
+        }
+      ],
+      "sentences": [
+        {
+          "es": "Me pongo la chaqueta.",
+          "en": "I'm putting on my jacket."
+        },
+        {
+          "es": "Quítate los zapatos, por favor.",
+          "en": "Take off your shoes, please."
+        },
+        {
+          "es": "Este vestido te queda muy bien.",
+          "en": "This dress looks great on you."
+        },
+        {
+          "es": "Necesito unos pantalones nuevos.",
+          "en": "I need some new pants."
+        },
+        {
+          "es": "Hace frío, lleva el abrigo.",
+          "en": "It's cold, take your coat."
+        },
+        {
+          "es": "¿Dónde están los probadores?",
+          "en": "Where are the fitting rooms?"
+        },
+        {
+          "es": "Me queda pequeño.",
+          "en": "It's too small for me."
+        },
+        {
+          "es": "Siempre llevo camiseta en verano.",
+          "en": "I always wear a T-shirt in summer."
+        },
+        {
+          "es": "¿Esta falda es de algodón?",
+          "en": "Is this skirt cotton?"
+        },
+        {
+          "es": "Voy a cambiarme de ropa.",
+          "en": "I'm going to change clothes."
+        }
+      ]
+    },
+    {
+      "date": "2026-08-15",
+      "words": [
+        {
+          "es": "el color",
+          "en": "color"
+        },
+        {
+          "es": "rojo",
+          "en": "red"
+        },
+        {
+          "es": "azul",
+          "en": "blue"
+        },
+        {
+          "es": "verde",
+          "en": "green"
+        },
+        {
+          "es": "amarillo",
+          "en": "yellow"
+        },
+        {
+          "es": "negro",
+          "en": "black"
+        },
+        {
+          "es": "blanco",
+          "en": "white"
+        },
+        {
+          "es": "gris",
+          "en": "gray"
+        },
+        {
+          "es": "claro",
+          "en": "light (color)"
+        },
+        {
+          "es": "oscuro",
+          "en": "dark"
+        }
+      ],
+      "sentences": [
+        {
+          "es": "¿De qué color es tu coche?",
+          "en": "What color is your car?"
+        },
+        {
+          "es": "Mi color favorito es el azul.",
+          "en": "My favorite color is blue."
+        },
+        {
+          "es": "¿Lo tiene en negro?",
+          "en": "Do you have it in black?"
+        },
+        {
+          "es": "Prefiero el verde oscuro.",
+          "en": "I prefer dark green."
+        },
+        {
+          "es": "Las paredes son blancas.",
+          "en": "The walls are white."
+        },
+        {
+          "es": "Hoy el cielo está gris.",
+          "en": "The sky is gray today."
+        },
+        {
+          "es": "Esta camisa es demasiado clara.",
+          "en": "This shirt is too light."
+        },
+        {
+          "es": "Me gustan los colores vivos.",
+          "en": "I like bright colors."
+        },
+        {
+          "es": "El semáforo está en rojo.",
+          "en": "The traffic light is red."
+        },
+        {
+          "es": "¿Qué te parece este amarillo?",
+          "en": "What do you think of this yellow?"
+        }
+      ]
     }
   ]
 }
