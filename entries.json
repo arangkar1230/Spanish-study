@@ -1,6 +1,93 @@
 {
   "entries": [
     {
+      "date": "2026-10-25",
+      "words": [
+        {
+          "es": "la queja",
+          "en": "complaint"
+        },
+        {
+          "es": "quejarse",
+          "en": "to complain"
+        },
+        {
+          "es": "el encargado",
+          "en": "manager / person in charge"
+        },
+        {
+          "es": "la garantía",
+          "en": "warranty"
+        },
+        {
+          "es": "el error",
+          "en": "mistake, error"
+        },
+        {
+          "es": "solucionar",
+          "en": "to solve, to fix"
+        },
+        {
+          "es": "la atención al cliente",
+          "en": "customer service"
+        },
+        {
+          "es": "equivocarse",
+          "en": "to make a mistake"
+        },
+        {
+          "es": "el formulario",
+          "en": "form"
+        },
+        {
+          "es": "rellenar",
+          "en": "to fill out"
+        }
+      ],
+      "sentences": [
+        {
+          "es": "Quiero hablar con el encargado, por favor.",
+          "en": "I'd like to speak with the manager, please."
+        },
+        {
+          "es": "Creo que hay un error en la cuenta.",
+          "en": "I think there's a mistake in the bill."
+        },
+        {
+          "es": "¿Todavía está en garantía?",
+          "en": "Is it still under warranty?"
+        },
+        {
+          "es": "Lo siento, me he equivocado.",
+          "en": "Sorry, I made a mistake."
+        },
+        {
+          "es": "¿Cómo podemos solucionarlo?",
+          "en": "How can we fix this?"
+        },
+        {
+          "es": "Tengo que rellenar este formulario.",
+          "en": "I have to fill out this form."
+        },
+        {
+          "es": "Me gustaría poner una queja.",
+          "en": "I'd like to make a complaint."
+        },
+        {
+          "es": "Llevo media hora esperando.",
+          "en": "I've been waiting for half an hour."
+        },
+        {
+          "es": "¿Cuál es el número de atención al cliente?",
+          "en": "What's the customer service number?"
+        },
+        {
+          "es": "No se preocupe, lo solucionamos enseguida.",
+          "en": "Don't worry, we'll fix it right away."
+        }
+      ]
+    },
+    {
       "date": "2026-10-24",
       "words": [
         {
