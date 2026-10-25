@@ -1,6 +1,93 @@
 {
   "entries": [
     {
+      "date": "2026-10-26",
+      "words": [
+        {
+          "es": "la gasolinera",
+          "en": "gas station"
+        },
+        {
+          "es": "el depósito",
+          "en": "fuel tank"
+        },
+        {
+          "es": "el aparcamiento",
+          "en": "parking lot"
+        },
+        {
+          "es": "aparcar",
+          "en": "to park"
+        },
+        {
+          "es": "la multa",
+          "en": "fine / ticket"
+        },
+        {
+          "es": "el carné de conducir",
+          "en": "driver's license"
+        },
+        {
+          "es": "la rueda",
+          "en": "wheel / tire"
+        },
+        {
+          "es": "el atasco",
+          "en": "traffic jam"
+        },
+        {
+          "es": "la autopista",
+          "en": "highway / motorway"
+        },
+        {
+          "es": "el peaje",
+          "en": "toll"
+        }
+      ],
+      "sentences": [
+        {
+          "es": "¿Hay una gasolinera cerca de aquí?",
+          "en": "Is there a gas station near here?"
+        },
+        {
+          "es": "Lleno el depósito, por favor.",
+          "en": "Fill up the tank, please."
+        },
+        {
+          "es": "¿Dónde puedo aparcar?",
+          "en": "Where can I park?"
+        },
+        {
+          "es": "El aparcamiento está completo.",
+          "en": "The parking lot is full."
+        },
+        {
+          "es": "Me pusieron una multa por aparcar mal.",
+          "en": "I got a ticket for parking badly."
+        },
+        {
+          "es": "¿Me enseña su carné de conducir?",
+          "en": "Could you show me your driver's license?"
+        },
+        {
+          "es": "Tengo una rueda pinchada.",
+          "en": "I have a flat tire."
+        },
+        {
+          "es": "Estoy en un atasco.",
+          "en": "I'm stuck in a traffic jam."
+        },
+        {
+          "es": "¿Esta autopista tiene peaje?",
+          "en": "Does this highway have a toll?"
+        },
+        {
+          "es": "Quiero alquilar un coche por tres días.",
+          "en": "I want to rent a car for three days."
+        }
+      ]
+    },
+    {
       "date": "2026-10-25",
       "words": [
         {
