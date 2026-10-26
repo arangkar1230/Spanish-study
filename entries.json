@@ -1,6 +1,93 @@
 {
   "entries": [
     {
+      "date": "2026-10-27",
+      "words": [
+        {
+          "es": "el trámite",
+          "en": "procedure / paperwork"
+        },
+        {
+          "es": "la cita previa",
+          "en": "appointment (booked in advance)"
+        },
+        {
+          "es": "la solicitud",
+          "en": "application / request form"
+        },
+        {
+          "es": "solicitar",
+          "en": "to apply for / to request"
+        },
+        {
+          "es": "la cola",
+          "en": "line / queue"
+        },
+        {
+          "es": "el turno",
+          "en": "turn (in a queue)"
+        },
+        {
+          "es": "renovar",
+          "en": "to renew"
+        },
+        {
+          "es": "caducar",
+          "en": "to expire"
+        },
+        {
+          "es": "el certificado",
+          "en": "certificate"
+        },
+        {
+          "es": "el documento",
+          "en": "document"
+        }
+      ],
+      "sentences": [
+        {
+          "es": "¿Necesito cita previa?",
+          "en": "Do I need an appointment?"
+        },
+        {
+          "es": "¿Quién es el último de la cola?",
+          "en": "Who is the last in line?"
+        },
+        {
+          "es": "¿Dónde tengo que hacer cola?",
+          "en": "Where do I have to line up?"
+        },
+        {
+          "es": "Mi pasaporte caduca el mes que viene.",
+          "en": "My passport expires next month."
+        },
+        {
+          "es": "Quiero renovar mi carné de conducir.",
+          "en": "I want to renew my driver's license."
+        },
+        {
+          "es": "¿Qué documentos tengo que traer?",
+          "en": "What documents do I need to bring?"
+        },
+        {
+          "es": "¿Cuánto tarda el trámite?",
+          "en": "How long does the process take?"
+        },
+        {
+          "es": "Ya he enviado la solicitud por internet.",
+          "en": "I've already sent the application online."
+        },
+        {
+          "es": "Ahora es mi turno, ¿verdad?",
+          "en": "It's my turn now, right?"
+        },
+        {
+          "es": "¿Dónde puedo solicitar el certificado?",
+          "en": "Where can I request the certificate?"
+        }
+      ]
+    },
+    {
       "date": "2026-10-26",
       "words": [
         {
