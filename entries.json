@@ -1,6 +1,93 @@
 {
   "entries": [
     {
+      "date": "2026-10-28",
+      "words": [
+        {
+          "es": "la mudanza",
+          "en": "the move (moving house)"
+        },
+        {
+          "es": "mudarse",
+          "en": "to move (house)"
+        },
+        {
+          "es": "la caja",
+          "en": "the box"
+        },
+        {
+          "es": "empaquetar",
+          "en": "to pack (up)"
+        },
+        {
+          "es": "el propietario",
+          "en": "the landlord / owner"
+        },
+        {
+          "es": "el inquilino",
+          "en": "the tenant"
+        },
+        {
+          "es": "la fianza",
+          "en": "the deposit"
+        },
+        {
+          "es": "amueblado",
+          "en": "furnished"
+        },
+        {
+          "es": "el trastero",
+          "en": "the storage room"
+        },
+        {
+          "es": "el camión",
+          "en": "the truck"
+        }
+      ],
+      "sentences": [
+        {
+          "es": "Me mudo el mes que viene.",
+          "en": "I'm moving next month."
+        },
+        {
+          "es": "¿Me ayudas con la mudanza?",
+          "en": "Will you help me with the move?"
+        },
+        {
+          "es": "Todavía tengo que empaquetar muchas cosas.",
+          "en": "I still have to pack a lot of things."
+        },
+        {
+          "es": "Esta caja pesa mucho.",
+          "en": "This box is very heavy."
+        },
+        {
+          "es": "¿El piso está amueblado?",
+          "en": "Is the apartment furnished?"
+        },
+        {
+          "es": "¿Cuánto es la fianza?",
+          "en": "How much is the deposit?"
+        },
+        {
+          "es": "Voy a hablar con el propietario.",
+          "en": "I'm going to talk to the landlord."
+        },
+        {
+          "es": "¿Dónde pongo estas cajas?",
+          "en": "Where do I put these boxes?"
+        },
+        {
+          "es": "¿Hay un trastero en el edificio?",
+          "en": "Is there a storage room in the building?"
+        },
+        {
+          "es": "Ya casi hemos terminado.",
+          "en": "We're almost done."
+        }
+      ]
+    },
+    {
       "date": "2026-10-27",
       "words": [
         {
