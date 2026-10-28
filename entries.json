@@ -1,6 +1,93 @@
 {
   "entries": [
     {
+      "date": "2026-10-29",
+      "words": [
+        {
+          "es": "el dentista",
+          "en": "the dentist"
+        },
+        {
+          "es": "la muela",
+          "en": "the molar / back tooth"
+        },
+        {
+          "es": "el cepillo de dientes",
+          "en": "the toothbrush"
+        },
+        {
+          "es": "la pasta de dientes",
+          "en": "the toothpaste"
+        },
+        {
+          "es": "la pastilla",
+          "en": "the pill / tablet"
+        },
+        {
+          "es": "la tos",
+          "en": "the cough"
+        },
+        {
+          "es": "el resfriado",
+          "en": "the cold (illness)"
+        },
+        {
+          "es": "la herida",
+          "en": "the wound / cut"
+        },
+        {
+          "es": "el seguro médico",
+          "en": "the health insurance"
+        },
+        {
+          "es": "doler",
+          "en": "to hurt / to ache"
+        }
+      ],
+      "sentences": [
+        {
+          "es": "Tengo cita con el dentista mañana.",
+          "en": "I have an appointment with the dentist tomorrow."
+        },
+        {
+          "es": "Me duele una muela.",
+          "en": "I have a toothache."
+        },
+        {
+          "es": "¿Tiene algo para la tos?",
+          "en": "Do you have anything for a cough?"
+        },
+        {
+          "es": "Creo que tengo un resfriado.",
+          "en": "I think I have a cold."
+        },
+        {
+          "es": "Tómese una pastilla cada ocho horas.",
+          "en": "Take one pill every eight hours."
+        },
+        {
+          "es": "Se me ha olvidado el cepillo de dientes.",
+          "en": "I forgot my toothbrush."
+        },
+        {
+          "es": "¿Dónde puedo comprar pasta de dientes?",
+          "en": "Where can I buy toothpaste?"
+        },
+        {
+          "es": "¿Mi seguro médico cubre esto?",
+          "en": "Does my health insurance cover this?"
+        },
+        {
+          "es": "Hay que limpiar bien la herida.",
+          "en": "The wound needs to be cleaned well."
+        },
+        {
+          "es": "¿Te duele mucho?",
+          "en": "Does it hurt a lot?"
+        }
+      ]
+    },
+    {
       "date": "2026-10-28",
       "words": [
         {
