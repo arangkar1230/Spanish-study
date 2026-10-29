@@ -1,6 +1,93 @@
 {
   "entries": [
     {
+      "date": "2026-10-30",
+      "words": [
+        {
+          "es": "el disfraz",
+          "en": "costume"
+        },
+        {
+          "es": "disfrazarse",
+          "en": "to dress up (in costume)"
+        },
+        {
+          "es": "la calabaza",
+          "en": "pumpkin"
+        },
+        {
+          "es": "el puente",
+          "en": "long weekend (also: bridge)"
+        },
+        {
+          "es": "el día festivo",
+          "en": "public holiday"
+        },
+        {
+          "es": "las golosinas",
+          "en": "sweets, candy"
+        },
+        {
+          "es": "la castaña",
+          "en": "chestnut"
+        },
+        {
+          "es": "la vela",
+          "en": "candle"
+        },
+        {
+          "es": "el miedo",
+          "en": "fear"
+        },
+        {
+          "es": "la tradición",
+          "en": "tradition"
+        }
+      ],
+      "sentences": [
+        {
+          "es": "¿De qué te vas a disfrazar?",
+          "en": "What are you going to dress up as?"
+        },
+        {
+          "es": "Me voy a disfrazar de bruja.",
+          "en": "I'm going to dress up as a witch."
+        },
+        {
+          "es": "¿Dónde compraste ese disfraz?",
+          "en": "Where did you buy that costume?"
+        },
+        {
+          "es": "Este fin de semana hay puente.",
+          "en": "There's a long weekend this weekend."
+        },
+        {
+          "es": "El uno de noviembre es día festivo.",
+          "en": "November 1st is a public holiday."
+        },
+        {
+          "es": "¿Quieres unas castañas asadas?",
+          "en": "Do you want some roasted chestnuts?"
+        },
+        {
+          "es": "Los niños piden golosinas por las casas.",
+          "en": "The kids go door to door asking for candy."
+        },
+        {
+          "es": "¡Qué miedo!",
+          "en": "How scary!"
+        },
+        {
+          "es": "Es una tradición muy bonita.",
+          "en": "It's a really lovely tradition."
+        },
+        {
+          "es": "¿Vas a hacer algo especial en el puente?",
+          "en": "Are you doing anything special over the long weekend?"
+        }
+      ]
+    },
+    {
       "date": "2026-10-29",
       "words": [
         {
