@@ -1,6 +1,93 @@
 {
   "entries": [
     {
+      "date": "2026-10-31",
+      "words": [
+        {
+          "es": "asustar",
+          "en": "to scare, to frighten"
+        },
+        {
+          "es": "la oscuridad",
+          "en": "the darkness"
+        },
+        {
+          "es": "el fantasma",
+          "en": "the ghost"
+        },
+        {
+          "es": "la máscara",
+          "en": "the mask"
+        },
+        {
+          "es": "el timbre",
+          "en": "the doorbell"
+        },
+        {
+          "es": "la cerradura",
+          "en": "the lock"
+        },
+        {
+          "es": "el apagón",
+          "en": "the power outage, blackout"
+        },
+        {
+          "es": "el enchufe",
+          "en": "the plug, the outlet"
+        },
+        {
+          "es": "la bombilla",
+          "en": "the light bulb"
+        },
+        {
+          "es": "la manta",
+          "en": "the blanket"
+        }
+      ],
+      "sentences": [
+        {
+          "es": "¡Feliz Halloween!",
+          "en": "Happy Halloween!"
+        },
+        {
+          "es": "¡Me asustaste!",
+          "en": "You scared me!"
+        },
+        {
+          "es": "No me gusta caminar en la oscuridad.",
+          "en": "I don't like walking in the dark."
+        },
+        {
+          "es": "¿Crees en los fantasmas?",
+          "en": "Do you believe in ghosts?"
+        },
+        {
+          "es": "Alguien está tocando el timbre.",
+          "en": "Someone is ringing the doorbell."
+        },
+        {
+          "es": "La llave no entra en la cerradura.",
+          "en": "The key won't go into the lock."
+        },
+        {
+          "es": "Hubo un apagón anoche.",
+          "en": "There was a power outage last night."
+        },
+        {
+          "es": "¿Hay un enchufe cerca de la mesa?",
+          "en": "Is there an outlet near the table?"
+        },
+        {
+          "es": "Hay que cambiar la bombilla.",
+          "en": "The light bulb needs to be changed."
+        },
+        {
+          "es": "¿Me pasas la manta, por favor?",
+          "en": "Can you pass me the blanket, please?"
+        }
+      ]
+    },
+    {
       "date": "2026-10-30",
       "words": [
         {
