@@ -1,6 +1,93 @@
 {
   "entries": [
     {
+      "date": "2026-11-01",
+      "words": [
+        {
+          "es": "el cargador",
+          "en": "the charger"
+        },
+        {
+          "es": "la reserva",
+          "en": "the reservation"
+        },
+        {
+          "es": "probar",
+          "en": "to try / to taste"
+        },
+        {
+          "es": "avisar",
+          "en": "to let (someone) know"
+        },
+        {
+          "es": "el lavabo",
+          "en": "the restroom / the sink"
+        },
+        {
+          "es": "la consigna",
+          "en": "the left-luggage office"
+        },
+        {
+          "es": "el recuerdo",
+          "en": "the souvenir / the memory"
+        },
+        {
+          "es": "la sucursal",
+          "en": "the branch (office)"
+        },
+        {
+          "es": "el plato",
+          "en": "the dish / the plate"
+        },
+        {
+          "es": "recordar",
+          "en": "to remember"
+        }
+      ],
+      "sentences": [
+        {
+          "es": "No tengo el cargador. ¿Me lo prestas?",
+          "en": "I don't have my charger. Can you lend it to me?"
+        },
+        {
+          "es": "Quería cambiar la fecha de mi reserva.",
+          "en": "I'd like to change the date of my reservation."
+        },
+        {
+          "es": "¿Quieres probar un poco de mi plato?",
+          "en": "Do you want to try a bit of my dish?"
+        },
+        {
+          "es": "Avísame cuando llegues a casa.",
+          "en": "Let me know when you get home."
+        },
+        {
+          "es": "Perdone, ¿dónde está el lavabo?",
+          "en": "Excuse me, where is the restroom?"
+        },
+        {
+          "es": "¿Puedo dejar la maleta en la consigna?",
+          "en": "Can I leave my suitcase at the left-luggage office?"
+        },
+        {
+          "es": "Compré este recuerdo para mi madre.",
+          "en": "I bought this souvenir for my mother."
+        },
+        {
+          "es": "¿Hay una sucursal de este banco cerca de aquí?",
+          "en": "Is there a branch of this bank near here?"
+        },
+        {
+          "es": "¿Cuál es el plato del día?",
+          "en": "What is the dish of the day?"
+        },
+        {
+          "es": "No recuerdo dónde dejé las llaves.",
+          "en": "I don't remember where I left the keys."
+        }
+      ]
+    },
+    {
       "date": "2026-10-31",
       "words": [
         {
