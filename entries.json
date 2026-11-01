@@ -1,6 +1,93 @@
 {
   "entries": [
     {
+      "date": "2026-11-02",
+      "words": [
+        {
+          "es": "la llamada",
+          "en": "call (phone call)"
+        },
+        {
+          "es": "colgar",
+          "en": "to hang up"
+        },
+        {
+          "es": "el buzón de voz",
+          "en": "voicemail"
+        },
+        {
+          "es": "la cobertura",
+          "en": "(phone) coverage / reception"
+        },
+        {
+          "es": "marcar",
+          "en": "to dial"
+        },
+        {
+          "es": "la señal",
+          "en": "signal"
+        },
+        {
+          "es": "el altavoz",
+          "en": "speaker / speakerphone"
+        },
+        {
+          "es": "la videollamada",
+          "en": "video call"
+        },
+        {
+          "es": "el saldo",
+          "en": "(phone) credit / balance"
+        },
+        {
+          "es": "recargar",
+          "en": "to top up / to recharge"
+        }
+      ],
+      "sentences": [
+        {
+          "es": "¿Puedo hablar con la señora García, por favor?",
+          "en": "May I speak with Mrs. García, please?"
+        },
+        {
+          "es": "Te devuelvo la llamada en cinco minutos.",
+          "en": "I'll call you back in five minutes."
+        },
+        {
+          "es": "No cuelgues, por favor.",
+          "en": "Please don't hang up."
+        },
+        {
+          "es": "Te dejé un mensaje en el buzón de voz.",
+          "en": "I left you a message on your voicemail."
+        },
+        {
+          "es": "Aquí no hay cobertura.",
+          "en": "There's no reception here."
+        },
+        {
+          "es": "Se corta la llamada; no tengo buena señal.",
+          "en": "The call keeps cutting out; I don't have a good signal."
+        },
+        {
+          "es": "¿Me pones en altavoz?",
+          "en": "Can you put me on speaker?"
+        },
+        {
+          "es": "¿Hacemos una videollamada esta tarde?",
+          "en": "Shall we do a video call this afternoon?"
+        },
+        {
+          "es": "Necesito recargar el saldo del móvil.",
+          "en": "I need to top up my phone credit."
+        },
+        {
+          "es": "Creo que has marcado un número equivocado.",
+          "en": "I think you've dialed the wrong number."
+        }
+      ]
+    },
+    {
       "date": "2026-11-01",
       "words": [
         {
