@@ -1,6 +1,93 @@
 {
   "entries": [
     {
+      "date": "2026-11-03",
+      "words": [
+        {
+          "es": "el estrés",
+          "en": "stress"
+        },
+        {
+          "es": "agobiado",
+          "en": "overwhelmed"
+        },
+        {
+          "es": "orgulloso",
+          "en": "proud"
+        },
+        {
+          "es": "agradecido",
+          "en": "grateful"
+        },
+        {
+          "es": "emocionado",
+          "en": "excited"
+        },
+        {
+          "es": "harto",
+          "en": "fed up"
+        },
+        {
+          "es": "la vergüenza",
+          "en": "embarrassment, shame"
+        },
+        {
+          "es": "relajarse",
+          "en": "to relax"
+        },
+        {
+          "es": "animar",
+          "en": "to cheer up, to encourage"
+        },
+        {
+          "es": "el humor",
+          "en": "mood; humor"
+        }
+      ],
+      "sentences": [
+        {
+          "es": "Estoy un poco agobiado con el trabajo.",
+          "en": "I'm a bit overwhelmed with work."
+        },
+        {
+          "es": "Estoy muy orgulloso de ti.",
+          "en": "I'm very proud of you."
+        },
+        {
+          "es": "Te estoy muy agradecido.",
+          "en": "I'm very grateful to you."
+        },
+        {
+          "es": "¡Estoy muy emocionado por el viaje!",
+          "en": "I'm really excited about the trip!"
+        },
+        {
+          "es": "Estoy harto de esperar.",
+          "en": "I'm fed up with waiting."
+        },
+        {
+          "es": "¡Qué vergüenza!",
+          "en": "How embarrassing!"
+        },
+        {
+          "es": "Necesito relajarme un poco.",
+          "en": "I need to relax a little."
+        },
+        {
+          "es": "¡Ánimo, tú puedes!",
+          "en": "Come on, you can do it!"
+        },
+        {
+          "es": "Hoy no estoy de buen humor.",
+          "en": "I'm not in a good mood today."
+        },
+        {
+          "es": "¿Cómo manejas el estrés?",
+          "en": "How do you handle stress?"
+        }
+      ]
+    },
+    {
       "date": "2026-11-02",
       "words": [
         {
