@@ -1,6 +1,93 @@
 {
   "entries": [
     {
+      "date": "2026-11-04",
+      "words": [
+        {
+          "es": "la tarea",
+          "en": "task"
+        },
+        {
+          "es": "la prioridad",
+          "en": "priority"
+        },
+        {
+          "es": "terminar",
+          "en": "to finish"
+        },
+        {
+          "es": "empezar",
+          "en": "to start, to begin"
+        },
+        {
+          "es": "el descanso",
+          "en": "break, rest"
+        },
+        {
+          "es": "el recordatorio",
+          "en": "reminder"
+        },
+        {
+          "es": "organizar",
+          "en": "to organize"
+        },
+        {
+          "es": "aplazar",
+          "en": "to postpone"
+        },
+        {
+          "es": "olvidar",
+          "en": "to forget"
+        },
+        {
+          "es": "a tiempo",
+          "en": "on time"
+        }
+      ],
+      "sentences": [
+        {
+          "es": "¿Cuál es la prioridad para hoy?",
+          "en": "What's the priority for today?"
+        },
+        {
+          "es": "Tengo muchas tareas esta semana.",
+          "en": "I have a lot of tasks this week."
+        },
+        {
+          "es": "Voy a terminar esto antes del almuerzo.",
+          "en": "I'm going to finish this before lunch."
+        },
+        {
+          "es": "¿Cuándo empiezas el proyecto nuevo?",
+          "en": "When do you start the new project?"
+        },
+        {
+          "es": "Vamos a tomar un descanso de diez minutos.",
+          "en": "Let's take a ten-minute break."
+        },
+        {
+          "es": "Te mando un recordatorio mañana.",
+          "en": "I'll send you a reminder tomorrow."
+        },
+        {
+          "es": "¿Podemos aplazar la llamada al viernes?",
+          "en": "Can we postpone the call to Friday?"
+        },
+        {
+          "es": "Necesito organizar mi agenda.",
+          "en": "I need to organize my schedule."
+        },
+        {
+          "es": "Lo siento, se me olvidó por completo.",
+          "en": "Sorry, I completely forgot."
+        },
+        {
+          "es": "Si empezamos ahora, terminamos a tiempo.",
+          "en": "If we start now, we'll finish on time."
+        }
+      ]
+    },
+    {
       "date": "2026-11-03",
       "words": [
         {
