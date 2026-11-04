@@ -1,6 +1,93 @@
 {
   "entries": [
     {
+      "date": "2026-11-05",
+      "words": [
+        {
+          "es": "la tormenta",
+          "en": "storm"
+        },
+        {
+          "es": "la niebla",
+          "en": "fog"
+        },
+        {
+          "es": "el pronóstico",
+          "en": "forecast"
+        },
+        {
+          "es": "mojado",
+          "en": "wet"
+        },
+        {
+          "es": "despejado",
+          "en": "clear (sky)"
+        },
+        {
+          "es": "el grado",
+          "en": "degree"
+        },
+        {
+          "es": "la bufanda",
+          "en": "scarf"
+        },
+        {
+          "es": "los guantes",
+          "en": "gloves"
+        },
+        {
+          "es": "empaparse",
+          "en": "to get soaked"
+        },
+        {
+          "es": "la brisa",
+          "en": "breeze"
+        }
+      ],
+      "sentences": [
+        {
+          "es": "¿Qué dice el pronóstico para mañana?",
+          "en": "What does the forecast say for tomorrow?"
+        },
+        {
+          "es": "Se espera una tormenta esta noche.",
+          "en": "A storm is expected tonight."
+        },
+        {
+          "es": "Hay mucha niebla en la carretera.",
+          "en": "There's a lot of fog on the road."
+        },
+        {
+          "es": "Hoy estamos a cinco grados.",
+          "en": "It's five degrees today."
+        },
+        {
+          "es": "No olvides la bufanda y los guantes.",
+          "en": "Don't forget your scarf and gloves."
+        },
+        {
+          "es": "Me empapé de camino al trabajo.",
+          "en": "I got soaked on the way to work."
+        },
+        {
+          "es": "Tengo los zapatos mojados.",
+          "en": "My shoes are wet."
+        },
+        {
+          "es": "Por la tarde el cielo va a estar despejado.",
+          "en": "The sky will be clear in the afternoon."
+        },
+        {
+          "es": "¡Qué brisa tan agradable!",
+          "en": "What a pleasant breeze!"
+        },
+        {
+          "es": "¿Llevo chaqueta o hace buen tiempo afuera?",
+          "en": "Should I bring a jacket, or is the weather nice outside?"
+        }
+      ]
+    },
+    {
       "date": "2026-11-04",
       "words": [
         {
