@@ -1,6 +1,93 @@
 {
   "entries": [
     {
+      "date": "2026-11-06",
+      "words": [
+        {
+          "es": "la tapa",
+          "en": "tapa, small snack served with a drink"
+        },
+        {
+          "es": "la ración",
+          "en": "portion (a larger plate to share)"
+        },
+        {
+          "es": "la barra",
+          "en": "bar counter"
+        },
+        {
+          "es": "la terraza",
+          "en": "terrace, outdoor seating"
+        },
+        {
+          "es": "la caña",
+          "en": "small draft beer"
+        },
+        {
+          "es": "el aperitivo",
+          "en": "appetizer; pre-meal drink"
+        },
+        {
+          "es": "picar",
+          "en": "to snack, to nibble"
+        },
+        {
+          "es": "el ambiente",
+          "en": "atmosphere, vibe"
+        },
+        {
+          "es": "ruidoso",
+          "en": "noisy"
+        },
+        {
+          "es": "pagar a medias",
+          "en": "to split the bill 50/50"
+        }
+      ],
+      "sentences": [
+        {
+          "es": "¿Tomamos algo en la terraza?",
+          "en": "Shall we have something on the terrace?"
+        },
+        {
+          "es": "Dos cañas, por favor.",
+          "en": "Two small beers, please."
+        },
+        {
+          "es": "¿Qué tapas nos recomienda?",
+          "en": "Which tapas do you recommend?"
+        },
+        {
+          "es": "Vamos a pedir una ración de calamares para compartir.",
+          "en": "Let's order a portion of squid to share."
+        },
+        {
+          "es": "Prefiero sentarme en la barra.",
+          "en": "I'd rather sit at the bar."
+        },
+        {
+          "es": "Este bar tiene muy buen ambiente.",
+          "en": "This bar has a really nice atmosphere."
+        },
+        {
+          "es": "Este sitio es demasiado ruidoso; ¿nos vamos a otro?",
+          "en": "This place is too noisy; shall we go somewhere else?"
+        },
+        {
+          "es": "¿Pagamos a medias?",
+          "en": "Shall we split the bill?"
+        },
+        {
+          "es": "Esta ronda la pago yo.",
+          "en": "This round is on me."
+        },
+        {
+          "es": "No tengo mucha hambre, solo quiero picar algo.",
+          "en": "I'm not very hungry, I just want to nibble on something."
+        }
+      ]
+    },
+    {
       "date": "2026-11-05",
       "words": [
         {
