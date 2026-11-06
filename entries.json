@@ -1,6 +1,93 @@
 {
   "entries": [
     {
+      "date": "2026-11-07",
+      "words": [
+        {
+          "es": "el teletrabajo",
+          "en": "remote work"
+        },
+        {
+          "es": "la conexión",
+          "en": "connection"
+        },
+        {
+          "es": "la cámara",
+          "en": "camera"
+        },
+        {
+          "es": "el micrófono",
+          "en": "microphone"
+        },
+        {
+          "es": "silenciar",
+          "en": "to mute"
+        },
+        {
+          "es": "compartir pantalla",
+          "en": "to share the screen"
+        },
+        {
+          "es": "conectarse",
+          "en": "to connect / log on"
+        },
+        {
+          "es": "desconectarse",
+          "en": "to disconnect / log off"
+        },
+        {
+          "es": "los auriculares",
+          "en": "headphones"
+        },
+        {
+          "es": "la grabación",
+          "en": "recording"
+        }
+      ],
+      "sentences": [
+        {
+          "es": "¿Me oyes bien?",
+          "en": "Can you hear me well?"
+        },
+        {
+          "es": "Se te oye entrecortado.",
+          "en": "You're breaking up."
+        },
+        {
+          "es": "Creo que tienes el micrófono silenciado.",
+          "en": "I think your microphone is muted."
+        },
+        {
+          "es": "¿Puedes encender la cámara?",
+          "en": "Can you turn on your camera?"
+        },
+        {
+          "es": "Voy a compartir pantalla.",
+          "en": "I'm going to share my screen."
+        },
+        {
+          "es": "¿Veis mi pantalla?",
+          "en": "Can you (all) see my screen?"
+        },
+        {
+          "es": "Mi conexión va muy lenta hoy.",
+          "en": "My connection is very slow today."
+        },
+        {
+          "es": "Me conecto en cinco minutos.",
+          "en": "I'll log on in five minutes."
+        },
+        {
+          "es": "Hoy hago teletrabajo desde casa.",
+          "en": "Today I'm working remotely from home."
+        },
+        {
+          "es": "¿Te mando la grabación de la reunión?",
+          "en": "Shall I send you the recording of the meeting?"
+        }
+      ]
+    },
+    {
       "date": "2026-11-06",
       "words": [
         {
