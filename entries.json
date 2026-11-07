@@ -1,6 +1,93 @@
 {
   "entries": [
     {
+      "date": "2026-11-08",
+      "words": [
+        {
+          "es": "la planta",
+          "en": "plant"
+        },
+        {
+          "es": "regar",
+          "en": "to water (plants)"
+        },
+        {
+          "es": "la maceta",
+          "en": "flowerpot"
+        },
+        {
+          "es": "el jardín",
+          "en": "garden"
+        },
+        {
+          "es": "la semilla",
+          "en": "seed"
+        },
+        {
+          "es": "plantar",
+          "en": "to plant"
+        },
+        {
+          "es": "la tierra",
+          "en": "soil; earth"
+        },
+        {
+          "es": "el balcón",
+          "en": "balcony"
+        },
+        {
+          "es": "crecer",
+          "en": "to grow"
+        },
+        {
+          "es": "la sombra",
+          "en": "shade; shadow"
+        }
+      ],
+      "sentences": [
+        {
+          "es": "¿Puedes regar las plantas mientras estoy fuera?",
+          "en": "Can you water the plants while I'm away?"
+        },
+        {
+          "es": "Esta planta necesita mucha luz.",
+          "en": "This plant needs a lot of light."
+        },
+        {
+          "es": "No la riegues demasiado.",
+          "en": "Don't water it too much."
+        },
+        {
+          "es": "Tengo unas macetas en el balcón.",
+          "en": "I have some pots on the balcony."
+        },
+        {
+          "es": "¿Dónde compraste estas semillas?",
+          "en": "Where did you buy these seeds?"
+        },
+        {
+          "es": "Este fin de semana voy a plantar tomates.",
+          "en": "This weekend I'm going to plant tomatoes."
+        },
+        {
+          "es": "Hay que cambiarla a una maceta más grande.",
+          "en": "It needs to be moved to a bigger pot."
+        },
+        {
+          "es": "Mejor ponla a la sombra.",
+          "en": "Better put it in the shade."
+        },
+        {
+          "es": "¡Qué rápido ha crecido!",
+          "en": "Wow, it has grown so fast!"
+        },
+        {
+          "es": "Me encanta pasar tiempo en el jardín.",
+          "en": "I love spending time in the garden."
+        }
+      ]
+    },
+    {
       "date": "2026-11-07",
       "words": [
         {
