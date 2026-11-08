@@ -1,6 +1,93 @@
 {
   "entries": [
     {
+      "date": "2026-11-09",
+      "words": [
+        {
+          "es": "el sueño",
+          "en": "sleep; dream"
+        },
+        {
+          "es": "dormirse",
+          "en": "to fall asleep"
+        },
+        {
+          "es": "la siesta",
+          "en": "nap"
+        },
+        {
+          "es": "roncar",
+          "en": "to snore"
+        },
+        {
+          "es": "soñar",
+          "en": "to dream"
+        },
+        {
+          "es": "la pesadilla",
+          "en": "nightmare"
+        },
+        {
+          "es": "madrugar",
+          "en": "to get up early"
+        },
+        {
+          "es": "trasnochar",
+          "en": "to stay up late"
+        },
+        {
+          "es": "el colchón",
+          "en": "mattress"
+        },
+        {
+          "es": "el insomnio",
+          "en": "insomnia"
+        }
+      ],
+      "sentences": [
+        {
+          "es": "Anoche no pude dormir bien.",
+          "en": "I couldn't sleep well last night."
+        },
+        {
+          "es": "Me dormí viendo una película.",
+          "en": "I fell asleep watching a movie."
+        },
+        {
+          "es": "Voy a echarme una siesta corta.",
+          "en": "I'm going to take a short nap."
+        },
+        {
+          "es": "Mi compañero de piso ronca muchísimo.",
+          "en": "My roommate snores a lot."
+        },
+        {
+          "es": "Anoche soñé contigo.",
+          "en": "I dreamed about you last night."
+        },
+        {
+          "es": "Tuve una pesadilla horrible.",
+          "en": "I had a horrible nightmare."
+        },
+        {
+          "es": "Mañana tengo que madrugar para el vuelo.",
+          "en": "Tomorrow I have to get up early for the flight."
+        },
+        {
+          "es": "No me gusta trasnochar entre semana.",
+          "en": "I don't like staying up late on weeknights."
+        },
+        {
+          "es": "Este colchón es demasiado duro para mí.",
+          "en": "This mattress is too hard for me."
+        },
+        {
+          "es": "¡Que duermas bien!",
+          "en": "Sleep well!"
+        }
+      ]
+    },
+    {
       "date": "2026-11-08",
       "words": [
         {
