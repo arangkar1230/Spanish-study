@@ -1,6 +1,93 @@
 {
   "entries": [
     {
+      "date": "2026-11-10",
+      "words": [
+        {
+          "es": "la novela",
+          "en": "novel"
+        },
+        {
+          "es": "el autor",
+          "en": "author"
+        },
+        {
+          "es": "la página",
+          "en": "page"
+        },
+        {
+          "es": "la librería",
+          "en": "bookstore (not library!)"
+        },
+        {
+          "es": "el marcapáginas",
+          "en": "bookmark"
+        },
+        {
+          "es": "subrayar",
+          "en": "to underline"
+        },
+        {
+          "es": "el resumen",
+          "en": "summary"
+        },
+        {
+          "es": "la portada",
+          "en": "(book) cover"
+        },
+        {
+          "es": "hojear",
+          "en": "to leaf through, to skim"
+        },
+        {
+          "es": "devolver",
+          "en": "to return (something)"
+        }
+      ],
+      "sentences": [
+        {
+          "es": "¿Qué estás leyendo ahora?",
+          "en": "What are you reading now?"
+        },
+        {
+          "es": "Estoy leyendo una novela muy buena.",
+          "en": "I'm reading a really good novel."
+        },
+        {
+          "es": "¿Quién es el autor de este libro?",
+          "en": "Who is the author of this book?"
+        },
+        {
+          "es": "¿Hay una librería cerca de aquí?",
+          "en": "Is there a bookstore near here?"
+        },
+        {
+          "es": "Voy por la página cincuenta.",
+          "en": "I'm on page fifty."
+        },
+        {
+          "es": "No me cuentes el final, por favor.",
+          "en": "Please don't tell me the ending."
+        },
+        {
+          "es": "¿Me lo puedes devolver la semana que viene?",
+          "en": "Can you give it back to me next week?"
+        },
+        {
+          "es": "Solo lo he hojeado un poco.",
+          "en": "I've only skimmed it a little."
+        },
+        {
+          "es": "¿Me puedes hacer un resumen rápido?",
+          "en": "Can you give me a quick summary?"
+        },
+        {
+          "es": "Me gustó la portada, pero no la historia.",
+          "en": "I liked the cover, but not the story."
+        }
+      ]
+    },
+    {
       "date": "2026-11-09",
       "words": [
         {
