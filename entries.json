@@ -1,6 +1,93 @@
 {
   "entries": [
     {
+      "date": "2026-11-11",
+      "words": [
+        {
+          "es": "el pinchazo",
+          "en": "flat tire (puncture)"
+        },
+        {
+          "es": "la grúa",
+          "en": "tow truck"
+        },
+        {
+          "es": "el taller",
+          "en": "(car) repair shop"
+        },
+        {
+          "es": "el mecánico",
+          "en": "mechanic"
+        },
+        {
+          "es": "frenar",
+          "en": "to brake"
+        },
+        {
+          "es": "repostar",
+          "en": "to refuel"
+        },
+        {
+          "es": "el carril",
+          "en": "lane"
+        },
+        {
+          "es": "el retrovisor",
+          "en": "rearview mirror"
+        },
+        {
+          "es": "el cinturón",
+          "en": "seatbelt; belt"
+        },
+        {
+          "es": "adelantar",
+          "en": "to overtake; to move forward"
+        }
+      ],
+      "sentences": [
+        {
+          "es": "Se me ha pinchado una rueda.",
+          "en": "I've got a flat tire."
+        },
+        {
+          "es": "¿Hay un taller por aquí cerca?",
+          "en": "Is there a repair shop near here?"
+        },
+        {
+          "es": "Tenemos que llamar a la grúa.",
+          "en": "We have to call the tow truck."
+        },
+        {
+          "es": "El mecánico dice que estará listo mañana.",
+          "en": "The mechanic says it will be ready tomorrow."
+        },
+        {
+          "es": "Abróchate el cinturón, por favor.",
+          "en": "Fasten your seatbelt, please."
+        },
+        {
+          "es": "¡Frena, que el semáforo está en rojo!",
+          "en": "Brake, the light is red!"
+        },
+        {
+          "es": "Necesitamos repostar antes de salir.",
+          "en": "We need to refuel before we leave."
+        },
+        {
+          "es": "No adelantes en la curva.",
+          "en": "Don't overtake on the curve."
+        },
+        {
+          "es": "Cámbiate al carril de la derecha.",
+          "en": "Move into the right lane."
+        },
+        {
+          "es": "¿Cuánto me va a costar la reparación?",
+          "en": "How much is the repair going to cost me?"
+        }
+      ]
+    },
+    {
       "date": "2026-11-10",
       "words": [
         {
