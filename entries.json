@@ -1,6 +1,93 @@
 {
   "entries": [
     {
+      "date": "2026-11-12",
+      "words": [
+        {
+          "es": "el cuchillo",
+          "en": "knife"
+        },
+        {
+          "es": "el tenedor",
+          "en": "fork"
+        },
+        {
+          "es": "la cuchara",
+          "en": "spoon"
+        },
+        {
+          "es": "la servilleta",
+          "en": "napkin"
+        },
+        {
+          "es": "el mantel",
+          "en": "tablecloth"
+        },
+        {
+          "es": "poner la mesa",
+          "en": "to set the table"
+        },
+        {
+          "es": "quitar la mesa",
+          "en": "to clear the table"
+        },
+        {
+          "es": "fregar",
+          "en": "to wash (the dishes) / to scrub"
+        },
+        {
+          "es": "el lavavajillas",
+          "en": "dishwasher"
+        },
+        {
+          "es": "la bandeja",
+          "en": "tray"
+        }
+      ],
+      "sentences": [
+        {
+          "es": "¿Me ayudas a poner la mesa?",
+          "en": "Can you help me set the table?"
+        },
+        {
+          "es": "Falta un tenedor en esta mesa.",
+          "en": "There's a fork missing at this table."
+        },
+        {
+          "es": "¿Me puede traer otra cuchara, por favor?",
+          "en": "Could you bring me another spoon, please?"
+        },
+        {
+          "es": "Pásame una servilleta, por favor.",
+          "en": "Pass me a napkin, please."
+        },
+        {
+          "es": "Hoy te toca fregar los platos.",
+          "en": "Today it's your turn to wash the dishes."
+        },
+        {
+          "es": "Pon los vasos en el lavavajillas.",
+          "en": "Put the glasses in the dishwasher."
+        },
+        {
+          "es": "Este cuchillo no corta bien.",
+          "en": "This knife doesn't cut well."
+        },
+        {
+          "es": "Yo quito la mesa y tú friegas.",
+          "en": "I'll clear the table and you wash up."
+        },
+        {
+          "es": "Cuidado, la bandeja está muy caliente.",
+          "en": "Careful, the tray is very hot."
+        },
+        {
+          "es": "Se me ha caído vino en el mantel.",
+          "en": "I've spilled wine on the tablecloth."
+        }
+      ]
+    },
+    {
       "date": "2026-11-11",
       "words": [
         {
