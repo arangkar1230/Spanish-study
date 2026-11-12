@@ -1,6 +1,93 @@
 {
   "entries": [
     {
+      "date": "2026-11-13",
+      "words": [
+        {
+          "es": "el mostrador",
+          "en": "counter (service desk)"
+        },
+        {
+          "es": "la escalera",
+          "en": "stairs; ladder"
+        },
+        {
+          "es": "el portátil",
+          "en": "laptop"
+        },
+        {
+          "es": "el adjunto",
+          "en": "attachment (email)"
+        },
+        {
+          "es": "el interruptor",
+          "en": "light switch"
+        },
+        {
+          "es": "la acera",
+          "en": "sidewalk"
+        },
+        {
+          "es": "el desvío",
+          "en": "detour"
+        },
+        {
+          "es": "la percha",
+          "en": "clothes hanger"
+        },
+        {
+          "es": "aprovechar",
+          "en": "to make the most of"
+        },
+        {
+          "es": "tardar",
+          "en": "to take (time); to be late"
+        }
+      ],
+      "sentences": [
+        {
+          "es": "¿Dónde está el mostrador de facturación?",
+          "en": "Where is the check-in counter?"
+        },
+        {
+          "es": "¿Cuánto se tarda en llegar al centro?",
+          "en": "How long does it take to get downtown?"
+        },
+        {
+          "es": "El ascensor no funciona; vamos por la escalera.",
+          "en": "The elevator isn't working; let's take the stairs."
+        },
+        {
+          "es": "Se me olvidó el portátil en casa.",
+          "en": "I left my laptop at home."
+        },
+        {
+          "es": "No veo el adjunto en tu correo.",
+          "en": "I don't see the attachment in your email."
+        },
+        {
+          "es": "¿Dónde está el interruptor de la luz?",
+          "en": "Where is the light switch?"
+        },
+        {
+          "es": "Hay un desvío por obras.",
+          "en": "There's a detour because of roadwork."
+        },
+        {
+          "es": "Hay que aprovechar el buen tiempo.",
+          "en": "We should make the most of the good weather."
+        },
+        {
+          "es": "¿Me das una percha para el abrigo?",
+          "en": "Could you give me a hanger for my coat?"
+        },
+        {
+          "es": "Camina por la acera, por favor.",
+          "en": "Walk on the sidewalk, please."
+        }
+      ]
+    },
+    {
       "date": "2026-11-12",
       "words": [
         {
