@@ -1,6 +1,93 @@
 {
   "entries": [
     {
+      "date": "2026-11-14",
+      "words": [
+        {
+          "es": "el sabor",
+          "en": "flavor, taste"
+        },
+        {
+          "es": "salado",
+          "en": "salty"
+        },
+        {
+          "es": "dulce",
+          "en": "sweet"
+        },
+        {
+          "es": "picante",
+          "en": "spicy"
+        },
+        {
+          "es": "amargo",
+          "en": "bitter"
+        },
+        {
+          "es": "el ingrediente",
+          "en": "ingredient"
+        },
+        {
+          "es": "crudo",
+          "en": "raw"
+        },
+        {
+          "es": "el plato del día",
+          "en": "dish of the day"
+        },
+        {
+          "es": "la alergia",
+          "en": "allergy"
+        },
+        {
+          "es": "sabroso",
+          "en": "tasty"
+        }
+      ],
+      "sentences": [
+        {
+          "es": "¿Esto es muy picante?",
+          "en": "Is this very spicy?"
+        },
+        {
+          "es": "Tengo alergia a los frutos secos.",
+          "en": "I'm allergic to nuts."
+        },
+        {
+          "es": "¿Qué ingredientes lleva?",
+          "en": "What ingredients does it have?"
+        },
+        {
+          "es": "Está un poco salado para mí.",
+          "en": "It's a bit salty for me."
+        },
+        {
+          "es": "Hoy pido el plato del día.",
+          "en": "Today I'll order the dish of the day."
+        },
+        {
+          "es": "Este café está demasiado amargo.",
+          "en": "This coffee is too bitter."
+        },
+        {
+          "es": "¿Me lo puede preparar sin cebolla?",
+          "en": "Can you make it for me without onion?"
+        },
+        {
+          "es": "No como pescado crudo.",
+          "en": "I don't eat raw fish."
+        },
+        {
+          "es": "¡Qué sabroso está todo!",
+          "en": "Everything is so tasty!"
+        },
+        {
+          "es": "Prefiero algo dulce de postre.",
+          "en": "I'd prefer something sweet for dessert."
+        }
+      ]
+    },
+    {
       "date": "2026-11-13",
       "words": [
         {
