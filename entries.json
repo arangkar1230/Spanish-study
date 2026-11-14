@@ -1,6 +1,93 @@
 {
   "entries": [
     {
+      "date": "2026-11-15",
+      "words": [
+        {
+          "es": "el remitente",
+          "en": "sender"
+        },
+        {
+          "es": "el destinatario",
+          "en": "recipient"
+        },
+        {
+          "es": "frágil",
+          "en": "fragile"
+        },
+        {
+          "es": "el repartidor",
+          "en": "delivery person"
+        },
+        {
+          "es": "el cartero",
+          "en": "mail carrier, postman"
+        },
+        {
+          "es": "la etiqueta",
+          "en": "label, tag"
+        },
+        {
+          "es": "la cinta adhesiva",
+          "en": "adhesive tape"
+        },
+        {
+          "es": "envolver",
+          "en": "to wrap"
+        },
+        {
+          "es": "la báscula",
+          "en": "scale (for weighing)"
+        },
+        {
+          "es": "el contenido",
+          "en": "contents"
+        }
+      ],
+      "sentences": [
+        {
+          "es": "¿Cuánto tarda en llegar a Busan?",
+          "en": "How long does it take to get to Busan?"
+        },
+        {
+          "es": "¿Quién es el remitente de esta carta?",
+          "en": "Who is the sender of this letter?"
+        },
+        {
+          "es": "Escriba el nombre del destinatario aquí.",
+          "en": "Write the recipient's name here."
+        },
+        {
+          "es": "Cuidado, el contenido es frágil.",
+          "en": "Careful, the contents are fragile."
+        },
+        {
+          "es": "El repartidor vino, pero no había nadie en casa.",
+          "en": "The delivery person came, but nobody was home."
+        },
+        {
+          "es": "¿A qué hora pasa el cartero?",
+          "en": "What time does the mail carrier come by?"
+        },
+        {
+          "es": "Necesito cinta adhesiva para cerrar la caja.",
+          "en": "I need tape to close the box."
+        },
+        {
+          "es": "¿Me lo puede envolver para regalo?",
+          "en": "Can you gift-wrap it for me?"
+        },
+        {
+          "es": "Ponga la etiqueta en la parte de arriba.",
+          "en": "Put the label on the top."
+        },
+        {
+          "es": "Ponga el paquete en la báscula, por favor.",
+          "en": "Put the package on the scale, please."
+        }
+      ]
+    },
+    {
       "date": "2026-11-14",
       "words": [
         {
