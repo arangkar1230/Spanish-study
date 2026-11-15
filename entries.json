@@ -1,6 +1,93 @@
 {
   "entries": [
     {
+      "date": "2026-11-16",
+      "words": [
+        {
+          "es": "el probador",
+          "en": "fitting room"
+        },
+        {
+          "es": "la manga",
+          "en": "sleeve"
+        },
+        {
+          "es": "el botón",
+          "en": "button"
+        },
+        {
+          "es": "la cremallera",
+          "en": "zipper"
+        },
+        {
+          "es": "estrecho",
+          "en": "tight, narrow"
+        },
+        {
+          "es": "ancho",
+          "en": "loose, wide"
+        },
+        {
+          "es": "el algodón",
+          "en": "cotton"
+        },
+        {
+          "es": "la lana",
+          "en": "wool"
+        },
+        {
+          "es": "el escaparate",
+          "en": "shop window"
+        },
+        {
+          "es": "el cuero",
+          "en": "leather"
+        }
+      ],
+      "sentences": [
+        {
+          "es": "¿Me puedo probar este jersey en el probador?",
+          "en": "Can I try this sweater on in the fitting room?"
+        },
+        {
+          "es": "Esta chaqueta me queda un poco estrecha.",
+          "en": "This jacket is a bit tight on me."
+        },
+        {
+          "es": "¿La tiene en una talla más grande?",
+          "en": "Do you have it in a bigger size?"
+        },
+        {
+          "es": "Las mangas son demasiado largas.",
+          "en": "The sleeves are too long."
+        },
+        {
+          "es": "La cremallera no funciona bien.",
+          "en": "The zipper doesn't work properly."
+        },
+        {
+          "es": "¿Es de algodón o de lana?",
+          "en": "Is it cotton or wool?"
+        },
+        {
+          "es": "Vi este abrigo en el escaparate.",
+          "en": "I saw this coat in the shop window."
+        },
+        {
+          "es": "Se me ha caído un botón.",
+          "en": "A button has come off."
+        },
+        {
+          "es": "Prefiero algo un poco más ancho.",
+          "en": "I'd prefer something a bit looser."
+        },
+        {
+          "es": "¿Esta chaqueta de cuero está rebajada?",
+          "en": "Is this leather jacket on sale?"
+        }
+      ]
+    },
+    {
       "date": "2026-11-15",
       "words": [
         {
