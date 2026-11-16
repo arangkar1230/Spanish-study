@@ -1,6 +1,93 @@
 {
   "entries": [
     {
+      "date": "2026-11-17",
+      "words": [
+        {
+          "es": "la pesa",
+          "en": "weight (dumbbell)"
+        },
+        {
+          "es": "el entrenador",
+          "en": "trainer, coach"
+        },
+        {
+          "es": "sudar",
+          "en": "to sweat"
+        },
+        {
+          "es": "la cinta de correr",
+          "en": "treadmill"
+        },
+        {
+          "es": "el vestuario",
+          "en": "locker room"
+        },
+        {
+          "es": "la taquilla",
+          "en": "locker"
+        },
+        {
+          "es": "el músculo",
+          "en": "muscle"
+        },
+        {
+          "es": "el calentamiento",
+          "en": "warm-up"
+        },
+        {
+          "es": "la cuota",
+          "en": "fee, membership fee"
+        },
+        {
+          "es": "inscribirse",
+          "en": "to sign up, to enroll"
+        }
+      ],
+      "sentences": [
+        {
+          "es": "¿Cuánto es la cuota mensual del gimnasio?",
+          "en": "How much is the monthly gym fee?"
+        },
+        {
+          "es": "Quiero inscribirme en la clase de yoga.",
+          "en": "I want to sign up for the yoga class."
+        },
+        {
+          "es": "¿Dónde está el vestuario de mujeres?",
+          "en": "Where is the women's locker room?"
+        },
+        {
+          "es": "¿Necesito un candado para la taquilla?",
+          "en": "Do I need a padlock for the locker?"
+        },
+        {
+          "es": "Nunca te saltes el calentamiento.",
+          "en": "Never skip the warm-up."
+        },
+        {
+          "es": "Corro media hora en la cinta de correr.",
+          "en": "I run for half an hour on the treadmill."
+        },
+        {
+          "es": "El entrenador me hizo un plan personalizado.",
+          "en": "The trainer made me a personalized plan."
+        },
+        {
+          "es": "Estas pesas son demasiado pesadas para mí.",
+          "en": "These weights are too heavy for me."
+        },
+        {
+          "es": "Me duelen todos los músculos después de ayer.",
+          "en": "All my muscles hurt after yesterday."
+        },
+        {
+          "es": "Hace tanto calor que estoy sudando mucho.",
+          "en": "It's so hot that I'm sweating a lot."
+        }
+      ]
+    },
+    {
       "date": "2026-11-16",
       "words": [
         {
