@@ -1,6 +1,93 @@
 {
   "entries": [
     {
+      "date": "2026-11-18",
+      "words": [
+        {
+          "es": "apagar",
+          "en": "to turn off"
+        },
+        {
+          "es": "encender",
+          "en": "to turn on (a light/device)"
+        },
+        {
+          "es": "enchufar",
+          "en": "to plug in"
+        },
+        {
+          "es": "averiguar",
+          "en": "to find out"
+        },
+        {
+          "es": "soler (+ infinitivo)",
+          "en": "to usually (do something)"
+        },
+        {
+          "es": "pedir prestado",
+          "en": "to borrow"
+        },
+        {
+          "es": "el aviso",
+          "en": "notice, warning"
+        },
+        {
+          "es": "las tijeras",
+          "en": "scissors"
+        },
+        {
+          "es": "el pegamento",
+          "en": "glue"
+        },
+        {
+          "es": "el sótano",
+          "en": "basement"
+        }
+      ],
+      "sentences": [
+        {
+          "es": "¿Puedes apagar la luz, por favor?",
+          "en": "Can you turn off the light, please?"
+        },
+        {
+          "es": "No sé cómo encender este aparato.",
+          "en": "I don't know how to turn on this device."
+        },
+        {
+          "es": "¿Dónde puedo enchufar el cargador?",
+          "en": "Where can I plug in the charger?"
+        },
+        {
+          "es": "Voy a averiguar a qué hora abre la tienda.",
+          "en": "I'm going to find out what time the store opens."
+        },
+        {
+          "es": "Suelo desayunar en casa.",
+          "en": "I usually have breakfast at home."
+        },
+        {
+          "es": "¿Me prestas tus tijeras un momento?",
+          "en": "Can you lend me your scissors for a moment?"
+        },
+        {
+          "es": "Quiero pedir prestado un libro de la biblioteca.",
+          "en": "I want to borrow a book from the library."
+        },
+        {
+          "es": "Avísame cuando llegues.",
+          "en": "Let me know when you arrive."
+        },
+        {
+          "es": "Hay un aviso en la puerta del sótano.",
+          "en": "There's a notice on the basement door."
+        },
+        {
+          "es": "No te preocupes, yo me encargo.",
+          "en": "Don't worry, I'll take care of it."
+        }
+      ]
+    },
+    {
       "date": "2026-11-17",
       "words": [
         {
