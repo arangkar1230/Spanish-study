@@ -1,6 +1,93 @@
 {
   "entries": [
     {
+      "date": "2026-11-19",
+      "words": [
+        {
+          "es": "la emergencia",
+          "en": "emergency"
+        },
+        {
+          "es": "el accidente",
+          "en": "accident"
+        },
+        {
+          "es": "el incendio",
+          "en": "fire (blaze)"
+        },
+        {
+          "es": "los bomberos",
+          "en": "firefighters / fire department"
+        },
+        {
+          "es": "la salida de emergencia",
+          "en": "emergency exit"
+        },
+        {
+          "es": "el botiquín",
+          "en": "first-aid kit"
+        },
+        {
+          "es": "caerse",
+          "en": "to fall (down)"
+        },
+        {
+          "es": "grave",
+          "en": "serious, severe"
+        },
+        {
+          "es": "el humo",
+          "en": "smoke"
+        },
+        {
+          "es": "tranquilizarse",
+          "en": "to calm down"
+        }
+      ],
+      "sentences": [
+        {
+          "es": "¡Llama a una ambulancia, rápido!",
+          "en": "Call an ambulance, quick!"
+        },
+        {
+          "es": "Ha habido un accidente en la esquina.",
+          "en": "There's been an accident at the corner."
+        },
+        {
+          "es": "¿Dónde está la salida de emergencia?",
+          "en": "Where is the emergency exit?"
+        },
+        {
+          "es": "Huele a humo. ¿Hay un incendio?",
+          "en": "It smells like smoke. Is there a fire?"
+        },
+        {
+          "es": "Los bomberos llegaron en cinco minutos.",
+          "en": "The firefighters arrived in five minutes."
+        },
+        {
+          "es": "Me he caído y me duele la rodilla.",
+          "en": "I fell and my knee hurts."
+        },
+        {
+          "es": "¿Tienes un botiquín en el coche?",
+          "en": "Do you have a first-aid kit in the car?"
+        },
+        {
+          "es": "Tranquilízate, no es nada grave.",
+          "en": "Calm down, it's nothing serious."
+        },
+        {
+          "es": "En caso de emergencia, llama al 112.",
+          "en": "In case of emergency, call 112."
+        },
+        {
+          "es": "¿Necesita ayuda?",
+          "en": "Do you need help?"
+        }
+      ]
+    },
+    {
       "date": "2026-11-18",
       "words": [
         {
