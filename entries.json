@@ -1,6 +1,93 @@
 {
   "entries": [
     {
+      "date": "2026-11-20",
+      "words": [
+        {
+          "es": "el casero",
+          "en": "the landlord"
+        },
+        {
+          "es": "la gotera",
+          "en": "the leak (in a roof/ceiling)"
+        },
+        {
+          "es": "averiado",
+          "en": "broken down, out of order"
+        },
+        {
+          "es": "la persiana",
+          "en": "the window blind"
+        },
+        {
+          "es": "reciclar",
+          "en": "to recycle"
+        },
+        {
+          "es": "el portero",
+          "en": "the doorman / building concierge"
+        },
+        {
+          "es": "el compañero de piso",
+          "en": "the roommate / flatmate"
+        },
+        {
+          "es": "el ruido",
+          "en": "the noise"
+        },
+        {
+          "es": "el contenedor",
+          "en": "the (street) bin / container"
+        },
+        {
+          "es": "la humedad",
+          "en": "the damp / humidity"
+        }
+      ],
+      "sentences": [
+        {
+          "es": "Hay una gotera en el baño.",
+          "en": "There's a leak in the bathroom."
+        },
+        {
+          "es": "¿Puedes llamar al casero, por favor?",
+          "en": "Can you call the landlord, please?"
+        },
+        {
+          "es": "La lavadora está averiada otra vez.",
+          "en": "The washing machine is broken again."
+        },
+        {
+          "es": "¿Bajo la persiana? Entra mucho sol.",
+          "en": "Shall I lower the blind? A lot of sun is coming in."
+        },
+        {
+          "es": "Aquí reciclamos el plástico y el vidrio.",
+          "en": "Here we recycle plastic and glass."
+        },
+        {
+          "es": "El portero tiene mi paquete.",
+          "en": "The doorman has my package."
+        },
+        {
+          "es": "Mi compañero de piso trabaja de noche.",
+          "en": "My roommate works at night."
+        },
+        {
+          "es": "Perdona, ¿puedes hacer menos ruido?",
+          "en": "Excuse me, could you make less noise?"
+        },
+        {
+          "es": "¿Dónde está el contenedor de papel?",
+          "en": "Where is the paper bin?"
+        },
+        {
+          "es": "Hay mucha humedad en esta habitación.",
+          "en": "There's a lot of damp in this room."
+        }
+      ]
+    },
+    {
       "date": "2026-11-19",
       "words": [
         {
