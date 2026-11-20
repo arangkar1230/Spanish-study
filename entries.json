@@ -1,6 +1,93 @@
 {
   "entries": [
     {
+      "date": "2026-11-21",
+      "words": [
+        {
+          "es": "la excursión",
+          "en": "excursion, day trip"
+        },
+        {
+          "es": "el folleto",
+          "en": "brochure, leaflet"
+        },
+        {
+          "es": "la visita guiada",
+          "en": "guided tour"
+        },
+        {
+          "es": "el horario de apertura",
+          "en": "opening hours"
+        },
+        {
+          "es": "el casco antiguo",
+          "en": "old town"
+        },
+        {
+          "es": "el mirador",
+          "en": "viewpoint, lookout"
+        },
+        {
+          "es": "la catedral",
+          "en": "cathedral"
+        },
+        {
+          "es": "el puerto",
+          "en": "port, harbor"
+        },
+        {
+          "es": "merecer la pena",
+          "en": "to be worth it"
+        },
+        {
+          "es": "alojarse",
+          "en": "to stay (at a hotel, etc.)"
+        }
+      ],
+      "sentences": [
+        {
+          "es": "¿Hay alguna visita guiada en inglés?",
+          "en": "Is there a guided tour in English?"
+        },
+        {
+          "es": "¿Me puede dar un folleto de la ciudad?",
+          "en": "Could you give me a brochure of the city?"
+        },
+        {
+          "es": "¿Cuál es el horario de apertura del museo?",
+          "en": "What are the museum's opening hours?"
+        },
+        {
+          "es": "Vamos a dar un paseo por el casco antiguo.",
+          "en": "Let's take a walk around the old town."
+        },
+        {
+          "es": "Desde el mirador hay una vista preciosa.",
+          "en": "There's a beautiful view from the lookout."
+        },
+        {
+          "es": "¿Merece la pena visitar la catedral?",
+          "en": "Is it worth visiting the cathedral?"
+        },
+        {
+          "es": "Nos alojamos en un hotel cerca del puerto.",
+          "en": "We're staying at a hotel near the harbor."
+        },
+        {
+          "es": "¿Cuánto dura la excursión?",
+          "en": "How long does the excursion last?"
+        },
+        {
+          "es": "¿A qué hora sale el próximo barco?",
+          "en": "What time does the next boat leave?"
+        },
+        {
+          "es": "¿Se pueden hacer fotos aquí dentro?",
+          "en": "Can you take photos in here?"
+        }
+      ]
+    },
+    {
       "date": "2026-11-20",
       "words": [
         {
