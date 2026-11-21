@@ -1,6 +1,93 @@
 {
   "entries": [
     {
+      "date": "2026-11-22",
+      "words": [
+        {
+          "es": "el mercadillo",
+          "en": "flea market / street market"
+        },
+        {
+          "es": "regatear",
+          "en": "to haggle"
+        },
+        {
+          "es": "la ganga",
+          "en": "bargain"
+        },
+        {
+          "es": "de segunda mano",
+          "en": "second-hand"
+        },
+        {
+          "es": "el vendedor",
+          "en": "seller, vendor"
+        },
+        {
+          "es": "la antigüedad",
+          "en": "antique"
+        },
+        {
+          "es": "el tamaño",
+          "en": "size"
+        },
+        {
+          "es": "rebajar",
+          "en": "to lower (a price)"
+        },
+        {
+          "es": "el monedero",
+          "en": "coin purse"
+        },
+        {
+          "es": "la bolsa",
+          "en": "bag"
+        }
+      ],
+      "sentences": [
+        {
+          "es": "¿Hay mercadillo los domingos?",
+          "en": "Is there a flea market on Sundays?"
+        },
+        {
+          "es": "¿Me hace un descuento si compro dos?",
+          "en": "Will you give me a discount if I buy two?"
+        },
+        {
+          "es": "¡Qué ganga!",
+          "en": "What a bargain!"
+        },
+        {
+          "es": "Esta lámpara es de segunda mano, pero funciona bien.",
+          "en": "This lamp is second-hand, but it works well."
+        },
+        {
+          "es": "No me gusta regatear.",
+          "en": "I don't like haggling."
+        },
+        {
+          "es": "¿Lo tiene en otro tamaño?",
+          "en": "Do you have it in another size?"
+        },
+        {
+          "es": "¿Me lo puede rebajar un poco?",
+          "en": "Can you lower the price a little?"
+        },
+        {
+          "es": "No necesito bolsa, gracias.",
+          "en": "I don't need a bag, thanks."
+        },
+        {
+          "es": "¿Cuánto cuesta esta antigüedad?",
+          "en": "How much is this antique?"
+        },
+        {
+          "es": "Me he dejado el monedero en casa.",
+          "en": "I've left my coin purse at home."
+        }
+      ]
+    },
+    {
       "date": "2026-11-21",
       "words": [
         {
