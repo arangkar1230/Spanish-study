@@ -1,6 +1,93 @@
 {
   "entries": [
     {
+      "date": "2026-11-23",
+      "words": [
+        {
+          "es": "el trueno",
+          "en": "thunder"
+        },
+        {
+          "es": "el relámpago",
+          "en": "lightning (flash)"
+        },
+        {
+          "es": "el granizo",
+          "en": "hail"
+        },
+        {
+          "es": "el chubasco",
+          "en": "rain shower, downpour"
+        },
+        {
+          "es": "lloviznar",
+          "en": "to drizzle"
+        },
+        {
+          "es": "el charco",
+          "en": "puddle"
+        },
+        {
+          "es": "el impermeable",
+          "en": "raincoat"
+        },
+        {
+          "es": "empapado",
+          "en": "soaked, drenched"
+        },
+        {
+          "es": "resbaladizo",
+          "en": "slippery"
+        },
+        {
+          "es": "abrigarse",
+          "en": "to wrap up warm"
+        }
+      ],
+      "sentences": [
+        {
+          "es": "¿Has oído ese trueno?",
+          "en": "Did you hear that thunder?"
+        },
+        {
+          "es": "Está lloviznando; no hace falta paraguas.",
+          "en": "It's drizzling; you don't need an umbrella."
+        },
+        {
+          "es": "Llegué empapado al trabajo.",
+          "en": "I got to work soaked."
+        },
+        {
+          "es": "Cuidado, el suelo está resbaladizo.",
+          "en": "Careful, the floor is slippery."
+        },
+        {
+          "es": "Abrígate bien, que hace mucho frío.",
+          "en": "Wrap up well, it's very cold."
+        },
+        {
+          "es": "Se me olvidó el impermeable en casa.",
+          "en": "I forgot my raincoat at home."
+        },
+        {
+          "es": "Esperemos a que pase el chubasco.",
+          "en": "Let's wait for the shower to pass."
+        },
+        {
+          "es": "Anoche cayó granizo en toda la ciudad.",
+          "en": "Hail fell all over the city last night."
+        },
+        {
+          "es": "No pises el charco.",
+          "en": "Don't step in the puddle."
+        },
+        {
+          "es": "¿Va a llover todo el fin de semana?",
+          "en": "Is it going to rain all weekend?"
+        }
+      ]
+    },
+    {
       "date": "2026-11-22",
       "words": [
         {
