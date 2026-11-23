@@ -1,6 +1,93 @@
 {
   "entries": [
     {
+      "date": "2026-11-24",
+      "words": [
+        {
+          "es": "la escoba",
+          "en": "broom"
+        },
+        {
+          "es": "la fregona",
+          "en": "mop"
+        },
+        {
+          "es": "el recogedor",
+          "en": "dustpan"
+        },
+        {
+          "es": "el tendedero",
+          "en": "clothes drying rack"
+        },
+        {
+          "es": "el candado",
+          "en": "padlock"
+        },
+        {
+          "es": "la funda",
+          "en": "case / cover"
+        },
+        {
+          "es": "la pajita",
+          "en": "drinking straw"
+        },
+        {
+          "es": "la tirita",
+          "en": "band-aid / plaster"
+        },
+        {
+          "es": "el tobillo",
+          "en": "ankle"
+        },
+        {
+          "es": "la rodilla",
+          "en": "knee"
+        }
+      ],
+      "sentences": [
+        {
+          "es": "¿Dónde guardas la escoba y el recogedor?",
+          "en": "Where do you keep the broom and the dustpan?"
+        },
+        {
+          "es": "Voy a pasar la fregona por la cocina.",
+          "en": "I'm going to mop the kitchen."
+        },
+        {
+          "es": "¿Puedo tender la ropa en el tendedero?",
+          "en": "Can I hang the laundry on the drying rack?"
+        },
+        {
+          "es": "Olvidé la combinación del candado.",
+          "en": "I forgot the padlock combination."
+        },
+        {
+          "es": "Necesito una funda nueva para el móvil.",
+          "en": "I need a new phone case."
+        },
+        {
+          "es": "Sin pajita, por favor.",
+          "en": "No straw, please."
+        },
+        {
+          "es": "¿Tienes una tirita? Me he cortado el dedo.",
+          "en": "Do you have a band-aid? I've cut my finger."
+        },
+        {
+          "es": "Me he torcido el tobillo.",
+          "en": "I've twisted my ankle."
+        },
+        {
+          "es": "Me duele la rodilla cuando subo escaleras.",
+          "en": "My knee hurts when I go up stairs."
+        },
+        {
+          "es": "¿Te echo una mano con la limpieza?",
+          "en": "Shall I give you a hand with the cleaning?"
+        }
+      ]
+    },
+    {
       "date": "2026-11-23",
       "words": [
         {
