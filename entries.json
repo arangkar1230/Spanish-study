@@ -1,6 +1,93 @@
 {
   "entries": [
     {
+      "date": "2026-11-25",
+      "words": [
+        {
+          "es": "el champú",
+          "en": "shampoo"
+        },
+        {
+          "es": "el acondicionador",
+          "en": "conditioner"
+        },
+        {
+          "es": "el gel de ducha",
+          "en": "shower gel"
+        },
+        {
+          "es": "el jabón",
+          "en": "soap"
+        },
+        {
+          "es": "el desodorante",
+          "en": "deodorant"
+        },
+        {
+          "es": "el hilo dental",
+          "en": "dental floss"
+        },
+        {
+          "es": "el neceser",
+          "en": "toiletry bag"
+        },
+        {
+          "es": "la maquinilla de afeitar",
+          "en": "razor"
+        },
+        {
+          "es": "afeitarse",
+          "en": "to shave"
+        },
+        {
+          "es": "recortar",
+          "en": "to trim"
+        }
+      ],
+      "sentences": [
+        {
+          "es": "¿Me puedes dejar tu champú?",
+          "en": "Can I borrow your shampoo?"
+        },
+        {
+          "es": "Se me ha acabado el acondicionador.",
+          "en": "I've run out of conditioner."
+        },
+        {
+          "es": "¿Hay gel de ducha en el baño del hotel?",
+          "en": "Is there shower gel in the hotel bathroom?"
+        },
+        {
+          "es": "Lávate las manos con agua y jabón.",
+          "en": "Wash your hands with soap and water."
+        },
+        {
+          "es": "Siempre llevo desodorante en la mochila.",
+          "en": "I always carry deodorant in my backpack."
+        },
+        {
+          "es": "El dentista me recomienda usar hilo dental todos los días.",
+          "en": "The dentist recommends I floss every day."
+        },
+        {
+          "es": "Me he dejado el neceser en el hotel.",
+          "en": "I've left my toiletry bag at the hotel."
+        },
+        {
+          "es": "¿Dónde puedo comprar una maquinilla de afeitar?",
+          "en": "Where can I buy a razor?"
+        },
+        {
+          "es": "No he tenido tiempo de afeitarme esta mañana.",
+          "en": "I didn't have time to shave this morning."
+        },
+        {
+          "es": "Solo quiero recortar un poco las puntas.",
+          "en": "I just want to trim the ends a little."
+        }
+      ]
+    },
+    {
       "date": "2026-11-24",
       "words": [
         {
