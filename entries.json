@@ -1,6 +1,93 @@
 {
   "entries": [
     {
+      "date": "2026-11-26",
+      "words": [
+        {
+          "es": "el escalofrío",
+          "en": "chill, shiver"
+        },
+        {
+          "es": "tiritar",
+          "en": "to shiver"
+        },
+        {
+          "es": "estornudar",
+          "en": "to sneeze"
+        },
+        {
+          "es": "la chimenea",
+          "en": "fireplace; chimney"
+        },
+        {
+          "es": "la leña",
+          "en": "firewood"
+        },
+        {
+          "es": "el radiador",
+          "en": "radiator"
+        },
+        {
+          "es": "el termo",
+          "en": "thermos"
+        },
+        {
+          "es": "el gorro",
+          "en": "beanie, winter hat"
+        },
+        {
+          "es": "la escarcha",
+          "en": "frost"
+        },
+        {
+          "es": "el edredón",
+          "en": "duvet, comforter"
+        }
+      ],
+      "sentences": [
+        {
+          "es": "Hace tanto frío que estoy tiritando.",
+          "en": "It's so cold that I'm shivering."
+        },
+        {
+          "es": "Me dio un escalofrío al salir del metro.",
+          "en": "I got a chill when I came out of the subway."
+        },
+        {
+          "es": "¡Salud! ¿Estás resfriado?",
+          "en": "Bless you! Do you have a cold?"
+        },
+        {
+          "es": "¿Puedes encender el radiador, por favor?",
+          "en": "Can you turn on the radiator, please?"
+        },
+        {
+          "es": "Siempre llevo un termo de té al trabajo.",
+          "en": "I always take a thermos of tea to work."
+        },
+        {
+          "es": "No olvides el gorro, que hace viento.",
+          "en": "Don't forget your hat, it's windy."
+        },
+        {
+          "es": "Esta mañana había escarcha en los coches.",
+          "en": "This morning there was frost on the cars."
+        },
+        {
+          "es": "Necesito un edredón más grueso para el invierno.",
+          "en": "I need a thicker duvet for the winter."
+        },
+        {
+          "es": "Vamos a sentarnos junto a la chimenea.",
+          "en": "Let's sit by the fireplace."
+        },
+        {
+          "es": "¿Quedan castañas para asar?",
+          "en": "Are there any chestnuts left to roast?"
+        }
+      ]
+    },
+    {
       "date": "2026-11-25",
       "words": [
         {
