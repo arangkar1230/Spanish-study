@@ -1,6 +1,93 @@
 {
   "entries": [
     {
+      "date": "2026-11-27",
+      "words": [
+        {
+          "es": "el colador",
+          "en": "strainer, colander"
+        },
+        {
+          "es": "el abrelatas",
+          "en": "can opener"
+        },
+        {
+          "es": "el sacacorchos",
+          "en": "corkscrew"
+        },
+        {
+          "es": "la tabla de cortar",
+          "en": "cutting board"
+        },
+        {
+          "es": "el rallador",
+          "en": "grater"
+        },
+        {
+          "es": "el delantal",
+          "en": "apron"
+        },
+        {
+          "es": "pelar",
+          "en": "to peel"
+        },
+        {
+          "es": "escurrir",
+          "en": "to drain"
+        },
+        {
+          "es": "el táper",
+          "en": "food container (Tupperware)"
+        },
+        {
+          "es": "descongelar",
+          "en": "to defrost, to thaw"
+        }
+      ],
+      "sentences": [
+        {
+          "es": "¿Me pasas el colador para escurrir la pasta?",
+          "en": "Can you pass me the strainer to drain the pasta?"
+        },
+        {
+          "es": "No encuentro el abrelatas por ningún lado.",
+          "en": "I can't find the can opener anywhere."
+        },
+        {
+          "es": "¿Tienes un sacacorchos? Quiero abrir el vino.",
+          "en": "Do you have a corkscrew? I want to open the wine."
+        },
+        {
+          "es": "Usa la tabla de cortar, no la encimera.",
+          "en": "Use the cutting board, not the countertop."
+        },
+        {
+          "es": "¿Pelo las patatas o las dejo con piel?",
+          "en": "Should I peel the potatoes or leave the skin on?"
+        },
+        {
+          "es": "Ponte el delantal, que te vas a manchar.",
+          "en": "Put on the apron, or you'll get stained."
+        },
+        {
+          "es": "Me llevo la comida al trabajo en un táper.",
+          "en": "I take my lunch to work in a food container."
+        },
+        {
+          "es": "Saca el pollo del congelador para descongelarlo.",
+          "en": "Take the chicken out of the freezer to defrost it."
+        },
+        {
+          "es": "¿Te ayudo a poner la mesa?",
+          "en": "Can I help you set the table?"
+        },
+        {
+          "es": "¡Qué bien huele! ¿Qué estás cocinando?",
+          "en": "It smells so good! What are you cooking?"
+        }
+      ]
+    },
+    {
       "date": "2026-11-26",
       "words": [
         {
