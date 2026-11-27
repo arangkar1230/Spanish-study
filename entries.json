@@ -1,6 +1,93 @@
 {
   "entries": [
     {
+      "date": "2026-11-28",
+      "words": [
+        {
+          "es": "el guante",
+          "en": "glove"
+        },
+        {
+          "es": "la estufa",
+          "en": "heater; stove"
+        },
+        {
+          "es": "la sopa",
+          "en": "soup"
+        },
+        {
+          "es": "el calcetín",
+          "en": "sock"
+        },
+        {
+          "es": "el villancico",
+          "en": "Christmas carol"
+        },
+        {
+          "es": "el turrón",
+          "en": "nougat (Spanish Christmas sweet)"
+        },
+        {
+          "es": "resbalar",
+          "en": "to slip"
+        },
+        {
+          "es": "calentar",
+          "en": "to heat up, to warm"
+        },
+        {
+          "es": "la gripe",
+          "en": "flu"
+        },
+        {
+          "es": "el jarabe",
+          "en": "(cough) syrup"
+        }
+      ],
+      "sentences": [
+        {
+          "es": "Se me olvidaron los guantes en casa.",
+          "en": "I forgot my gloves at home."
+        },
+        {
+          "es": "¿Puedes encender la estufa, por favor?",
+          "en": "Can you turn on the heater, please?"
+        },
+        {
+          "es": "¿Me puedes calentar la sopa en el microondas?",
+          "en": "Can you heat up the soup in the microwave for me?"
+        },
+        {
+          "es": "Cuidado, el suelo está mojado y puedes resbalar.",
+          "en": "Careful, the floor is wet and you could slip."
+        },
+        {
+          "es": "Creo que tengo la gripe; me duele todo el cuerpo.",
+          "en": "I think I have the flu; my whole body aches."
+        },
+        {
+          "es": "¿Tiene algún jarabe para la tos?",
+          "en": "Do you have any cough syrup?"
+        },
+        {
+          "es": "Ponte calcetines gruesos, que hace mucho frío.",
+          "en": "Put on thick socks, it's really cold."
+        },
+        {
+          "es": "En diciembre siempre comemos turrón en familia.",
+          "en": "In December we always eat turrón with the family."
+        },
+        {
+          "es": "¿Me avisas cuando llegues?",
+          "en": "Will you let me know when you arrive?"
+        },
+        {
+          "es": "No hace falta que vengas a buscarme.",
+          "en": "You don't need to come pick me up."
+        }
+      ]
+    },
+    {
       "date": "2026-11-27",
       "words": [
         {
